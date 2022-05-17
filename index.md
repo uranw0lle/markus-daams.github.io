@@ -1,3 +1,20 @@
-## Welcome to my GitHubPage
+<!DOCTYPE html>
+<html lang="en">
 
-And here I am.
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- link rel="stylesheet" href="./css/reset.css" media="screen" / -->
+    <link rel="stylesheet" href="./css/style.css" media="screen" />
+
+    <title>Welcome | Start</title>
+</head>
+
+<body>
+
+  <h1> Das ist ein Test</h1>
+</body>
+
+</html>
