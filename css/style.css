@@ -1,0 +1,271 @@
+@import url("../css/reset.css");
+@import url("../css/navigation.css");
+@import url("../css/header.css");
+@import url("../css/card.css");
+@import url("../css/lightbox.css");
+@import url("../css/project.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@300&display=swap');
+
+
+*,
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+    /* Dev Options */
+
+    /* background: rgb(127, 255, 0 / 0.3) !important; */
+    /* outline: 1px solid limegreen; */
+
+}
+
+:root {
+
+    --header-bg-color: hsl(0, 2%, 49%);
+    --headerimage-text-color: hsl(0, 0%, 100%);
+
+    --body-bg-color: hsl(0, 0%, 100%);
+    --section-dark-bg-color: hsl(240, 93%, 11%);
+    --section-darker-bg-color: hsl(240, 10%, 14%);
+    --section-accent-bg-color: hsl(283, 38%, 31%);
+
+    --content-bg-color: hsl(0, 0%, 100%);
+    --header-text-color: hsl(0, 0%, 0%);
+    --font-color-bright: hsl(0, 0%, 100%);
+    --font-color-dark: hsl(0, 0%, 0%);
+
+    --border-line-color: hsl(0, 1%, 22%);
+
+    --font-size-paragraph: 1.5rem;
+    --font-size-h1: clamp(2rem, -0.5rem + 6.333vw, 3.9rem); 
+    --font-size-h2: clamp(2rem, -0.875rem + 8.333vw, 2.5rem);
+    --font-size-h3: clamp(1.5rem, -0.875rem + 8.333vw, 2rem);
+    --font-size-h4: clamp(1.2rem, -0.875rem + 8.333vw, 1.5rem); 
+
+    --line-height-paragraph: 1.5;
+    --font-weight-light: 300;
+    --font-weight-regular: 400;
+    --font-weight-medium: 500;
+    --font-weight-bold: 700;
+
+    --list-bg-color: hsl(44, 86%, 25%);
+}
+
+body {
+    background-color: var(--body-bg-color);
+    font-family: 'Tajawal', sans-serif;
+
+}
+
+h1,
+h2,
+h3,
+h4 {
+
+    line-height: 1;
+}
+
+h2,
+h3,
+h4,
+p {
+
+    margin-bottom: 1em;
+}
+
+.emphasized {
+    font-style: italic;
+}
+
+.illustration__image  {
+    width: clamp(8vh, 50%, 30vh);
+    height: auto;
+    float: right;
+    margin-left: 2vh;
+}
+
+.skillset_svg {
+    display: block;
+    width: 100%;
+    max-width: 60vh;
+    height: auto;
+    margin: 0 auto;
+
+}
+
+.main__content {
+    background-color: var(--content-bg-color);
+
+    margin-inline: auto;
+    width: min(90%, 70vw);
+
+}
+
+.main__items {
+    background-color: var(--body-bg-color);
+}
+
+
+.main__content p, ul {
+    font-size: var(--font-size-paragraph);
+    line-height: var(--line-height-paragraph);
+    font-weight: var(--font-weight-regular);
+}
+
+
+.main__content h2 {
+    font-size: var(--font-size-h2);
+    font-weight: var(--font-weight-light);
+
+}
+
+.main__content h3 {
+    font-size: var(--font-size-h3);
+    font-weight: var(--font-weight-light);
+}
+
+.main__content h4 {
+    font-size: var(--font-size-h4);
+}
+
+section {
+    padding: 2rem;
+    margin: 0.7rem;
+    border-radius: 0.5rem;
+
+
+}
+
+.section__dark {
+    background-color: var(--section-dark-bg-color);
+    color: var(--font-color-bright);
+}
+
+.section__darker {
+    background-color: var(--section-darker-bg-color);
+    color: var(--font-color-bright);
+
+}
+
+.section__accent {
+    background-color: var(--section-accent-bg-color);
+    color: var(--font-color-bright);
+
+}
+
+.footer__container p {
+    padding: 0;
+    margin: 0;
+}
+
+
+.footer__container {
+
+    height: auto;
+
+    margin: 0;
+    padding: 1em;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    font-size: var(--font-size-paragraph);
+
+}
+
+.footer__container a {
+    color: var(--font-color-bright);
+}
+
+
+
+/*Floating Back-To-Top Button*/
+
+.top__button{
+
+    position: fixed;
+    bottom: 10px;
+    float: right;
+    right: 10%;
+    left: 95%;
+
+    width: 5%;
+    height: calc(10vh - 50px);
+    max-height: 50px;
+
+    font-size: var(--font-size-paragraph);
+    text-decoration: none;
+
+    color: var(--font-color-bright);
+    border-color: var(--section-dark-bg-color);
+    background-color: var(--section-dark-bg-color);
+    border-radius: 4px;
+
+    z-index: 100;
+    opacity: 0;
+    transform: translateY(100px);
+    transition: all 0.5s ease;
+
+}
+
+.showBtn {
+    opacity: 1;
+    transform: translateY(0)
+  }
+
+.top__button a {
+    text-decoration: none;
+    color: var(--font-color-bright);
+}
+
+.top__button:hover {
+    background-color: var(--content-bg-color);
+    
+}
+
+.top__button a:hover {
+    color: var(--font-color-dark);
+}
+
+/* Mobile Settings  */
+
+@media screen and (max-width: 720px) {
+
+    .main__content {
+        width: 100%;
+  
+    }
+
+    .footer__container {
+        flex-direction: column;
+    }
+
+
+    section {
+        width: 100%;
+        margin: 0;
+        padding: 1.5vh;
+        border-radius: 0;
+    }
+
+    .top__button {
+        position: fixed;
+        bottom: 0;
+        float: none;
+        right: 0;
+        left: 80vw;
+    
+        width: 20%;
+        height: calc(10vh - 50px);
+        max-height: 50px;
+
+        opacity: 0.5;
+       
+    }
+}
