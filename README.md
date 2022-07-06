@@ -58,7 +58,7 @@ As a customer support person, I have matured here. But I also had the opportunit
 
 When you have something like that, the work is fun, you learn a lot and you grow and grow. That kind of thing is rare, but valuable. 
 
-## And then this
+## And then this ...
 
 But then, one day, the whole world was sent into lockdown. I and many, many other people were suddenly working from home. Even though life came to a standstill, it had to go on. I also decided that I didn't want to stop in my development. 
 
