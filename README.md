@@ -53,3 +53,9 @@ As a customer support person, I have matured here. But I also had the opportunit
 * **GDPR Task Force:** Imagine the EU gives you 2 years to prepare for a drastic change in the data protection set. Now imagine further that you oversleep 729 days out of these 730 days. Then you need supporters to create a lot of tickets in a really short time (I'm talking about 140 tickets per day and per person). This happened everywhere in Europe at the same time. Data protection can be exhausting.
 
 * **Affiliate / Expert Support:** If you have business clients that you value, that bring you lots of customers, and that advertise for you, they deserve the best support you have to offer. That included me, by the way. 
+
+* **Billing & Payment:** You very rarely have the chance to form a team. In this team you can bring all your knowledge and skills. The colleagues are so great, you even start programming tools for them in your spare time. You provide data and insights to other departments through your work. 
+
+When you have something like that, the work is fun, you learn a lot and you grow and grow. That kind of thing is rare, but valuable. 
+
+##
