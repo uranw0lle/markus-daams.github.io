@@ -58,4 +58,24 @@ As a customer support person, I have matured here. But I also had the opportunit
 
 When you have something like that, the work is fun, you learn a lot and you grow and grow. That kind of thing is rare, but valuable. 
 
-##
+## And then this
+
+But then, one day, the whole world was sent into lockdown. I and many, many other people were suddenly working from home. Even though life came to a standstill, it had to go on. I also decided that I didn't want to stop in my development. 
+
+On the very first day at the home office, I made a little deal with myself: 
+
+**The time I spent on the train to work, I now use to learn**
+
+This deal was sacred to me. So I sat down every morning after breakfast and studied. My favorite learning tools were the many online academies that are out there: [Codecademy](https://www.codecademy.com), [Udemy](https://www.udemy.com/de/), [FreeCodeCamp.org](https://www.freecodecamp.org/), [LinkedIn Learning](https://www.linkedin.com/learning/) and many more, the curvew was loooong.  
+
+And what have I learned here? Everything I always wanted to know and be able to do!
+
+* **Web Developmen:** So far I have always done HTML / CSS and Java Script only "a little bit and on the side". But if you want to understand how the Internet really works, there is much more to it. Thanks to Codecademy I was able to learn everything a web developer needs to know. I can really recommend this Career Path.
+
+* **Data Science:** because this programming language is easy to learn, but the possibilities are endless. Data, because at some point in Support you are definitely interested in it. Plus, there was still so much curfew and subscription left at Codecademy, so I worked my way through that Career Path as well. 
+
+* At the end of the two courses, I finally had the skills and background knowledge I always wanted. I can design my own website, I can process, evaluate and analyze data. And I simply understand many things better now. 
+
+*And what did I learn on the other platforms?*
+
+My tip for self-study: Try out different platforms. Sometimes you simply understand a topic better when the form of presentation changes. It's worth constantly testing your newly acquired knowledge. The saying is old but true: You never stop learning.
