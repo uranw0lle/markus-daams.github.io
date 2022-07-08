@@ -105,3 +105,7 @@ But life is not only about working and learning. At least, it shouldn't. Althoug
 * **Sport:** Weight training, jogging, hiking. I do sports every day. I just need it as a balance to the home office, studying, working and everything that is not really good for the body. By the way, I was completely unathletic as a child. It was love that brought me to sports. Romantic, isn't it? Yes, but definitely healthy.
 
 * **Gaming**: I like to play on the PC and my console. But with all the other hobbies and activities, this hobby gets the least time. I just don't have enough of it. It feels like slowly saying goodbye to the best friend of your childhood and youth. You slowly become estranged. But as long as I can, I'm sticking with it.
+---
+ 
+
+[Website](http://www.markus-daams.com) • [My other website](https://daams-markus.jimdosite.com/home-en/) • [GitHub](https://github.com/uranw0lle/markus-daams.github.io) • [Flickr](https://www.flickr.com/photos/uranwolle) • [Xing](https://www.xing.com/profile/Markus_Daams2/cv) • [LinkedIn](https://www.linkedin.com/in/markus-daams/) 
