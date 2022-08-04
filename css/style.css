@@ -49,7 +49,7 @@
     --font-size-h3: clamp(1.5rem, -0.875rem + 8.333vw, 2rem);
     --font-size-h4: clamp(1.2rem, -0.875rem + 8.333vw, 1.5rem); 
 
-    --line-height-paragraph: 1.5;
+    --line-height-paragraph: 1.2;
     --font-weight-light: 300;
     --font-weight-regular: 400;
     --font-weight-medium: 500;
