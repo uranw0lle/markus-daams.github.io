@@ -6,11 +6,18 @@ const controlls = document.createElement('div');
 lightbox.id = 'lightbox';
 controlls.id = 'controlls';
 
-controllsElements = '<button id="previousImage" onclick="previousImage()">Back</button>' +
-                    '<button id="closeButton" onclick="closeImage()">Close</button>'+
-                    '<button id="nextImage" onclick="nextImage()">Next</button>';
+// controllsElements = '<button id="previousImage" onclick="previousImage()">Back</button>' +
+//                     '<button id="closeButton" onclick="closeImage()">Close</button>'+
+//                     '<button id="nextImage" onclick="nextImage()">Next</button>';
                     
 
+controllsElements = '<button id="previousImage">Back</button>' +
+                    '<button id="closeButton">Close</button>'+
+                    '<button id="nextImage">Next</button>';
+
+document.getElementById("previousImage").addEventListener("click", previousImage();
+document.getElementById("closeButton").addEventListener("click", closeImage();
+document.getElementById("nextImage").addEventListener("click", nextImage();   
 
  // Extacting Images paths from images Object                         
 const imageSrc = Object.entries(images);
