@@ -18,7 +18,7 @@ controllsElements = '<button id="previousImage">Back</button>' +
   
 //     document.getElementById("previousImage").addEventListener("click", previousImage());
 //     document.getElementById("closeButton").addEventListener("click", closeImage());
-document.getElementById("nextImage").addEventListener("click", nextImage);   
+
 
 
 
@@ -47,6 +47,8 @@ function showImage() {
     lightbox.appendChild(img);
     lightbox.appendChild(controlls);
     controlls.innerHTML = controllsElements;
+  
+    document.getElementById("nextImage").addEventListener("click", nextImage);   
 
 }
 
