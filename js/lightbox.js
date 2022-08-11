@@ -16,11 +16,9 @@ controllsElements = '<button id="previousImage">Back</button>' +
                     '<button id="nextImage">Next</button>';
 
   
-//     document.getElementById("previousImage").addEventListener("click", previousImage());
-//     document.getElementById("closeButton").addEventListener("click", closeImage());
-
-
-
+document.getElementById("nextImage").addEventListener("click", nextImage);   
+document.getElementById("previousImage").addEventListener("click", previousImage);
+document.getElementById("closeButton").addEventListener("click", closeImage);
 
  // Extacting Images paths from images Object                         
 const imageSrc = Object.entries(images);
@@ -47,8 +45,6 @@ function showImage() {
     lightbox.appendChild(img);
     lightbox.appendChild(controlls);
     controlls.innerHTML = controllsElements;
-  
-    document.getElementById("nextImage").addEventListener("click", nextImage);   
 
 }
 
