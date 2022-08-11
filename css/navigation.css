@@ -48,7 +48,7 @@
 .profile__image{
     background-image: url("/assets/profile_image.jpg");
     background-color: var(--header-bg-color);
-    height: 7em;
+    height: 4rem;
     width: auto;
     border-radius: 50%;  
     margin: 0.5em;  
