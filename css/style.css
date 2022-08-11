@@ -58,11 +58,13 @@
     --list-bg-color: hsl(44, 86%, 25%);
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: var(--body-bg-color);
     font-family: 'Tajawal', sans-serif;
-    
-    scroll-behavior: smooth;
 
 }
 
