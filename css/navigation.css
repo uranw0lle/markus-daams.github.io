@@ -3,7 +3,7 @@
     --nav-item-color: hsl(230, 10%, 36%);
     --nav-item-hover-color: hsl(234, 21%, 35%);
 
-    --nav-items-font-size: clamp(1.2rem, -0.875rem + 8.333vw, 1.9rem); 
+    --nav-items-font-size: clamp(1.2rem, -0.875rem + 8.333vw, 1.4rem); 
 }
 
 .navigation__container {
