@@ -43,11 +43,11 @@
 
     --border-line-color: hsl(0, 1%, 22%);
 
-    --font-size-paragraph: 1.5rem;
-    --font-size-h1: clamp(2rem, -0.5rem + 6.333vw, 3.9rem); 
-    --font-size-h2: clamp(2rem, -0.875rem + 8.333vw, 2.5rem);
-    --font-size-h3: clamp(1.5rem, -0.875rem + 8.333vw, 2rem);
-    --font-size-h4: clamp(1.2rem, -0.875rem + 8.333vw, 1.5rem); 
+    --font-size-paragraph: 1.1rem;
+    --font-size-h1: clamp(2rem, -0.5rem + 6.333vw, 3rem); 
+    --font-size-h2: clamp(1.8rem, -0.875rem + 8.333vw, 2rem);
+    --font-size-h3: clamp(1.3rem, -0.875rem + 8.333vw, 1.5rem);
+    --font-size-h4: clamp(1.1rem, -0.875rem + 8.333vw, 1.2rem); 
 
     --line-height-paragraph: 1.2;
     --font-weight-light: 300;
