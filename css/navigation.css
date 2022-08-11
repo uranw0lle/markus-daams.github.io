@@ -59,7 +59,7 @@
 .navigation__logo {
     display: flex;
 
-    font-size: clamp(1rem, -0.875rem + 8.333vw, 3rem); 
+    font-size: clamp(1rem, -0.875rem + 8.333vw, 1.5rem); 
     color: var(--nav-item-color);
     font-weight: bold;
     min-width: 5ch;
