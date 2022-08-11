@@ -18,7 +18,7 @@ controllsElements = '<button id="previousImage">Back</button>' +
   
 //     document.getElementById("previousImage").addEventListener("click", previousImage());
 //     document.getElementById("closeButton").addEventListener("click", closeImage());
-//     document.getElementById("nextImage").addEventListener("click", nextImage());   
+document.getElementById("nextImage").addEventListener("click", nextImage);   
 
 
 
