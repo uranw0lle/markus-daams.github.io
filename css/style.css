@@ -201,7 +201,7 @@ section {
     left: 95%;
 
     width: 5%;
-    height: calc(10vh - 50px);
+/*     height: calc(10vh - 50px); */
     max-height: 50px;
 
     font-size: var(--font-size-paragraph);
