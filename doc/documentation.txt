@@ -1,0 +1,35 @@
+### Server start
+bundle exec jekyll s
+
+### Abmessungen
+Jekyll Post-Header-Abmessungen: 1200 x 630
+
+# Im Post wird der Header so eingebunden:
+image:
+  path: /assets/img/post-header/XXX.png
+  alt: Der Alternative Text ist wichtig
+---
+
+### Mehrere Bilder unter Linux mit ImageMagic skalieren:
+
+mkdir resized
+mogrify -resize 1200x -quality 85 -path ./resized/ *.jpg 
+
+### Bild und Bild-Unterschrift (VS Code unterstützt hier Drag and Drop. Shift Tast gedrück halten für Markdown Umwandlung). Shadow ist optional.
+
+![Tolles Bild](../assets/img/XXX.png){: .shadow }
+_Was für ein tolles Bild_
+
+### Info Tooltip
+
+> Hinter diesem Kleinerzeichen steht ein toller Tip
+{: .prompt-tip}
+
+> Hinter diesem Kleinerzeichen steht eine tolle Info
+{: .prompt-info}
+
+> Hinter diesem Kleinerzeichen steht eine Warnung
+{: .prompt-warning}
+
+> Hinter diesem Kleinerzeichen steht eine Gefahr
+{: .prompt-danger}
