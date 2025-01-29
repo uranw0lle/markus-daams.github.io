@@ -4,7 +4,7 @@ title: "Entspannen in Hamburg"
 date: 2025-01-15 11:31:17 +0100
 category: spots
 author: 
-tags: [hamburg, natur, spots]
+tags: [hamburg, natur, spots, fotografie]
 description: "Ab in die Boberger Niederungen. Entspannen kann man auch in der Großstadt."
 image:
   path: /assets/img/post-header/boberg-header.png
