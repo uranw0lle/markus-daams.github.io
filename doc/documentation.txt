@@ -1,3 +1,6 @@
+### Offizielle Projektseite / How to write a post 
+https://chirpy.cotes.page/posts/write-a-new-post/#syntax
+
 ### Server start
 bundle exec jekyll s
 
