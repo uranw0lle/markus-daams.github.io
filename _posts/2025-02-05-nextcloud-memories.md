@@ -1,6 +1,6 @@
 ---
 layout: 
-title: "Nextcloud-memories"
+title: "Nextcloud - Memories"
 date: 2025-02-05 08:27:31 +0100
 category: selfhosting
 author: 
@@ -13,7 +13,7 @@ image:
 
 # Nextcloud Memories 
 
-In der letzten Woche habe ich in [diesem Artikel](https://markus-daams.com/posts/immich-fotos-und-videos-selbst-hosten/) „Immich“ vorgestellt, welches ich aktuell nutze, um meine Fotos und  Videos selbst zu hosten. 
+In der letzten Woche habe ich in [diesem Artikel](https://markus-daams.com/posts/immich-fotos-und-videos-selbst-hosten/) „Immich“ vorgestellt, welches ich aktuell nutze, um meine Fotos und Videos selbst zu hosten. 
 
 Bei meiner Suche nach einer passenden Lösung bin ich zuvor jedoch auf eine Nextcloud-App gestoßen, mit welcher sich ähnliche Ergebnisse erzielen lassen.
 
