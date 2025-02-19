@@ -15,7 +15,7 @@ image:
 
 ### Mehrere Bilder unter Linux mit ImageMagic skalieren:
 
-mkdir resized && mogrify -resize 1200x -quality 85 -path ./resized/ *.jpg 
+mkdir resized && mogrify -resize 1400x -quality 85 -path ./resized/ *.jpg 
 
 ### Bild und Bild-Unterschrift (VS Code unterstützt hier Drag and Drop. Shift Tast gedrück halten für Markdown Umwandlung). Shadow ist optional.
 

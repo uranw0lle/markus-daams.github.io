@@ -45,7 +45,7 @@ Diese Liste ließe sich noch lange fortsetzen. Aber was sind Worte! Legen wir do
 
 
 ## Installation von Marimo
-
+v
 **Marimo** lässt sich natürlich lokal installieren. Hierzu ist aber zu beachten, dass Python installiert sein muss. Die Installation ist dann einfach:
 
 ```terminal
