@@ -2,7 +2,7 @@
 layout: 
 title: "Hamburger Wattenmeer"
 date: 2025-02-19 08:17:35 +0100
-category: 
+category: spots
 author: 
 tags: [hamburg, natur, spots, fotografie]
 description: "Ein Flecken Hamburg, mitten in der Nordsee."
@@ -94,7 +94,7 @@ Das Wasser ist weg, aber dennoch gibt es im Wattenmeer [Priele](https://de.wikip
 
 Übrigens, die winzig kleinen spaghettiförmigen Sandhügel, die man überall sieht, sind die Verdauungsreste des [Wattwurms](https://de.wikipedia.org/wiki/Wattwurm). Keine Sorge, diese ernähren sich durch den Sand und reinigen diesen. Das Wattenmeer ist ein sehr diverses und komplexes Ökosystem, das man riechen, hören und fühlen kann.
 
-> Es empfiehlt sich auf jeden Fall Sonnenschutz,denn das Watt reflektiert die Sonne.
+> Es empfiehlt sich auf jeden Fall Sonnenschutz, denn das Watt reflektiert die Sonne.
 {: .prompt-tip}
 
 ## Wo bitte geht es nach Hamburg?
