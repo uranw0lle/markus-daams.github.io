@@ -4,7 +4,7 @@ title: "Runtipi - Self-Hosting einfach gemacht"
 date: 2025-01-22 08:51:41 +0100
 category: selfhosting
 author: 
-tags: [coding, selfhosting]
+tags: [coding, selfhosting, runtipi]
 description: "Runtipi vereinfacht viele Routinen beim Self-Hosting. Einen kurzen Überblick gebe ich in diesem Artikel."
 image:
   path: /assets/img/post-header/runtipi-header.png

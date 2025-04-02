@@ -4,7 +4,7 @@ title: "immich - Fotos und Videos selbst hosten"
 date: 2025-01-29 08:42:08 +0100
 category: selfhosting
 author: 
-tags: [selfhosting, fotografie]
+tags: [selfhosting, fotografie, runtipi]
 description: "immich ist eine moderne Foto- und Videoverwaltung zum selbst hosten. In diesem Artikel stelle ich Immich kurz vor."
 image:
   path: /assets/img/post-header/header-immich.png

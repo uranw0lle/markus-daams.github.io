@@ -4,7 +4,7 @@ title: "Entspannen mit Moodist"
 date: 2025-03-26 08:51:40 +0100
 category: 
 author: 
-tags: [selfthosting, quicktipp]
+tags: [selfthosting, quicktipp, runtipi]
 description: "Quicktipp: Entspannung zum selbst hosten. Wie das geht, erklärt dieser Artikel"
 image:
   path: /assets/img/post-header/header-moodist.jpg

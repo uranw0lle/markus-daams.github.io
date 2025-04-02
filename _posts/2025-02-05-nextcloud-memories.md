@@ -4,7 +4,7 @@ title: "Nextcloud - Memories"
 date: 2025-02-05 08:27:31 +0100
 category: selfhosting
 author: 
-tags: [selfhosting, fotografie, nextcloud]
+tags: [selfhosting, fotografie, nextcloud, runtipi]
 description: "Mit Nextcloud lassen sich Fotos und Videos selbst hosten. In diesem Artikel möchte ich die Nextcloud Memories App kurz vorstellen."
 image:
   path: /assets/img/post-header/header-memories.jpg
