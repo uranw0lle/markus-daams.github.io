@@ -30,7 +30,7 @@ Wer also neugierig ist, wie sich die Natur einen einst militärisch genutztes Ge
 
 ## Die Geschichte des Höltigbaums
 
-Die Geschichte des Höltigbaums beginnt mit viel Unrecht. Der Gutsbesitzer des "Guts Höltigbaums" wurde von der Wehrmacht in den 1930ger Jahren enteignet. Die Wehrmacht nutze das Areal als Übungsplatz. Gegen Ende des Zweiten Weltkrieges kam es hier auch zu Exekutionen von Kriegsgefangenen, Kriegsdienstverweigerern und angeblichen Fahnenflüchtigen. Eine leider etwas versteckte Gedenktafel erinnert noch heute an diese Verbrechen.
+Die Geschichte des Höltigbaums beginnt mit viel Unrecht. Der Gutsbesitzer des "Guts Höltigbaum" wurde von der Wehrmacht in den 1930ger Jahren enteignet. Die Wehrmacht nutze das Areal als Übungsplatz. Gegen Ende des Zweiten Weltkrieges kam es hier auch zu Exekutionen von Kriegsgefangenen, Kriegsdienstverweigerern und angeblichen Fahnenflüchtigen. Eine leider etwas versteckte Gedenktafel erinnert noch heute an diese Verbrechen.
 
 Nach dem Zweiten Weltkrieg haben kurzzeitig britische Soldaten den Höltigbaum als Schießübungsplatz verwendet.
 
@@ -57,7 +57,7 @@ _Auch Gewässer gibt es im Höltigbaum._
 
 Für die Anreise empfehle ich, wie immer, die Öffis. Ab dem Bahnhof Rahlstedt nimmt man den **Metrobus 29** in Richtung Bergedorf. Die Haltestelle heißt dann auch **"Naturschutzgebiet Höltigbaum (NSG Höltigbaum)"**. Man kann den Bus also auch von Bergedorf in Richtung Rahlstedt nehmen. 
 
-Man kann ab der Bushaltestelle einfach in Richtung Natur gehen, man kann sie nicht übersehen. Eine genaue Wegbeschreibung findet sich aber [hier](https://www.hoeltigbaum.de/footer/anfahrt).
+Ab der Bushaltestelle kann man dann einfach in Richtung Natur gehen, diese ist nicht von dort nicht zu übersehen. Eine genaue Wegbeschreibung findet sich [hier](https://www.hoeltigbaum.de/footer/anfahrt).
 
 ## Die Landschaft
 

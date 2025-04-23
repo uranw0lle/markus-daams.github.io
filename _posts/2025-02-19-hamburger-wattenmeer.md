@@ -81,7 +81,7 @@ Das Wasser geht schnell, aber genauso schnell kommt es wieder. Und aus einem "da
 
 **Unter [diesem Link](https://kuestengefluester-nordsee.de/freizeit-kultur/zehn-tipps-fuer-eine-sichere-wattwanderung/) findest du 10 Tipps für eine sichere Wattwanderung.**
 
- Außerdem gibt es in Cuxhaven auch [geführte Wattwanderungen](https://www.nordseeheilbad-cuxhaven.de/entdecken/mitmachen/wattwanderungen). Da lernt man, ganz nebenbei auch was über dieses weltweit absolut einmalige, Ökosystem.
+ Außerdem gibt es in Cuxhaven auch [geführte Wattwanderungen](https://www.nordseeheilbad-cuxhaven.de/entdecken/mitmachen/wattwanderungen). Da lernt man, ganz nebenbei auch was über dieses weltweit absolut einmalige Ökosystem.
 
 ## Im Sommer am schönsten
 
