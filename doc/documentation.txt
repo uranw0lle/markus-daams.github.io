@@ -9,7 +9,7 @@ Jekyll Post-Header-Abmessungen: 1200 x 630
 
 # Im Post wird der Header so eingebunden:
 image:
-  path: /assets/img/post-header/XXX.png
+  path: /assets/img/post-header/XXX.jpg
   alt: Der Alternative Text ist wichtig
 ---
 
@@ -19,7 +19,8 @@ mkdir resized && mogrify -resize 1400x -quality 85 -path ./resized/ *.jpg
 
 ### Bild und Bild-Unterschrift (VS Code unterstützt hier Drag and Drop. Shift Tast gedrück halten für Markdown Umwandlung). Shadow ist optional.
 
-![Tolles Bild](../assets/img/XXX.png){: .shadow }
+![Tolles Bild](../assets/img/XXX.jpg){: .shadow }
+Größe und Position: {: w="300" h="300" .right }
 _Was für ein tolles Bild_
 
 ### Info Tooltip
