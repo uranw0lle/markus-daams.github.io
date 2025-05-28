@@ -8,7 +8,7 @@ tags: [spots, hamburg, fotografie, lieblingsfotos]
 description: "Ich habe viel fotografiert. Nun stelle ich meine Lieblingsfotos vor."
 image:
   path: /assets/img/post-header/header-lieblingsfotos.jpg
-  alt: Fotocollage mit der Überschrift Lieblingsfotos
+  alt: Meine Lieblingsfotos
 ---
 
 # Meine Lieblingsfotos - Zweiter Teil

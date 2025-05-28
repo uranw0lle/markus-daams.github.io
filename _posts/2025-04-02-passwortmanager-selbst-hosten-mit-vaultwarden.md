@@ -8,7 +8,7 @@ tags: [selfhosting, runtipi]
 description: "Wie man den Passwortmanager Vaultwarden selbst hosten kann, erkläre ich in diesem Artikel."
 image:
   path: /assets/img/post-header/header-vaultwarden.jpg
-  alt: Vaultwarden selbst hosten - Header
+  alt: Vaultwarden selbst hosten
 ---
 
 # Der Weg zum selbst gehosteten Passwortmanager

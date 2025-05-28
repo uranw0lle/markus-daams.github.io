@@ -8,7 +8,7 @@ tags: [selfhosting, raspberrypi]
 description: "Mit DietPi lässt sich der RaspberryPi als 'Headless Server' betreiben. Wie das geht, erkläre ich in diesem Artikel."
 image:
   path: /assets/img/post-header/header-dietpi.jpg
-  alt: Header für den Artikel zum Thema Headless Server mit DietPi
+  alt: Headless Server mit DietPi
 ---
 
 # DietPi - eine Diät für den RaspberryPi

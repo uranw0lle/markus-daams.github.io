@@ -8,7 +8,7 @@ tags: [europa, welt]
 description: "Europa ist gerade voll im Trend. Immer mehr Menschen möchten Produkte und Dienste aus der EU kaufen. Zeit, für einen zweiten Artikel."
 image:
   path: /assets/img/post-header/header-buy-european-part2.jpg
-  alt: Buy European Part 2 - Header
+  alt: Buy European Part 2
 ---
 
 # Das gibt es bestimmt auch aus der EU

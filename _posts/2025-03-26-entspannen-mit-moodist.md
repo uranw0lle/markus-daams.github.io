@@ -8,7 +8,7 @@ tags: [selfhosting, quicktipp, runtipi]
 description: "Quicktipp: Entspannung zum selbst hosten. Wie das geht, erklärt dieser Artikel"
 image:
   path: /assets/img/post-header/header-moodist.jpg
-  alt: Moodist - Header
+  alt: Moodist
 ---
 
 # Ozeanwellen direkt vom eigenen Server

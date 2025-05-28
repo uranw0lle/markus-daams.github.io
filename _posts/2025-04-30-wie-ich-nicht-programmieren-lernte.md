@@ -8,7 +8,7 @@ tags: [coding, learning]
 description: "Programmieren lernen fällt mir schwer. Hier nun, was bei mir nicht funktionierte."
 image:
   path: /assets/img/post-header/header-programmieren-lernen.jpg
-  alt: Header - Programmieren lernen
+  alt: Programmieren lernen
 ---
 
 # Aufgeben war zu jeder Zeit eine valide Option

@@ -8,7 +8,7 @@ tags: [selfhosting, coding, proxmox]
 description: "Programmieren muss man üben. Ich baue mir einene eigenen Aktien-Ticker"
 image:
   path: /assets/img/post-header/header-aktienticker.jpg
-  alt: Header für den Aktien-Ticker
+  alt: Der eigene Aktien-Ticker
 ---
 
 ## Warum einen Aktien-Ticker selbst bauen?

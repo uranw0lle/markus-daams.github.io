@@ -8,7 +8,7 @@ tags: [hamburg, natur, spots, fotografie]
 description: "Wo einst die Panzermotoren heulten, kann man heute entspannen. Da muss ich mal hin!"
 image:
   path: /assets/img/post-header/header-hoeltigbaum.jpg
-  alt: Naturschutzgebiet Höltigbaum - Header
+  alt: Naturschutzgebiet Höltigbaum
 ---
 
 # Der Höltigbaum, ein Naturschutzgebiet mit Geschichte

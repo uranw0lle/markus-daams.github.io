@@ -8,7 +8,7 @@ tags: [europa, welt]
 description: "Der tollste Kontinent der Welt rückt in den Fokus. So kann man Europa unterstützen."
 image:
   path: /assets/img/post-header/header-buy-european.jpg
-  alt: Buy European - Header
+  alt: Buy European
 ---
 
 # Gibt's das auch aus der EU?

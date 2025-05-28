@@ -8,7 +8,7 @@ tags: [selfhosting, runtipi, quicktipp]
 description: "Sich selbst zu organisieren ist gerade schwer im Trend. Daher schaue ich mir einmal AFFiNE an."
 image:
   path: /assets/img/post-header/header-affine.jpg
-  alt: AFFiNE Post Header
+  alt: AFFiNE
 ---
 
 # Mit AFFiNE Ordnung ins Chaos bringen

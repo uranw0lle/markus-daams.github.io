@@ -8,7 +8,7 @@ tags: [satire, coding]
 description: "Ich habe einen Clown gefrühstückt, daher gibt es nun diesen Artikel."
 image:
   path: /assets/img/post-header/header-programmiersprachen-sind-halt-so.jpg
-  alt: Header zum Artikel Programmiersprachen sind halt so
+  alt: Programmiersprachen sind halt so
 ---
 
 # Eine Syntax sie alle zu knechten
@@ -26,12 +26,12 @@ JS ist ein leicht angegrauter Kollege, der sich völlig unpassend für sein Alte
 
 ![JavaScript Symbolbild](../assets/img/programmiersprachen/js.jpg){: w="200" h="200" .right }
 
-Und gerne lässt er sich bei schwachsinnigen Antworten ein wenig davontragen. ``"10" - 2`` ergibt *8* ist doch völlig klar. Warum sollte man auch nicht eine Ganzzahl von einem String abziehen können? Sowas machen coole Leute eben, da fragt man nicht nach Sinn und Verstand. Aber nun möchtest du ``"10" + 2`` rechnen? Das ergibt *102*, ist doch logisch. Bei eine Addition wird der String halt, naja, die Zahl kommt hinten dran. Warum? *Weil ist so, verp... dich!*. Und der hört da noch lange nicht auf! `null == undefined` ist `true`, aber `null === undefined` eben `false`. Er hat noch mehr solche Storys auf Lager und ist mit den Leuten beim Drogentest inzwischen perdu. 
-
+Und gerne lässt er sich bei schwachsinnigen Antworten ein wenig davontragen. ``"10" - 2`` ergibt *8*, ist doch völlig klar. Warum sollte man auch nicht eine Ganzzahl von einem String abziehen können? Sowas machen coole Leute eben, da fragt man nicht nach Sinn und Verstand. Aber nun möchtest du ``"10" + 2`` rechnen? Das ergibt *102*, ist doch logisch. Bei einer Addition wird der String halt, naja, die Zahl kommt hinten dran. Warum? *Weil ist so, verp... dich!*. 
+Und der hört da noch lange nicht auf! `null == undefined` ist `true`, aber `null === undefined` ist konsequenterweise `false`. Er hat noch mehr solcher Storys auf Lager und ist mit den Leuten beim Drogentest inzwischen perdu. 
 
 Möchtest du ein wenig Smalltalk mit ihm halten, wird er die Gelegenheit nutzen, dir zu erklären, warum man zwingen `if`, `do`, `while`, `for`, `for of`, `for in` und eigentlich noch sehr viel mehr Schleifen bräuchte. Schleifen sind das pure Leben.
 
-Man nimmt so einen Kollegen halt hin, weil er in wirklich jeder Abteilung was zu tun hat und laufend neuen Kram einführt. *React*, *Angular*, *Vue.js* – man braucht sich nur kurz umdrehen, und er hat schon wieder was Neues fabriziert, um ja unersetzbar zu sein. Klar, ein npm-Paket, das überprüft, ob eine Zahl ungerade ist, hat er auch auf seinem Schreibtisch rumliegen.
+Man nimmt so einen Kollegen halt hin, weil er in wirklich jeder Abteilung was zu tun hat und laufend neuen Kram einführt. *React*, *Angular*, *Vue.js* – man braucht sich nur kurz umdrehen, und er hat schon wieder was Neues fabriziert, um ja unersetzbar zu sein. Klar, ein npm-Paket, das überprüft, ob eine Zahl ungerade ist, hat er auch auf seinem Schreibtisch herumliegen.
 
 ## PHP – Der Soziopath der Programmiersprachen
 

@@ -8,7 +8,7 @@ tags: [proxmox, selfhosting]
 description: "Mit den Proxmox Helper Scripts wird Self Hosting noch einfacher."
 image:
   path: /assets/img/post-header/header-proxmox-helper-scripts.jpg
-  alt: Proxmox Helper Scripts - Header
+  alt: Proxmox Helper Scripts
 ---
 
 # Proxmox - noch etwas einfacher
