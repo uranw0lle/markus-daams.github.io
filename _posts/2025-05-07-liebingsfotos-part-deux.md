@@ -92,7 +92,7 @@ Bei diesem Foto war es so. Ich stand erneut auf der Höhe vom Museumshafen Övel
 
 So, das war also der zweite Teil meiner Lieblingsfotos. Es wird ganz sicher nicht der Letzte gewesen sein, denn ich habe in den vergangenen Jahren viele Fotos gemacht und einige davon mag ich sogar sehr. Diese zeige ich dann mit voller Freude in einem Artikel wie diesen.
 
-Noch ein Hinweis: Viele Meiner Lieblingsfotos finden sich auch auf meinem Profil auf **Flickr** und auf **Pixabay**. Einige davon werde ich in diesem Blog zukünftig vorstellen.
+Noch ein Hinweis: Viele meiner Lieblingsfotos finden sich auch auf meinem Profil auf **Flickr** und auf **Pixabay**. Einige davon werde ich in diesem Blog zukünftig vorstellen.
 
 * [Mein Profil auf Flickr](https://www.flickr.com/photos/uranwolle/)
 
