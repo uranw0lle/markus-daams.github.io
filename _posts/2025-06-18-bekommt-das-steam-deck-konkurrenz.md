@@ -102,7 +102,7 @@ Warten wir ab, was da auf uns zu kommt. Bis dahin: Happy Gaming!
 
 * [Computerbase: "ROG Xbox Ally: Microsoft und Asus stellen Handheld-Xbox mit Windows 11 vor"](https://www.computerbase.de/news/gaming/xbox-ally-microsoft-und-asus-stellen-handheld-xbox-mit-windows-11-vor.93038/)
 
-* [Computerbase: "Microsoft: Vor eigenem Xbox-Handheld soll Windows 11 besser werden"](www.computerbase.de/news/gaming/microsoft-vor-eigenem-xbox-handheld-soll-windows-11-besser-werden.92910/)
+* [Computerbase: "Microsoft: Vor eigenem Xbox-Handheld soll Windows 11 besser werden"](https://www.computerbase.de/news/gaming/microsoft-vor-eigenem-xbox-handheld-soll-windows-11-besser-werden.92910/)
 
 * [Computerbase: "Valve: SteamOS 3.7.8 unterstützt andere Gaming-Handhelds"](https://www.computerbase.de/news/gaming/valve-steamos-3-7-8-unterstuetzt-andere-gaming-handhelds.92834/)
 
