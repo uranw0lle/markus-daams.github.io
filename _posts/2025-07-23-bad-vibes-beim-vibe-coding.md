@@ -34,7 +34,7 @@ Der Copilot legte direkt los. Er hat die nötigen Files angelegt, diese mit Code
 + … kleine Helper-Functions zur Middleware befördert
 + … keine Docstrings oder Kommentare eingefügt
 
-Okay, das war ja auch nur der erste Versuch. Ich habe die Änderungen alle wieder Rückgängig gemacht. Anschließend habe ich **Gemini** befragt. **Gemini** hatte ähnliche Vorschläge wie der **Copilot** , konnte diese aber nicht umsetzen. Ich weiß allerdings nicht warum.
+Okay, das war ja auch nur der erste Versuch. Ich habe die Änderungen alle wieder Rückgängig gemacht. Anschließend habe ich **Gemini** befragt. **Gemini** hatte ähnliche Vorschläge wie der **Copilot**, konnte diese aber nicht umsetzen. Ich weiß allerdings nicht warum.
 
 Nun denn, dann mache ich es fix selbst. Structs ausgelagert, Handler-Funktionen in sinnvolle Module gepackt, die ``main.rs`` angepasst und siehe da, nur noch 45 Zeilen. Anschließend habe ich den **Copilot** gebeten, Kommentare einzufügen, was dann geklappt hat. 
 
