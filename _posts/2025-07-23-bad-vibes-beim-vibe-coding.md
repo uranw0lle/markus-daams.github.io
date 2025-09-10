@@ -2,7 +2,7 @@
 layout: 
 title: "bad vibes beim Vibe Coding"
 date: 2025-07-23 06:50:57 +0200
-category: 
+category: coding
 author: 
 tags: [coding, learning, text]
 description: "Ich habe Vibe Coding ausprobiert und mich blöd angestellt. Hier ist mein zweiter Erfahrungsbericht."

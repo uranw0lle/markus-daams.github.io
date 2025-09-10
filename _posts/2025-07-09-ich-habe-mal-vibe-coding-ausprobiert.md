@@ -2,7 +2,7 @@
 layout: 
 title: "Ich habe mal Vibe Coding ausprobiert"
 date: 2025-07-09 06:53:02 +0200
-category: 
+category: coding
 author: 
 tags: [coding, learning, text]
 description: "Ich habe Vibe Coding ausprobiert und mich blöd angestellt. Hier ist mein erster Erfahrungsbericht."
