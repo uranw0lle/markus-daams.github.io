@@ -23,6 +23,23 @@ mkdir resized && mogrify -resize 1600x -quality 85 -path ./resized/ *.jpg
 Größe und Position: {: w="300" h="300" .right }
 _Was für ein tolles Bild_
 
+### Formatierung
+
+Plain Text für z.B. Scripte 
+```
+```
+
+Shell
+```shell
+```
+
+YAML
+```yaml
+```
+
+Text oben im Code Block durch eigenen ersetzen
+{: file="path/to/file" }
+
 ### Info Tooltip
 
 > Hinter diesem Kleinerzeichen steht ein toller Tip
