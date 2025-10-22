@@ -302,7 +302,7 @@ git push lxc main
 ```
 Fertig. Sobald das Hook-Script feststellt, das im Repo neuer Code ist, checkt es diesen in unser Arbeitsverzeichnis aus und startet das Build-Script. Nachdem das Frontend fertig ist, werden die Files dem Webserver verfügbar gemacht. Das Backend-Binary wird ebenfalls kopiert und dann die entsprechenden Dienste neu gestartet. All das kann viel Zeit in Anspruch nehmen, da gerade der Kompiliervorgang eine Weile dauern kann. Am Ende ist meine App dann aber unter der von mir hinterlegten IP-Adresse erreichbar.
 
-![Das Build Script bei der Arbeit](../assets/img/eigene-app-selfhosting/build-script-braucht-zeit.jpg)
+![Das Build Script bei der Arbeit](/assets/img/eigene-app-selfhosting/build-script-braucht-zeit.jpg)
 _Das Build Script bei der Arbeit (Screenshot: Markus Daams / 2025)_
 
 ## Mein Fazit

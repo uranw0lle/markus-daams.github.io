@@ -76,7 +76,7 @@ Wer **Vaultwarden** also über **Docker** oder **Proxmox** installiert, muss zus
 
 Innerhalb von **Runtipi** wechseln wir in den App Store und suchen nach **Vaultwarden**. Mit einem Klick auf *Install* können wir es installieren. Wichtig! Im Konfigurationsfenster muss ein Passwort für das Admin Panel von **Vaultwarden** hinterlegt werden. Außerdem wird hier auch der Schieberegler für die Verfügbarmachung im lokalen Netzwerk aktiviert.
 
-![Vaultwarden in Runtipi - Konfigurationsfenster](../assets/img/vaultwarden/vaultwarden-konfigurationsfenster.jpg)
+![Vaultwarden in Runtipi - Konfigurationsfenster](/assets/img/vaultwarden/vaultwarden-konfigurationsfenster.jpg)
 _Hier muss ein Adminpanel Passwort hinterlegt werden. Den Schieberegler für das lokale Netzwerk aktivieren wir ebenfalls._
 
 Ist dies erledigt, wird **Vaultwarden** installiert und automatisch gestartet. Theoretisch kann es nun schon genutzt werden, aber wir brauchen ja noch das Zertifikat. 
@@ -139,11 +139,11 @@ Am Beispiel von **Pihole** sei dies einmal kurz erklärt:
 
 Auf der Adminoberfläche klickt man hier auf *Settings* -> *Local DNS Records* und trägt hier die lokale Domain und die IP-Adresse nach.
 
-![Pihole Konfigurationsfenster](../assets/img/vaultwarden/pihole-dns-records.jpg)
+![Pihole Konfigurationsfenster](/assets/img/vaultwarden/pihole-dns-records.jpg)
 _Damit die Namensauflösung klappt, muss der DNS Server wissen, unter welche IP-Adresse er meinen neuen Vaultwarden findet_
 
 Die IP-Adresse ist in diesem Fall die von **Runtipi**. Dieser kümmert sich auch um die automatische Weiterleitung auf den Port, unter dem die neue App, also **Vaultwarden**, läuft. Die Domain ist innerhalb von **Runtipi** unter *Meine Apps* -> *Vaultwarden* -> *Öffnen* zu finden. 
-![Runtipi - Unter dem Menüpunkt öffnen findet sich die vergebene Subdomain](../assets/img/vaultwarden/runtipi-subdomain-herausfinden.jpg)
+![Runtipi - Unter dem Menüpunkt öffnen findet sich die vergebene Subdomain](/assets/img/vaultwarden/runtipi-subdomain-herausfinden.jpg)
 _Unter Menüpunkt 'Öffnen' findet man die vergebene Subdomain der App, in diesem Fall Vaultwarden_
 
 ## Kein Addblocker installiert? Namensauflösung ist so eine Sache
@@ -166,7 +166,7 @@ Besser ist es aber, so etwas im Router einzutragen, da man dann nicht jeden Clie
 Im Anmeldefenster klickt man zu allererst unten auf den Pfeil bei dem Feld *Zugriff auf:*. 
 In dem sich öffnenden Menü nun **selbst gehostet** auswählen.
 
-![Bitwarden - Anmeldefenster. Hier auf selbst gehostet klicken](../assets/img/vaultwarden/vaultwarden-anmeldung.jpg).
+![Bitwarden - Anmeldefenster. Hier auf selbst gehostet klicken](/assets/img/vaultwarden/vaultwarden-anmeldung.jpg).
 _Hier auf den Pfeil klicken und 'selbst gehostet' auswählen_
 
 In dem neuen Fenster gibt man bei *Server-URL* die eigene Domain ein. In meinem Fall lautet diese **https://vaultwarden.tipi.local**. Diese Änderung speichern und ab sofort kann man sich registrieren oder anmelden.

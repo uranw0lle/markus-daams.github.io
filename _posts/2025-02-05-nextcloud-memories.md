@@ -34,7 +34,7 @@ Ist dies erledigt, ist Handarbeit angesagt. Die Macher der Apps empfehlen für d
 
 Einmal installiert und konfiguriert, kann es auch schon los gehen. Als erstes sollte man den Pfad angeben, unter dem die Fotos zu finden sind. Das macht man in den *Einstellungen* der App.
 
-![Nextcloud Einstellungen](../assets/img/nextcloud-memories/memories-einstellungen.jpg)
+![Nextcloud Einstellungen](/assets/img/nextcloud-memories/memories-einstellungen.jpg)
 _Es lassen sich mehrere Pfade hinzufügen._
 
 Ich habe einen eigenen Ordner für meine Fotos und Videos angelegt. Dieser kann dann auch zum automatischen Hochladen (z.B. vom Smartphone) verwendet werden.
@@ -47,14 +47,14 @@ Ich habe einen eigenen Ordner für meine Fotos und Videos angelegt. Dieser kann 
 
 Das Design von **Memories** lehnt sich stark an das der Platzhirsche Microsoft und Google an. Das heißt, man hat als Startseite einen Foto-Stream mit Zeitleiste. So weit, so unspektakulär. 
 
-![Memories: Übersicht](../assets/img/nextcloud-memories/memories-uebersicht.jpg)
+![Memories: Übersicht](/assets/img/nextcloud-memories/memories-uebersicht.jpg)
 _Ein Zeitstrahl, wie man ihn von anderen Diensten kennt._
 
 Wurden die Vorschaubilder (Thumbnails) einmal generiert, lässt es sich bequem durch den Zeitstrahl scrollen. Das fühlt sich auch fluffig und schnell an. 
 
 In der Detailansicht werden die Metadaten des Fotos angezeigt und auch der Ort auf einer eingebetteten Karte, wenn das Foto die entsprechenden Informationen mitliefert.
 
-![Memories: Detailansicht eines Fotos](../assets/img/nextcloud-memories/memories-foto-details.jpg)
+![Memories: Detailansicht eines Fotos](/assets/img/nextcloud-memories/memories-foto-details.jpg)
 _In der Detailansicht finden sich die Metainformationen des Fotos und eine Karte._
 
 ## Was kann Memories noch?
@@ -65,28 +65,28 @@ Die Entwicklung von **Memories** ging sehr zügig von statten, denn mit der in N
 
 Na klar, die Rewind Funktion darf nicht fehlen. Was war heute vor 6 Jahren so los? Der Rewind Banner zeigt mir die entsprechenden Fotos.
 
-![Memories Rewind Funktion](../assets/img/nextcloud-memories/memories-rewind.jpg)
+![Memories Rewind Funktion](/assets/img/nextcloud-memories/memories-rewind.jpg)
 _Im Rewind finden sich Fotos vom aktuellen Kalendertag der vergangen Jahre._
 
 ### „An diesem Tag“
 
 Was ich bei **Memories** wirklich gelungen finde ist, dass es den Rewind als dynamisch erstelltes Album in der Navigation gibt. So werden alle Fotos, die um einem bestimmten Kalendertag herum gemacht wurden, also zum Beispiel der 4. Februar, als Zeitstrahl dargestellt. Allerdings ist in dieser Ansicht nur etwas los, wenn man auch entsprechend viel fotografiert. Zum Schwelgen in der Vergangenheit ist dies echt toll.
 
-![Memories: Rewind als Zeitstrahl ](../assets/img/nextcloud-memories/memories-an-diesem-tag.jpg)
+![Memories: Rewind als Zeitstrahl ](/assets/img/nextcloud-memories/memories-an-diesem-tag.jpg)
 _Eine meiner Lieblingsfunktionen: Der Rewind als dynamisch generierter Zeitstrahl._
 
 ### Die Karten Funktion
 
 Natürlich darf auch eine dynamische Karte nicht fehlen. Diese setzt auf OpenStreetMap auf. Die Miniaturansichten werden, je nach Zoomstufe, gruppiert. Was ich toll gelöst und sogar besser umgesetzt als bei **Immich** finde: Der Zeitstrahl auf der rechten Seite wird dynamisch zur Zoom Stufe erstellt. 
 
-![Memories: Gruppierte Fotos in der Kartenansicht](../assets/img/nextcloud-memories/memories-karte-gruppierte-fotos.jpg)
+![Memories: Gruppierte Fotos in der Kartenansicht](/assets/img/nextcloud-memories/memories-karte-gruppierte-fotos.jpg)
 _In der rechten Spalte werden die sichtbaren Fotos der aktuellen Zoomstufe in einem dynamischen Zeitsrahl gruppiert._
 
 ### Fotos bearbeiten
 
 Auch praktisch: Fotos lassen sich in der Editierfunktion direkt bearbeiten. Man kann die Größe der Fotos ändern, Filter hinzufügen, eine Feinabstimmung (z.B. Sättigung, HSL usw.) vornehmem und die Änderung dann als neues Foto speichern. 
 
-![Memories: Fotos bearbeiten](../assets/img/nextcloud-memories/memories-fotos-bearbeiten.jpg)
+![Memories: Fotos bearbeiten](/assets/img/nextcloud-memories/memories-fotos-bearbeiten.jpg)
 _Hier lässt sich die Größe ändern, aber auch Filter hinzufügen oder die Feinabstimmung vornehmen._
 
 ### Und viel mehr

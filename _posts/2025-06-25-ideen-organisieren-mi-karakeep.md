@@ -40,26 +40,26 @@ Und noch vieles, vieles mehr. Ich bin gespannt, welche Features ich am Ende wirk
 
 Nach der Installation muss ich mich zunächst registrieren, denn Karakeep ist Multiuser-fähig. Nach dem Login finde ich ein leeres Dashboard wieder.
 
-![Karakeep - Leeres Dashboard](../assets/img/karakeep/karakeep-leeres-dashboard.jpg)
+![Karakeep - Leeres Dashboard](/assets/img/karakeep/karakeep-leeres-dashboard.jpg)
 _Karakeep nach dem ersten Start. Viel ist hier noch nicht los._
 
 Einen richtigen "erste Schritte Guide" habe ich auf Anhieb nicht finden können. Daher stürze ich mich selbst ins Abenteuer. Ich lege mir eine Liste für meine Youtube-ein-Video-geht-noch Obsession an. 
 
 Die erste Liste ist schnell erstellt. Ich habe erst einmal „manuelle Liste“ ausgewählt, da ich noch nicht weiß, was genau die „Smart List“ macht. Das finde ich aber auch noch raus.
 
-![Karakeep - Neue Liste anlegen](../assets/img/karakeep/karakeep-neue-liste.jpg)
+![Karakeep - Neue Liste anlegen](/assets/img/karakeep/karakeep-neue-liste.jpg)
 _Dass sich Listen mit einem Emote versehen lassen, finde ich praktisch._
 
 Die Links lassen sich dann ganz einfach über die Weboberfläche in die neue Liste einfügen. Aber das geht sicherlich noch einfacher und schneller. Ich habe mir das gleichnamige Add-on für Firefox installiert. Um es zu nutzen, müssen die Subdomain und die Zugangsdaten eingegeben werden, was schnell erledigt ist. 
 
 Danach kann ich Links direkt im Browser zur entsprechenden Liste hinzufügen und mit Tags versehen.
 
-![Karakeep - Firefox Add-on](../assets/img/karakeep/karakeep-firefox-add-on.jpg){: w="400"}
+![Karakeep - Firefox Add-on](/assets/img/karakeep/karakeep-firefox-add-on.jpg){: w="400"}
 _Links lassen sich im Add-on direkt in die ausgewählte Liste eintragen._
 
 Die erste Liste ist schnell mit Leben gefüllt. Dank dem Add-on im Browser geht das auch schnell und ohne mich aus dem Flow zu reißen.
 
-![Karakeep - Erste Liste mit Inhalt](../assets/img/karakeep/karakeep-neue-liste-mit-inhalt.jpg)
+![Karakeep - Erste Liste mit Inhalt](/assets/img/karakeep/karakeep-neue-liste-mit-inhalt.jpg)
 _YouTube Links werden mit entsprechenden Vorschaubildern erstellt._
 
 Alles läuft, wie erwartet. Ich bin aber neugierig geworden und möchte noch ein paar andere Features ausrpobieren. Da ich mich ja immer mal wieder von einem bestimmten Thema umtreiben lasse, lege ich mir eine neue Liste an und werde sie mit Leben füllen.
@@ -68,7 +68,7 @@ Alles läuft, wie erwartet. Ich bin aber neugierig geworden und möchte noch ein
 
 Meine neue Liste nenne ich "Baryonische akustische Oszillation". Ich mache mich auf die Suche im Internet und füge dann neue Elemente hinzu. 
 
-![Neue Liste mit Inhalt](../assets/img/karakeep/karakeep-neue-liste-mit-inhalt2.jpg)
+![Neue Liste mit Inhalt](/assets/img/karakeep/karakeep-neue-liste-mit-inhalt2.jpg)
 _Alles da, aber die Vorschaubilder werden nicht generiert._
 
 Neue Inhalte lassen sich sehr einfach über das Add-on hinzufügen. Allerdings werden auf meiner neuen Liste keine Vorschaubilder (Thumbnails) generiert. Den Grund dafür konnte ich nicht heraus finden. 

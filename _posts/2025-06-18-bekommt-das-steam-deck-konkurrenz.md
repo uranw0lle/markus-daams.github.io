@@ -30,7 +30,7 @@ Dazu kommt der Vorteil, dass man auf Windows alle bekannten Launcher wie Steam, 
 
 Es scheint unter den Handhelds mit Windows bisher jedoch kein echter Konkurrent entstanden zu sein. Wobei handfeste Zahlen schwer zu ermitteln sind: [*Steam Deck and other handheld PC sales estimated at 6 million* (Link auf PC World.)](https://www.pcworld.com/article/2619311/steam-deck-and-other-handheld-pc-sales-estimated-at-6-million.html)
 
-![Steam OS](../assets/img/steamdeck-konkurrent/steam-os.jpg)
+![Steam OS](/assets/img/steamdeck-konkurrent/steam-os.jpg)
 _Die UI von Steam OS wurde auf die kleine Displaygröße optimiert (Screenshot / Markus Daams / CCO)_
 
 Hier hat das Steam Deck einen entscheidenden Vorteil. Das auf Arch Linux basierende Steam OS wurde von Valve auf die kleine Displaygröße hin optimiert. Auf einen Desktop muss man aber nicht verzichten. Im Desktop-Modus wird ein vollwertiges KDE geladen und das Deck kann als PC genutzt werden. Vave hat die Anwendungsfälle Handheld und Desktop klar getrennt und das kommt der User Experience sehr zugute.
@@ -43,7 +43,7 @@ Bevor es den ersten echten **Xbox Handheld** gibt, möchte man die Zusammenarbei
 
 Viel interessanter ließ sich die Ankündigung, dass Windows von Microsoft auf diese Geräteklasse hin optimiert werden soll. Dies möchte man auf zwei Wegen erreichen. Zum einen soll es eine neue Oberfläche geben, die „Xbox Full Screen Experience“. Das Design lehnt sich an die bekannte Xbox-Oberfläche an. 
 
-![Xbox Gaming Experience](../assets/img/steamdeck-konkurrent/xbox-fullscreen-experience.jpg)
+![Xbox Gaming Experience](/assets/img/steamdeck-konkurrent/xbox-fullscreen-experience.jpg)
 _Xbox Gaming Experience (Quelle: Microsoft)_
 
 Aber auch unter der Haube möchte man Hand anlegen. Sobald sich Windows im Handheld-Modus befindet, sollen Dienste wie zum Beispiel die Windows-Suche, oder der Copilot deaktiviert werden. Auf diesem Wege möchte man bis zu 2 GB RAM für das Gaming freigeben. 

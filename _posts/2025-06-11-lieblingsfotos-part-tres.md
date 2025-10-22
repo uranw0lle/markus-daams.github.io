@@ -20,7 +20,7 @@ Also, gehen wir los.
 
 ## Die Außenalster
 
-![Die Außenalster](../assets/img/lieblingsbilder-part3/aussenalster.jpg)
+![Die Außenalster](/assets/img/lieblingsbilder-part3/aussenalster.jpg)
 _Die Außenalster mit Blick in Richtung Nord-West (2013 / Markus Daams / CC0)_
 
 Als ich mit dem Fotografieren anfing, experimentierte ich munter darauf los. Da ist natürlich viel Ausschuss entstanden, denn ich hatte viel Lust, aber bemerkenswert wenig Ahnung. Ich kaufte auch allerhand Zubehör, darunter Polarisationsfilter. Einen davon fand ich sofort spannend, da er die Blautöne deutlich hervorhob. Also wartete ich geduldig ab, bis wir in Hamburg wieder Kaiserwetter hatten und zog sofort los.
@@ -35,7 +35,7 @@ Ja, die Alster ist von Anfang bis Ende ein Fluss. Sie sieht hier nur aus wie ein
 
 ## Der Alte Elbtunnel
 
-![Der Alte Elbtunnel](../assets/img/lieblingsbilder-part3/alter-elbtunnel.jpg)
+![Der Alte Elbtunnel](/assets/img/lieblingsbilder-part3/alter-elbtunnel.jpg)
 _Der Alte Elbtunnel, mit Blick in Richtung Süden (2022 / Markus Daams / CC0)_
 
 Der 'Alte Elbtunnel' hat eine beeindruckende Karriere hinter sich. 1907 wurde mit dem Bau begonnen, 1911 offiziell eröffnet und galt zu dieser Zeit als technische Meisterleistung. Seit diesem Tag diente er zunächst den vielen tausend Hafenarbeitern als trockene Passage von einem Elbufer zum anderen, in jüngerer Zeit dann vor allem Touristen. 
@@ -48,7 +48,7 @@ Langsamfahrer im neuen Elbtunnel nennt man hier scherzhaft „Fliesenzähler“.
 
 **Warum ist das eines meiner Lieblingsfotos?** Ich habe den Alten Elbtunnel öfters fotografiert. Aber keines der Fotos hatte mich überzeugten können. Bis auf dieses. Hier stimmt das Licht und der Ausschnitt. Das Foto zeigt den Tunnel so, wie ich ihn auch in meiner Erinnerung aufbewahre. Und wer diese architektonische Meisterleistung kennt, weiß, wie selten es ist, dass er mal leer ist.
 
-![Hamburg Grafito](../assets/img/lieblingsbilder-part3/hamburg-grafito.jpg)
+![Hamburg Grafito](/assets/img/lieblingsbilder-part3/hamburg-grafito.jpg)
 _Ein Kunstwerk, mitten im Hafen. Hier ist es der Fähranleger Argentinienbrücke (2022 / Markus Daams / CC0)_
 
 Meine Wandertouren wurden mit der Zeit immer ausgiebiger. Ich begann dann irgendwann das andere Elbufer zu erkunden. Auf dem südlichen Elbufer beginnt der eigentliche Hamburger Hafen. Hier finden sich also die Industrie und die sonstige Hafenwirtschaft. Verbunden ist das Gebiet vor allem durch Straßen und viele, viele Brücken.
@@ -61,7 +61,7 @@ An den Wochenenden ist es relativ ruhig im Hafen. Dementsprechend gerne bin ich 
 
 ## Sonnenuntergang im Hafen
 
-![Sonnenuntergang im Hafen](../assets/img/lieblingsbilder-part3/sonnenuntergang-im-hafen.jpg)
+![Sonnenuntergang im Hafen](/assets/img/lieblingsbilder-part3/sonnenuntergang-im-hafen.jpg)
 _Sonnenuntergang im Hafen von Hamburg (2014 / Markus Daams / CC0)_
 
 Hamburgs Sonnenauf- und Untergänge können wirklich atemberaubend sein. Dieser Satz soll keine Schwärmerei sein, oder zumindest nur ein bisschen. Wer so etwas einmal erlebt, braucht sich dann nur umzuschauen. Dann zücken alle möglichen Menschen ihre Handys und Fotoapparate und versuchen den erlebten Moment irgendwie festzuhalten. Was man dann erlebt ist eine Symbiose aus Stadt und Licht. 
@@ -74,7 +74,7 @@ Bevor die Sonne dann ganz hinter dem Horizont verschwindet, wird die Stadt und d
 
 ## Fährmann, hol' röver
 
-![Fähre 62 auf dem Weg nach Finkenwerder](../assets/img/lieblingsbilder-part3/faehre-62.jpg)
+![Fähre 62 auf dem Weg nach Finkenwerder](/assets/img/lieblingsbilder-part3/faehre-62.jpg)
 _Die Fähre 62 legt von Neumühlen / Övelgönne ab (2015 / Markus Daams / CC0)_
 
 Ist die Sonne in Hamburg einmal untergegangen, erobert ein dunkler Blauton noch einmal kurz den Himmel von der Farbe Orange zurück, bevor die schwärze der Nacht die Szene übernimmt. Das ist die letzte Phase der „blauen Stunde“, die ich ebenfalls sehr mag. 

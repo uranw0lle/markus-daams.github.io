@@ -24,7 +24,7 @@ Jede Programmiersprache hat so ihre Eigenheiten. Und wenn ich mal wieder verzwei
 
 JS ist ein leicht angegrauter Kollege, der sich völlig unpassend für sein Alter anzieht. Er hat Skater-Klamotten an und versucht krampfhaft auf jung zu machen. Trotzdem, oder vielleicht auch deswegen, versucht er immer hilfreich zu sein und schießt dabei sehr oft völlig übers Ziel hinaus. Die Worte *nichts* und *gar nichts* sind für ihn zwei fundamental unterschiedliche Begriffe. Denn wenn man ``null`` und ``undefined`` nicht unterscheiden kann, dann hat man das Konzept von "Nichts" einfach nicht verstanden. 
 
-![JavaScript Symbolbild](../assets/img/programmiersprachen/js.jpg){: w="200" h="200" .right }
+![JavaScript Symbolbild](/assets/img/programmiersprachen/js.jpg){: w="200" h="200" .right }
 
 Und gerne lässt er sich bei schwachsinnigen Antworten ein wenig davontragen. ``"10" - 2`` ergibt *8*, ist doch völlig klar. Warum sollte man auch nicht eine Ganzzahl von einem String abziehen können? Sowas machen coole Leute eben, da fragt man nicht nach Sinn und Verstand. Aber nun möchtest du ``"10" + 2`` rechnen? Das ergibt *102*, ist doch logisch. Bei einer Addition wird der String halt, naja, die Zahl kommt hinten dran. Warum? *Weil ist so, verp... dich!*. 
 Und der hört da noch lange nicht auf! `null == undefined` ist `true`, aber `null === undefined` ist konsequenterweise `false`. Er hat noch mehr solcher Storys auf Lager und ist mit den Leuten beim Drogentest inzwischen perdu. 
@@ -39,7 +39,7 @@ PHP ist ein alter, grauer Kumpane, der mitten in den Büros herumsteht und in di
 
 Mit PHP willst du eigentlich kein Gespräch beginnen. Er fängt dann nämlich gerne Mal an, Gruselgeschichten zu erzählen. `1 == true` ergibt `true`, `0 == false` ergibt `true`, aber `1 === true` ergibt `false`. Bruder was? Er denkt, er ist hilfreich aber man versucht instinktiv zu erschnüffeln, ob er wieder einen sitzen hat.
 
-![PHP Symbolbild](../assets/img/programmiersprachen/php.jpg){: w="200" h="200" .left }
+![PHP Symbolbild](/assets/img/programmiersprachen/php.jpg){: w="200" h="200" .left }
 
 Und wenn er dann in Fahrt gekommen ist, dann geht es richtig rund. Dann erklärt er stolz und selbstsicher, das **Arrays** ja eigentlich **Listen** sind. Und **Maps**. Aber halt auch wieder **Arrays**. Und wenn dann eine der jungen Praktikantinnen unwissentlich fragt, was es denn für tolle Methoden gibt, dann beginnt er einen Sermon zu `str_replace`, `strpos` und `array_push` und warum diese sich so völlig wirr und unterschiedlich benehmen. Sollte die Praktikantinnen dann weinen, wird er sie versuchen zu trösten, mit einer echten Creep-Story über `$GLOBALS`, `$_GET`, `$_POST`  und `$_SESSION` und warum es total erregend ist, alles global verfügbar zu machen. Scope ist doch nur was für Ministranten und Sitzpinkler. PHP wird öfters mal ins HR zitiert und niemanden wundert das.
 
@@ -51,7 +51,7 @@ C# ist der Kollege, der auf "Guten Tag" oder "Willst du noch Kaffee" mit "Ich wa
 
 Auch wenn sich C# modern gibt und viele moderne Trends mitmacht, ist er halt auch gerne mal verbohrt und stur wie ein Esel. Daher ist er auch ein echt unangenehmer Zeitgeist. Für ihn ist ausnahmslos alles ein **Object**. Du bittest ihn, dir aus der Küche einen Kaffee mitzubringen? Er wird dich dann im Gegenzug bitten, die *zu dieser Bitte gehörende Küche und Kaffeemaschine* zu bauen. Hast du es gerade geschafft, dich an diese Marotte zu gewöhnen, kommt er mit `structs` um die Ecke. Weil Werte kann man ja auch so kapseln. Aber ansonsten ist ausnahmslos alles ein **Object**!.
 
-![C Sharp Symbolbild](../assets/img/programmiersprachen/csharp.jpg){: w="200" h="200" .right }
+![C Sharp Symbolbild](/assets/img/programmiersprachen/csharp.jpg){: w="200" h="200" .right }
 
 C# ist auch einer dieser Kollegen, der alle drei Wochen auf einem Fortbildungsseminar ist. Dann kommt er mit tollen neuen Skills und Buzzwords wie **Async/Await**, **LINQ**, **Generics**, **Delegates**, **Events** um die Ecke. Er hat dann auf wirklich alles eine Antwort, auch wenn sie gerade nicht zu der Frage passt. Sein Skillset liest sich wie ein Buch von Dostojewski. Ein höheres Gehalt bekommt er aber dennoch nicht. Er hängt dann gerne auch in anderen Abteilungen rum, wie z.B. Linux, aber auch Mobile oder Mac. Aber er passt da nicht wirklich rein und das ist für alle peinlich, nur nicht für ihn.
 
@@ -67,7 +67,7 @@ Den ersten Fehler begehst du, wenn du Rust nach einer kurzen Information fragst.
 
 Er erwischt dich dabei, wie du den Kugelschreiber einfach auf den Tisch legst, anstatt ihn zurück in die ursprüngliche Verpackung zu stecken? Mach dich auf ein Epos über deinen Fehler gefasst. Er wird dir dann nicht nur minutiös erzählen, was du alles falsch gemacht hast, du bekommst ein Aufbau- und Fortgeschrittenenseminar zum Thema *Unfallverhütung im Umgang mit gerade benutzen Kugelschreibern* hinterher geschoben. Ob du willst, oder nicht. 
 
-![Rust Symbolbild](../assets/img/programmiersprachen/rust.jpg){: w="200" h="200" .left }
+![Rust Symbolbild](/assets/img/programmiersprachen/rust.jpg){: w="200" h="200" .left }
 
 Stell dir vor, jemand hat alle Finanzbeamte und TÜV-Prüfer dieser Welt zusammen getan, komprimiert und konzentriert, das ist Rust. Du kannst ihn nicht einfach fragen, wie spät es ist. Er wird dir wegen so einer beleidigenden Frage direkt eine scheuern und dich eigenhändig zum HR zerren. Du musst ihn fragen, welche Werte die Uhr an seinem rechten Arm gerade anzeigt und in welcher Form du diese Daten zurück haben möchtest. Hast du bei deiner Frage nur den kleinsten Fehler gemacht, bekommst du einen epischen Vortrag, eine gescheuert, wirst ebenfalls zum HR gezerrt, praktisch jede Konversation endet so.
 
@@ -79,7 +79,7 @@ Die Unternehmensführung besteht darauf, dass Rust gekommen ist, um zu bleiben. 
 
 Python ist der coole Dude, mit dem man eigentlich gerne herumhängt. Er ist absolut tiefenentspannt und sieht sich selbst eher als Hippie. Das glaubt man ihm und riecht es auch. 
 
-![Python Symbolbild](../assets/img/programmiersprachen/python.jpg){: w="200" h="200" .right }
+![Python Symbolbild](/assets/img/programmiersprachen/python.jpg){: w="200" h="200" .right }
 
 Er hat allerdings auch so seine Eigenheiten, mit denen man lernen muss, umzugehen. Sein Schreibtisch ist akkurat organisiert, denn er besteht auf eine exakte Anzahl von **Whitespaces** zwischen den verschiedenen Dingen. Legt man da zum Beispiel einen Aktenordner falsch ab, kann es passieren, das er anfängt zu weinen. Er wird dir dann aber nicht sagen, dass es am Ordner liegt, sondern, dass er auf einmal die Stifte nicht mehr erreichen kann. Viel Spaß, da durchzusteigen.
 
@@ -93,7 +93,7 @@ Dass er dabei so schnell ist wie eine Schildkröte, die sich durch Honig bewegt,
 
 C ist ein alter Veteran und kann dir Geschichten aus Zeiten erzählen, als Computer *so groß wie Kühlschränke* waren. Er wird dann aber skeptisch vom Kollegen Cobol angeschaut.
 
-![C Symbolbild](../assets/img/programmiersprachen/c.jpg){: w="200" h="200" .left }
+![C Symbolbild](/assets/img/programmiersprachen/c.jpg){: w="200" h="200" .left }
 
 Wenn man mit ihm zu tun haben muss, wird es entweder nervig, lustig, oder richtig anstrengend. Häufig aber alles auf einmal. 
 
@@ -112,7 +112,7 @@ Bei C++ fragen sich alle anderen Kollegen, ob die Eltern bei der Zeugung auf Pil
 
 Bittet man den Kollegen C++ um Hilfe, muss man ihm zuerst in einem Büro sagen, um was es geht. Anschließend muss man mit ihm das Zimmer wechseln, um ihm dann zu erzählen, wie er das Problem angehen soll. Sein **Header Dateien** Spleen ist völlig bescheuert, aber so tickt er nun mal. 
 
-![C Plus Plus Symbolbild](../assets/img/programmiersprachen/cplusplus.jpg){: w="200" h="200" .right }
+![C Plus Plus Symbolbild](/assets/img/programmiersprachen/cplusplus.jpg){: w="200" h="200" .right }
 
 Wirklich lustig wird es dann, wenn du die **Operator Overloading** vom Kollegen C++ mal testen möchtest. Dann kannst du ihm sagen, dass er auf *Guten Morgen* mit einer wüsten Beschimpfung antworten soll. Es ergibt halt total Sinn, das Zeichen `+` umzudefinieren um völlig beknackten Code zu erzeugen. `operator++(int)` für `std::string` - einen Post-Inkrementor für einen String!?! 
 

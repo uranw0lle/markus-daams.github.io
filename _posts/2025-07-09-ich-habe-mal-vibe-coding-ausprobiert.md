@@ -43,7 +43,7 @@ Mein Projekt sollte ein einfacher Kurznachrichtendienst-Klon wie Bluesky oder Ma
 
 Der Code für das Backend kommt aber nicht aus einer AI, sondern aus [diesem Blog-Artikel](https://www.rustfinity.com/blog/create-high-performance-rest-api-with-rust). Es handelt sich eher um einfachen Boilerplate-Code. Mir ging es generell erst einmal darum, den Code zu verstehen und wie **Axium** in Rust funktioniert (überraschend gut, wie sich herausstellt). Der Code erzeugt einen Server mit einer Route, die „Hello World“ ausspuckt. Ein guter Anfang. 
 
-![Rust - Boilerplate Code für das Backend](../assets/img/vibe-coding/rust-boilerplate.jpg)
+![Rust - Boilerplate Code für das Backend](/assets/img/vibe-coding/rust-boilerplate.jpg)
 _Der Code kommt von einem Blog Artikel und diente mir als Ausgangsbasis (Quelle: Screenshot / Markus Daams)_
 
 Im Frontend bin ich mit dem Basis-Code des Frameworks gestartet. Man npm’t sich das Framework in den Ordner der Wahl, generiert sein neues Projekt und beginnt die Arbeit mit ``npm run dev``. **Vite** startet den Server und bietet ein überraschend gut funktionierendes Hot Reload. Als Datenbank kommt eine einfache **PostgreSQL** Datenbank zum Einsatz, die ich lokal hoste. 
@@ -60,7 +60,7 @@ Als Erstes musste es möglich sein, sich zu registrieren. Den Code dafür ließ 
 
 * Login-Funktion: Dasselbe in Grün. Das Formular habe ich mir von **Deep Seek** erstellen lassen und der Backend-Code kam von **Gemini**.
 
-![Registrierformular erstellt mit Material UI durch Deep Seek](../assets/img/vibe-coding/projekt-registrieren.jpg){: w="600"}
+![Registrierformular erstellt mit Material UI durch Deep Seek](/assets/img/vibe-coding/projekt-registrieren.jpg){: w="600"}
 _Registrierformular erstellt mit Material UI durch Deep Seek (Quelle: Screenshot / Markus Daams)_
 
 Der Code lief nicht auf Anhieb, denn **Gemini** arbeitete im Falle von Axium mit veralteter Syntax. Hier hat mir dann **Windsurf** ausgeholfen, welches ich als Add-on im **VS Code** nutze.
@@ -81,7 +81,7 @@ Nun aber kam der aufregendere Teil. Ich wollte, das User einen Post mit einem Ti
 
 * Das Backend benötigte wieder eine Route, eine Handler-Funktion um die Posts in die Datenbank zu schreiben und einen dazugehörigen Struct. Der Code wurde fix von **Gemini** erstellt. Googles AI kämpfte aber wieder mit veralteter Syntax und teils sinnlosen Structs. Ich habe das aber selbst korrigiert – Vibes hin oder her. 
 
-![Nun können Posts verfasst werden](../assets/img/vibe-coding/projekt-post.jpg)
+![Nun können Posts verfasst werden](/assets/img/vibe-coding/projekt-post.jpg)
 _Die Posts werden an eine '/posts' Route im Backend gesendet und per POST in die Datenbank geschrieben (Quelle: Screenshot / Markus Daams)_
 
 ## Woche 4: Posts rendern
@@ -92,7 +92,7 @@ Im Frontend: Ich habe **Deep Seek** darum gebeten, die Posts so zu rendern, dass
 
 Im Backend: Das wurde zur Routine und ich hätte den Code am liebsten selbst geschrieben, aber die Vibes. DIE VIBES! **Gemini** gab mir die Route, die Handler-Funktion und den Struct.
 
-![Die Posts werden gerendert](../assets/img/vibe-coding/projekt-posts-rendern.jpg)
+![Die Posts werden gerendert](/assets/img/vibe-coding/projekt-posts-rendern.jpg)
 _Die Posts werden nun auch im Frontend gerendert (Quelle: Screenshot / Markus Daams)_
 
 In dieser Woche ließ ich **Le Chat** den Backend-Code etwas aufräumen, denn ich habe viele Warnungen bekommen, aufgrund veralteter Syntax. Die Domina mit Namen Rust mag sowas nicht. **Le Chat** schien mir in Sachen Rust eher auf dem neuesten Stand zu sein, als seine Kollegen. Das ist aber nur ein Gefühl.
@@ -109,7 +109,7 @@ Ich wollte dieses Projekt nutzen, um neue Dinge zu lernen. Irgendwann einmal hat
 
 * Frontend: Das ließ ich wieder von **Deep Seek** machen, denn es gefiel mir, was die Chinesen mit Material UI so alles anstellen können. Die Navigtion habe ich im selben Atemzug erneuert. 
 
-![Bilder Posts sind nun auch möglich](../assets/img/vibe-coding/projek-bilderposts.jpg)
+![Bilder Posts sind nun auch möglich](/assets/img/vibe-coding/projek-bilderposts.jpg)
 _Für die Bilder Posts habe ich Code aus den Text Posts recycelt. Das muss eine AI irgendwann mal aufräumen(Quelle: Screenshot / Markus Daams)_
 
 Ja, das Chaos wurde mehr. Denn ich hatte immer mal wieder mit Bugs zu kämpfen, aber bekam auch immer mehr Ideen, wie es mit dem Projekt weiter gehen sollte. 
@@ -124,7 +124,7 @@ Ich musste umsteuern.
 
 2. Ich integriere **Copilot** und **Gemini** neben **Windsurf** direkt in VS Code. Der Vorteil ist, dass alle Änderungen direkt in den Code übertragen werden können. 
 
-![Deck Item in Nextcloud](../assets/img/vibe-coding/projekt-item.jpg)
+![Deck Item in Nextcloud](/assets/img/vibe-coding/projekt-item.jpg)
 _SCRUM ist doof, aber Kanban Boards sind die Erlösung für Feature Junkies wie mich (Quelle: Screenshot / Markus Daams)_
 
 Beides hat mir sehr geholfen. Durch das Board fiel es mir nicht nur einfacher, mit auf bestimme Features zu konzentrieren. Bei der Formulierung habe ich auch bewusst darüber nach gedacht, was ich an Code sowohl im Frontend, als auch im Backend benötigte. Ich habe bei bestimmten Themen dann erst einmal etwas AI Recherche betrieben, um die Formulierungen zu verfeinern. Erst, wenn ich damit zufrieden war, ging es ans prompten. 
