@@ -89,7 +89,7 @@ Die Components für das Frontend habe ich fix selbst angelegt und mich auch um d
 
 * … Mir wiederholt mitgeteilt, wie großartig meine Ideen doch sind. Die gespielte Höflichkeit der AIs zieht eine Schleimspur die länger ist als die A7.
 
-![VS Coding Tabs](../assets/img/vibe-coding3/vibe-coding3-code.jpg)
+![VS Code Tabs](../assets/img/vibe-coding3/vibe-coding3-code.jpg)
 _Ich hab mich bei deinem Backend bedient, ist doch ok, oder? (Screenshot: Markus Daams / 2025)_
 
 Ich komme schnell mal durcheinander, deswegen arbeite ich lieber mit verschiedenen Fenstern und Editoren. Aber nun hatte ich den Salat. Der Code funktionierte nicht, und riss sowohl Frontend als auch Backend in den Abgrund der ellenlangen Fehlermeldungen. 
