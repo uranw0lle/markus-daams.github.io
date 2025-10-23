@@ -30,11 +30,11 @@ Die Sicherung der Elbmündung war dabei eines der wichtigsten Ziele der Stadt. U
 
 Ab dem 14. Jahrhundert erweiterte die Stadt ihren Einflussbereich in der Region. Das ["Amt Ritzebüttel"](https://de.wikipedia.org/wiki/Amt_Ritzeb%C3%BCttel) wurde gegründet. Der Verwalter zog also von der stürmischen Insel Neuwerk auf das Festland. 
 
-![Schloss Ritzebüttel in Cuxhaven](/assets/img/neuwerk/schloss-ritzebuettel.jpg)
+![Schloss Ritzebüttel in Cuxhaven]({{ site.baseurl }}/assets/img/neuwerk/schloss-ritzebuettel.jpg)
 _Das Schloss Ritzebüttel war der Hauptsitz des Amtsmannes aus Hamburg._
 
 Im 19. Jahrhundert wurde die Hafensiedlung Cuxhaven auf Antrag der Stadt Hamburg mit dem Amt Ritzebüttel vereinigt. Es entstand die Stadt Cuxhaven.
-![Das Rathaus von Cuxhaven](/assets/img/neuwerk/cuxhaven-rathaus.jpg)
+![Das Rathaus von Cuxhaven]({{ site.baseurl }}/assets/img/neuwerk/cuxhaven-rathaus.jpg)
 _Am Rathaus von Cuxhaven kann man die Geschichte der Stadt ablesen. Das Wappen links ist das der Stadt Hamburg._
 
 Spulen wir nun etwas vor. 1937 wurde Hamburg durch das [Groß-Hamburg-Gesetz](https://de.wikipedia.org/wiki/Gro%C3%9F-Hamburg-Gesetz) mehr als doppelt so groß, musste aber alle seine Besitzungen an der Elbmündung aufgeben. Weiter geht es in das Jahr 1961. Hamburg und Niedersachsen tauschten Gebiete: Hamburg hat den Amerika-Hafen in Cuxhaven abgetreten und erhielt im Gegenzug die Inseln Neuwerk und Scharhörn wieder zurück. Dazu gab es noch etwas Schlamm, gemeint ist natürlich das Wattenmeer. Ach ja, 1989 erschuf man noch die Insel Niegehörn. Da man, ein Glück, den Plan aufgegeben hatte, dort einen Tiefwasserhafen zu bauen, bot es sich an, dort ein riesiges Naturschutzgebiet zu erschaffen.
@@ -47,14 +47,14 @@ Der [Nationalpark Hamburgisches Wattenmeer](https://www.nationalpark-wattenmeer.
 
 Für die Anfahrt steigt man am besten in den **RE5**, der, stand Februar 2025, ab Hamburg-Harburg nach Cuxhaven fährt. Die Fahrt dauert ca. 90 Minuten. In Cuxhaven dann einfach der Nase nach, denn man hat das Meer schon am Bahnsteig in der Nase. Da die ["Alte Liebe"](https://de.wikipedia.org/wiki/Alte_Liebe_(Cuxhaven)) ausgeschildert ist, folgt einfach dem Wegweiser. Die Nordsee ist ca. 20 Minuten Fußweg vom Bahnhof entfernt. 
 
-![Der Strand von Cuxhaven](/assets/img/neuwerk/nordsee-strand.jpg)
+![Der Strand von Cuxhaven]({{ site.baseurl }}/assets/img/neuwerk/nordsee-strand.jpg)
 _Der Strand von Cuxhaven und am Horizont das Meer. Hier bin ich Mensch, hier ... atme ich erst einmal tief ein._
 
 ## Und dann das Meer
 
 Für Schiffspotter beginnt ab hier schon das Paradies. Die Elbmündung ist der Eingang zum Hamburger Hafen. Dementsprechend viel Schiffsverkehr ist hier zu erwarten. Ich empfehle ein Stativ und ein Teleobjektiv. Die großen Schiffe müssen auf das Hochwasser in der Elbmündung warten, um dann "mit der Welle" in den Hamburger Hafen einzulaufen. An der "Alten Liebe" kommen die Pötte aber auch so nah, dass Smartphone Fotografen auf ihre Kosten kommen. 
 
-![Blick über den Strand bei Cuxhaven in Richtung Nordsee](/assets/img/neuwerk/cuxhaven-strandkörbe.jpg)
+![Blick über den Strand bei Cuxhaven in Richtung Nordsee]({{ site.baseurl }}/assets/img/neuwerk/cuxhaven-strandkörbe.jpg)
 _Cuxhaven auf einen Blick: Nordsee, Strandkörbe und der Containerdampfer auf dem Weg nach Hamburg. Links daneben die berühmte Kugelbake._
 
 ## Wo ist denn das Meer?
@@ -69,7 +69,7 @@ Mittels des [Tidenkalenders](https://www.cuxduhier.de/tidenkalender.html) lässt
 ## Ab ins Watt
 
 Das Hamburgische Wattenmeer beginnt an der Küste von Cuxhaven. Möchte man ins Watt, empfiehlt es sich ca. 2 Stunden vor dem Niedrigwasser zu starten. 
-![Das Wattenmeer bei Cuxhaven](/assets/img/neuwerk/cuxhaven-wattenmeer.jpg)
+![Das Wattenmeer bei Cuxhaven]({{ site.baseurl }}/assets/img/neuwerk/cuxhaven-wattenmeer.jpg)
 _Das Wattenmeer bei Cuxhaven. Am Horizont ist die Insel Neuwerk zu erkennen. Gehört verwaltungstechnisch übrigens zu Hamburg-Mitte._
 
 ## Noch ein paar Worte der Warnung
@@ -87,7 +87,7 @@ Das Wasser geht schnell, aber genauso schnell kommt es wieder. Und aus einem "da
 
 Im Sommer ist es im Watt am schönsten. Man kann (sollte!) die Schuhe und Socken ausziehen. An die Muscheln und Steine gewöhnt man sich schnell. Und dann kann man dort einfach herrlich wandern. 
 
-![Der Strand bei Cuxhaven](/assets/img/neuwerk/cuxhaven-strand.jpg)
+![Der Strand bei Cuxhaven]({{ site.baseurl }}/assets/img/neuwerk/cuxhaven-strand.jpg)
 _Vom Strand ins Watt._
 
 Das Wasser ist weg, aber dennoch gibt es im Wattenmeer [Priele](https://de.wikipedia.org/wiki/Priel). Man kann sie sich als eine Art "Fluss" im Wattenmeer vorstellen. Man wird bei der Wattwanderung auf Priele stoßen, denn es gibt sie in klein und groß. Viele lassen sich durchwandern, aber man sollte auch beachten, dass diese eine teils starke Strömung haben.
@@ -99,7 +99,7 @@ Das Wasser ist weg, aber dennoch gibt es im Wattenmeer [Priele](https://de.wikip
 
 ## Wo bitte geht es nach Hamburg?
 
-![Schild nach Neuwerk im Wattenmeer](/assets/img/neuwerk/neuwerk-schild.jpg)
+![Schild nach Neuwerk im Wattenmeer]({{ site.baseurl }}/assets/img/neuwerk/neuwerk-schild.jpg)
 _Nach Neuwerk hier entlang. Die Insel ist sogar im Watt ausgeschildert._
 
 Kann man es per Wattwanderung nach Neuwerk schaffen? Ja, kann man. Wenn man alle Sicherheitsregeln beachtet, kann man Neuwerk von Cuxhaven aus erreichen. Es gibt einen markierten Weg, dem man folgen kann und auch sollte.
@@ -114,7 +114,7 @@ Durch die frühe Unabhängigkeit Hamburgs haben sich viele Eigenheiten entwickel
 
 Für mich ist der Umstand, dass Hamburg Inseln in der Nordsee besitzt, eine solche "Hamburgensie". Und darüber bin ich sehr froh, denn es verbindet diese reiche Stadt und die Menschen darin mit diesem vielfältigen und komplexen Ökosystems. Denn dieses Ökosystem muss geschützt und gepflegt werden. 
 
-![Das Hamburgische Wattenmeer](/assets/img/neuwerk/hamburger-wattenmeer.jpg)
+![Das Hamburgische Wattenmeer]({{ site.baseurl }}/assets/img/neuwerk/hamburger-wattenmeer.jpg)
 _Das Wattenmeer im Nationalpark Hamburgisches Wattenmeer._
 
 Gerade als Stadtbewohner sollte man sich ab und zu wieder mit der Natur verbinden. Dann versteht man am besten, warum diese so schützenwert ist.Daher hoffe ich, ich konnte mit diesem Artikel die Neugierde wecken. Neben Alster und Hafen hat Hamburg noch viel Interessantes zu bieten.

@@ -41,7 +41,7 @@ Und hier kommt nun mein erster Tipp ins Spiel. **Return YouTube Dislike von Dmit
 
 Link zum Firefox Add-on: [„Return YouTube Dislike“ von Dmitry Selivanov](https://addons.mozilla.org/de/firefox/addon/return-YouTube-dislikes/)
 
-![Return YouTube Dislike Firefox Add-on](/assets/img/youtube-add-ons/youtube-dislike.jpg)
+![Return YouTube Dislike Firefox Add-on]({{ site.baseurl }}/assets/img/youtube-add-ons/youtube-dislike.jpg)
 _Dieser Trailer von Disney stieß auf verhaltene Resonanz. (Screenshot: Markus Daams / 2025)_
 
 ## Tipp Nummer 2: SponsorBlock für YouTube
@@ -56,7 +56,7 @@ Das Add-on lässt sich sehr gut konfigurieren. Man kann zum Beispiel einstellen,
 
 Dieses Add-on lebt von der Community, welche die Segmente markiert und einsendet. Das ist nicht weiter schwer und geht recht schnell. Mitmachen ist also ausdrücklich erwünscht.
 
-![SponsorBlock für YouTube von Ajay Firefox Add-on](/assets/img/youtube-add-ons/youtube-sponsorblock.jpg)
+![SponsorBlock für YouTube von Ajay Firefox Add-on]({{ site.baseurl }}/assets/img/youtube-add-ons/youtube-sponsorblock.jpg)
 _Die gesponsorten Segmente sind markiert und werden automatisch übersprungen. Holy moly. (Screenshot: Markus Daams / 2025)_
 
 Link zum Firefox Add-on: [„SponsorBlock für YouTube“ von Ajay](https://addons.mozilla.org/de/firefox/addon/sponsorblock)
@@ -75,7 +75,7 @@ Hier kommt ein recht neues Add-on ins Spiel. **YouTube Anti Translate von Petr**
 
 Das Add-on funktioniert aber noch nicht in allen Fällen. Ich hoffe sehr, dass sich das noch ändert oder man bei YouTube wieder nüchtern wird.
 
-![YouTube Anti Translate von Petr Firefox Add-on](/assets/img/youtube-add-ons/youtube-anti-translate.jpg)
+![YouTube Anti Translate von Petr Firefox Add-on]({{ site.baseurl }}/assets/img/youtube-add-ons/youtube-anti-translate.jpg)
 _Manche Titel bekommt das Add-on noch nicht zu fassen. (Screenshot: Markus Daams / 2025)_
 
 Link zum Firefox Add-on: [YouTube Anti Translate von Petr Firefox Add-on](https://addons.mozilla.org/de/firefox/addon/youtube-anti-translate/)
@@ -94,7 +94,7 @@ Mit dem Add-on **No YouTube comments von Abdullah Diaa** kann man die gesamte Ko
 
 Auch dieses Add-on ist aktuell mit dem Hinweis versehen: *Dieses Add-on wird von Mozilla nicht aktiv auf seine Sicherheit überwacht. Stellen Sie sicher, dass Sie ihm vertrauen, bevor Sie es installieren.*
 
-![YouTube No Comments von Abdullah Firefox Add-on](/assets/img/youtube-add-ons/youtube-no-comments.jpg)
+![YouTube No Comments von Abdullah Firefox Add-on]({{ site.baseurl }}/assets/img/youtube-add-ons/youtube-no-comments.jpg)
 _Tschüss, Kommentare, Hallo Seelenfrieden. (Screenshot: Markus Daams / 2025)_
 
 Link zum Firefox Add-on: [YouTube No Comments von Abdullah Firefox Add-on](https://addons.mozilla.org/de/firefox/addon/no-youtube-comments/)
@@ -120,7 +120,7 @@ Die Suche bei YouTube ist gefühlt kaputt und nützt kaum noch was. Es werden se
 
 Hier kommt nun ein Add-on ins Spiel, welches die Suche zumindest ein wenig entrümpelt. Der **YouTube Search Fixer von Phoenix** macht genau dies. Hierbei kann festgelegt werden, ob man zum Beispiel nur die Shorts ausblenden möchte, oder auch die Mixes und andere Elemente, die einen stören könnten. Ich bekomme also grob die Suche zurück, die ich in der Tat einmal nützlich fand.
 
-![YouTube Search Fixer von Phoenix Firefox Add-on](/assets/img/youtube-add-ons/youtube-suche.jpg){: w="450"}
+![YouTube Search Fixer von Phoenix Firefox Add-on]({{ site.baseurl }}/assets/img/youtube-add-ons/youtube-suche.jpg){: w="450"}
 _Viele Optionen sorgen dafür, dass man findet, wonach man sucht. (Screenshot: Markus Daams / 2025)_
 
 Link zum Firefox Add-on: [YouTube Search Fixer von Phoenix Firefox Add-on](https://addons.mozilla.org/de/firefox/addon/youtube-suite-search-fixer/)

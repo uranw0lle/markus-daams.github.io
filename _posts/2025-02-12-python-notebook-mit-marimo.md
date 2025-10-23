@@ -60,12 +60,12 @@ marimo edit
 
 Es wird ein lokaler Server gestartet. Im Command Prompt wird die Adresse angezeigt, die dann im Browser aufgerufen werden muss. Uns begrüßt dann eine schlichte UI.
 
-![Marimo Startseite](/assets/img/marimo/marimo_startseite.jpg)
+![Marimo Startseite]({{ site.baseurl }}/assets/img/marimo/marimo_startseite.jpg)
 _Über die Startseite lassen sich Notebooks erstellen und bearbeiten._
 
 In dieser Ansicht verwalten wir nun alle unsere Notebooks. Als erstes lohnt ein Klick auf das *Tutorial* Menü rechts oben.
 
-![Marimo Tutorial Menü](/assets/img/marimo/marimo-tutorials.jpg)
+![Marimo Tutorial Menü]({{ site.baseurl }}/assets/img/marimo/marimo-tutorials.jpg)
 _Klein und unscheinbar, das Menü zu den Tutorials_
 
 In diesem Menü findet man diverse Tutorials. Diese werden als lokale Notebooks mitgeliefert und ausgeführt. Hier kann man also zum Beispiel ``SQL`` direkt ausprobiern und sich die Syntax anschauen. 
@@ -74,14 +74,14 @@ In diesem Menü findet man diverse Tutorials. Diese werden als lokale Notebooks 
 
 Mit einem Klick auf **Create a new Notebook** kann man direkt und mit einem blanken Papier durchstarten. Die Ansicht von Marimo sollte einem von den Jupyter Notebooks bereits bekannt vorkommen.
 
-![Marimo - Ansicht eines leeren Notebooks](/assets/img/marimo/marimo-startseite-leeres-notebook.jpg)
+![Marimo - Ansicht eines leeren Notebooks]({{ site.baseurl }}/assets/img/marimo/marimo-startseite-leeres-notebook.jpg)
 _Solch eine Ansicht kennt man bereits von den Jupyter Notebooks_
 
 Wer also will, kann hier direkt loslegen. Python und Markdown lassen sich genau so verwenden, wie man es von Jupyter Notebooks kennt. 
 
 Mein Tipp ist nun, als Erstes rechts oben auf das *Zahnradsymbol* und dann auf **User Settings** zu klicken.
 
-![Marimo User Settings](/assets/img/marimo/marimo_user_settings.jpg)
+![Marimo User Settings]({{ site.baseurl }}/assets/img/marimo/marimo_user_settings.jpg)
 _Die Usersettings lassen sich auch auf der Startseite aufrufen_
 
 Hier lassen sich diverse Einstellungen vornehmen. Ja, den Dark Mode gibt es natürlich auch. Aber meine persönliche Empfehlung ist, das *AI Gelöt* zu konfigurieren. Manch einer kennt vielleicht schon [Codeium](https://codeium.com/) aus anderen Projekten. Hierbei handelt es sich um einen dynamischen Code Generator. Dieser erahnt, was man programmieren möchte und schlägt entsprechenden Code vor. Vereinfacht gesagt: AI powered code completion. Codeium hat auch ein recht gutes gratis Angebot. Aber auch der **Github Copilot** lässt sich integrieren, welcher, Stand heute (12.02.2025), nun ebenfalls eine limitierte Gratis-Funktionalität anbietet. 
@@ -94,7 +94,7 @@ Auf die vielen Funktionen werde ich in späteren Artikeln eingehen. Ich möchte 
 
 ### Der Paketmanager
 
-![Marimo Paktetmanager](/assets/img/marimo/marimo_paket_management.jpg)
+![Marimo Paktetmanager]({{ site.baseurl }}/assets/img/marimo/marimo_paket_management.jpg)
 _Der Paketmanager nimmt einem ein paar kleine, aber oft nervige Schritte ab._
 
 Wenn man so vor sich hin notebooked, passiert es immer wieder, dass man bestimmte Python Pakte noch gar nicht installiert hat. **Marimo** erkennt dies und gibt einen entsprechenden Hinweis aus. Im integrierten Paketmanager lassen sich die fehlenden Pakete dann einfach nach installieren. Wer in einer [virtuellen Umgebung](https://learn.microsoft.com/de-de/visualstudio/python/managing-python-environments-in-visual-studio?view=vs-2022) arbeitet, kommt in den Genuss der automatischen Installation. Einfacher geht es dann nicht mehr.
@@ -102,7 +102,7 @@ Wenn man so vor sich hin notebooked, passiert es immer wieder, dass man bestimmt
 
 ### Der Chat
 
-![Der AI Chat in Marimo](/assets/img/marimo/marimo_ai_chat.jpg)
+![Der AI Chat in Marimo]({{ site.baseurl }}/assets/img/marimo/marimo_ai_chat.jpg)
 _Der Chat ist interaktiv und hat Zugriff auf den Kontext des Notebooks_
 
 Wurde in den *User Settings* ein AI Chat Anbieter konfiguriert, lässt sich dieser über das Seitenmenü direkt aufrufen. Chatten kann man dann mit dem entsprechenden Dienst, wie man es kennt. Interessant wird es aber dann, wenn man Hilfe beim Notebook braucht. So lassen sich Fragen zu Inhalten stellen. Man kann dem Chat per ''@'' Zeichen den Kontext übergeben. Also zum Beispiel: *Hey duuuu, kannst du mir erklären, was es sich mit ``@mein_data_frame`` auf sich hat?* 
@@ -116,7 +116,7 @@ Jupyter Notebooks sind vor allem in der Data Science Community schwer angesagt. 
 
 **Marimo** nimmt mir hier ein paar Schritte ab und das ganz ohne Code.
 
-![Marimo - Daten werden automatisch und visuell aufbereitet](/assets/img/marimo/marimo_datasource.jpg)
+![Marimo - Daten werden automatisch und visuell aufbereitet]({{ site.baseurl }}/assets/img/marimo/marimo_datasource.jpg)
 _Daten werden automatisch und visuell aufbereitet, ganz ohne Code_
 
 Na klar, die Datenquelle muss einmalig importiert werden. **Marimo** erstellt dann aber automatisch eine praktische Übersicht. Im linken Menü sehe ich dann zusätzliche Details zur Datenquelle. So bekomme ich schnell einen Überblick, wie meine Datenquelle aufgebaut ist. 
@@ -125,12 +125,12 @@ Na klar, die Datenquelle muss einmalig importiert werden. **Marimo** erstellt da
 
 "Da gab es doch einen Code für!" - Jeder Programmierer, immer. In den Snippets finden sich genau die Code Schnippsel wieder, an die man sich dunkel erinnert, aber man nicht mehr zusammen bekommt. Auch diese lassen sich per Klick dann einfach einfügen.
 
-![Marimo Snippets](/assets/img/marimo/marimo_snippets.jpg)
+![Marimo Snippets]({{ site.baseurl }}/assets/img/marimo/marimo_snippets.jpg)
 _Die Snippets helfen beim Erinnern. Sehr sogar._
 
 ### Scratchpad
 
-![Das Marimo Scratchpad](/assets/img/marimo/marimo_scratchpad.jpg)
+![Das Marimo Scratchpad]({{ site.baseurl }}/assets/img/marimo/marimo_scratchpad.jpg)
 _Notizen, Code Schnipsel und Ideen lassen sich im Scratchpad hinterlegen._
 
 Das *Scratchpad* ist ein Kritzelbuch. Ich nutze es als Notizbuch, Ideensammelbecken und Coding Spielwiese. Code lässt sich dann genau so, wie man es aus dem Chat kennt, per Mausklick in das Notebook übernehmen.

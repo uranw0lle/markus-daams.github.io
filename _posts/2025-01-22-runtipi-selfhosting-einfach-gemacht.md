@@ -78,7 +78,7 @@ Nach der Installation rufen wir die IP des Servers auf, auf dem Runtipi installi
 
 Runtipi verlangt zunächst, einen neuen User anzulegen. Ein Unsername und ein Passwort sind schnell vergeben, und nach dem Login finden wir uns auf unserem neuen Dashboard wieder. 
 
-![Das Runtipi Dasboard](/assets/img/runtipi/runtipi-dashboard.png){: .shadow }
+![Das Runtipi Dasboard]({{ site.baseurl }}/assets/img/runtipi/runtipi-dashboard.png){: .shadow }
 _Das Dashboard bietet einen Überblick über den Speicherverbrauch und die Systemauslastung aller installierten Apps._
 
 ## Apps, gebt mir Apps!
@@ -87,12 +87,12 @@ Das Menü von Runtipi ist auf das Wesentliche reduziert. Dort finden wir das Das
 
 Schauen wir doch einmal in die App Store.
 
-![Runtipi App Store](/assets/img/runtipi/runtipi-appstore.png){: .shadow }
+![Runtipi App Store]({{ site.baseurl }}/assets/img/runtipi/runtipi-appstore.png){: .shadow }
 _Im Store finden sich zahlreiche Apps zum selbsthosten_
 
 Eine Suchfunktion für Freitext, aber auch eine Sortierung nach Kategorien ist möglich. Klicke ich eine App an, gelange ich in die Übersicht der App.
 
-![Runtipi App Details](/assets/img/runtipi/runtipi-appdetails.png){: .shadow }
+![Runtipi App Details]({{ site.baseurl }}/assets/img/runtipi/runtipi-appdetails.png){: .shadow }
 _In dieser Übersicht finde ich eine Beschreibung, wichtige Informationen, aber auch Systemanforderungen und die unterstütze Architektur (unter **Base Info**)._ 
 
 > Die Beschreibung sollte man auf jeden Fall lesen. Hier werden zum Beispiel auch wichtige Information wie Pfadangaben hinterlegt.
@@ -104,12 +104,12 @@ _In dieser Übersicht finde ich eine Beschreibung, wichtige Informationen, aber 
 
 Nachdem die App installiert wurde, finde ich diese im Menüpunkt **My Apps**. Hier sehe ich dann direkt, welche Apps ich installiert habe und für welche eine Aktualierung vorliegt. 
 
-![Runtipi - Meine installierten Apps](/assets/img/runtipi/runtipi-myapps.png){: .shadow }
+![Runtipi - Meine installierten Apps]({{ site.baseurl }}/assets/img/runtipi/runtipi-myapps.png){: .shadow }
 _Wie ich sehe, steht für Immich ein Update zur Verfügung._
 
 Und ab hier wird es für gestresste Selbsthoster echt toll.
 
-![Runtipi - Appverwaltung mit einem Klick](/assets/img/runtipi/runtipi-appverwaltung.png){: .shadow }
+![Runtipi - Appverwaltung mit einem Klick]({{ site.baseurl }}/assets/img/runtipi/runtipi-appverwaltung.png){: .shadow }
 _Die wichtigsten Operationen lassen sich nun mit einem Klick erledigen._
 
 In der Detailansicht meiner installierten App, stehen mir nun unter anderem folgende Optionen zur Verfügung:
@@ -124,7 +124,7 @@ In der Detailansicht meiner installierten App, stehen mir nun unter anderem folg
 
 Runtipi kann aktuell noch nicht über die WebUI aktualisiert werden. Aber auch dies ist nicht weiter schwer. Wichtig ist, dass wir Zugriff auf den Server haben, auf dem Runtipi gehostet wird. Das kann also zum Beispiel über **SSH** erfolgen, oder, wie in meinem Fall, direkt über die Oberfläche von Proxmox.
 
-![Runtipi - Aktualisierung](/assets/img/runtipi/runtipi-aktualisierung.png){: .shadow }
+![Runtipi - Aktualisierung]({{ site.baseurl }}/assets/img/runtipi/runtipi-aktualisierung.png){: .shadow }
 _Steht ein Update zur Verfügun, wird dies in der WebUI angezeigt._ 
 
 Alle wichtigen Informationen zum Updaten findet man in der WebUI unter *Settings* -> *Actions*. Die Informationen auf dieser Seite sollte man **immer aufmerksam lesen**. So gab es zum Beispiel breaking changes beim Update von der Version 2.x auf 3.x. Da ich diese ignoriert habe, hat es mir auch direkt die Installation zerlegt. Ich hätte die Anweisungen zur Migration auf genau dieser Seite gefunden.

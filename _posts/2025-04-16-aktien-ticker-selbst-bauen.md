@@ -82,7 +82,7 @@ Perfekt, läuft!
 
 Weiter geht es nun im Browser. Dazu rufe ich die Container-IP + den Port **8086** auf. 
 
-![InfluxDB Onboarding](/assets/img/aktien-ticker/influxdb_onboarding.jpg)
+![InfluxDB Onboarding]({{ site.baseurl }}/assets/img/aktien-ticker/influxdb_onboarding.jpg)
 _Das Onboarding für die Datenbank erfolgt dann im Browser_
 
 Die hier einzugebenen können frei gewählt werden, wir brauchen diese später für das Python-Script:
@@ -138,7 +138,7 @@ service grafana-server status
 ```
 Grafana läuft, also geht es auch hier wieder weiter im Browser unter der Container-IP + Port **3000**.
 
-![Grafana Onboarding](/assets/img/aktien-ticker/grafana-onboarding.jpg)
+![Grafana Onboarding]({{ site.baseurl }}/assets/img/aktien-ticker/grafana-onboarding.jpg)
 _Im Browser erledige ich das Onboarding von Grafana_
 
 * Username: **admin**
@@ -455,7 +455,7 @@ Ich melde mich auf der Weboberfläche von Grafana an, klicke rechts oben auf das
 
 Die Daten werden nun aus der Datenbank geladen und visualisiert.
 
-![Das fertige Grafana Dashboard](/assets/img/aktien-ticker/grafana-dashboard.jpg)
+![Das fertige Grafana Dashboard]({{ site.baseurl }}/assets/img/aktien-ticker/grafana-dashboard.jpg)
 _Die Charts der von mir gewählten Kurse wird nun angezeigt_
 
 ## Fertig! Und nun?

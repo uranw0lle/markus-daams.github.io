@@ -114,12 +114,12 @@ if __name__ == "__main__":
 
 Natürlich müssen die Daten wie Email, Passwort und User-ID eingetragen werden. Aber ist das passiert, kann ich das Script direkt ausführen. 
 
-![Das Python Script lief erfolgreich](/assets/img/python-bot/python-script-erfolgreich.jpg)
+![Das Python Script lief erfolgreich]({{ site.baseurl }}/assets/img/python-bot/python-script-erfolgreich.jpg)
 _Das Das Python Script lief erfolgreich durch (Screenshot: Markus Daams / 2025)_
 
 Da der Post erfolgreich abgesetzt wurde, ist dieser auch direkt im Frontend zu sehen:
 
-![Bot Post im Frontend](/assets/img/python-bot/python-script-erfolgreich-frontend.jpg)
+![Bot Post im Frontend]({{ site.baseurl }}/assets/img/python-bot/python-script-erfolgreich-frontend.jpg)
 _Im Frontend ist der Post auch zu sehen (Screenshot: Markus Daams / 2025)_
 
 ## Da wächst mir eine Idee
@@ -139,7 +139,7 @@ Mein Social Network bietet eine Liste von Kategorien an, die man einem Post gebe
 
 So, genug der Worte. Ich prompte all das mal fix bei **Gemini** ein.
 
-![Gemini erzeugt eine Fehlermeldung](/assets/img/python-bot/python-script-gemini-fehler.jpg)
+![Gemini erzeugt eine Fehlermeldung]({{ site.baseurl }}/assets/img/python-bot/python-script-gemini-fehler.jpg)
 _Das war Gemini ein wenig zu viel. Den Rest des Codes schreiben wir dann einfach manuell. (Screenshot: Markus Daams (2025))_
 
 Na gut -.- 
@@ -309,7 +309,7 @@ if __name__ == "__main__":
 
 Das Script läuft ebenfalls erfolgreich durch, sendet den AI Post direkt an die API und dieser ist auch sofort im Frontend zu sehen:
 
-![AI generierter Post](/assets/img/python-bot/python-script-erfolgreich2.jpg){: w="450"}
+![AI generierter Post]({{ site.baseurl }}/assets/img/python-bot/python-script-erfolgreich2.jpg){: w="450"}
 _Der Post-Inhalt kommt dieses Mal von Gemini (Screenshot: Markus Daams / 2025)_
 
 Der ganze Post klingt aber maximal nach AI und Bot. Das kann aber geändert werden, indem man den Prompt erweitert, der an die API gesendet wird. Aktuell steht dort dies:
@@ -331,7 +331,7 @@ Diesen Prompt erweitern wir um ein wenig mehr Humor.
 
 Nach der erneuten Ausführung des Scripts klingt der Bot nicht mehr nach einem LinkedIn Highperformer auf Retalin.
 
-![Der neue Bot Post ist humorvoller](/assets/img/python-bot/python-script-erfolgreich3.jpg){: w="450"}
+![Der neue Bot Post ist humorvoller]({{ site.baseurl }}/assets/img/python-bot/python-script-erfolgreich3.jpg){: w="450"}
 _Durch den neuen Prompt sind die Posts humorvoller (Screenshot: Markus Daams / 2025)_
 
 ## Wie es weiter geht

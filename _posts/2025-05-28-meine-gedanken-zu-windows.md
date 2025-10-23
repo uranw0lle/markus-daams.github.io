@@ -43,7 +43,7 @@ Für mich sah der Deal immer so aus: Ich gebe Microsoft etwas Geld und ein paar 
 
 Bei Windows 11 muss ich aber sagen: Holla die Waldfee! Windows kabelt wirklich viel in die Heimat:
 
-![Windows Telemetrie in Pi-hole](/assets/img/windows/pi-hole-top-blocked-domains.jpg)
+![Windows Telemetrie in Pi-hole]({{ site.baseurl }}/assets/img/windows/pi-hole-top-blocked-domains.jpg)
 _Glückwunsch zu den Plätzen 2, 3, 4, 5 und 6 geht an Microsoft in der Telemetrie-Olympiade._
 
 Der Deal scheint sich irgendwie und von mir unbemerkt deutlich zugunsten Redmonds verschoben zu haben.

@@ -52,7 +52,7 @@ Da **Gemini** mir auch gleich anbot, den Code für das Backend zu generieren, na
 
 Den Code für das Frontend habe ich allerdings selbst angepasst. Ich musste nur die Hashtags aus dem ``body`` nehmen und als Link ``<a href...>`` mappen. Und weil es so gut lief, ließ ich **Gemini** auch den Code für die GET Route bauen. Wenn man auf einen Hashtag im Frontend klickt, sollten alle Posts angezeigt werden, die dieses Hashtag beinhalten. 
 
-![Hashtags im Frontend](/assets/img/vibe-coding2/vibecoding-hashtag.jpg){: w="450"}
+![Hashtags im Frontend]({{ site.baseurl }}/assets/img/vibe-coding2/vibecoding-hashtag.jpg){: w="450"}
 _Die Hashtag Funktion ließ sich geschmeidig vibe coden._
 
 ## Woche 7: Läuft doch nicht so gut
@@ -61,7 +61,7 @@ Nachdem mich die Modularisierung des Backend-Codes euphorisiert hat, wollte ich 
 
 Als Erstes habe ich wieder meinen **Copilot** gefragt. Der hat mich dann aber darauf hingewiesen, dass er mich als Freeloader nicht mehr akzeptiert. 
 
-![Copilot Nachricht](/assets/img/vibe-coding2/vibecoding-copilot-end-of-quota.jpg){: w="450"}
+![Copilot Nachricht]({{ site.baseurl }}/assets/img/vibe-coding2/vibecoding-copilot-end-of-quota.jpg){: w="450"}
 _Für dich ist Schluss, Brudi!_
 
 Ich wendete mich an **Deep Seek** und wurde ebenfalls enttäuscht. Mein Anliegen wurde genau verstanden und sogar gelobt. Aber der Code, den ich aus China bekommen habe, war unbrauchbar. Ich hätte manuell zu viel nacharbeiten müssen, daher habe ich ein paar Prompts später aufgegeben und ein neues Item auf meine Board angelegt. Ich mache das zu einem späteren Zeitpunkt selbst, manuell, wie früher, als man noch ohne Vibes gecodet hat.
@@ -70,7 +70,7 @@ Ein anderes Feature stand noch auf meiner Kanban-Wunschliste: Eine Suchfunktion.
 
 Ich wende mich als Erstes an **Gemini**, da mein **Copilot** ja im Urlaub war. Aber auch Googles helles Sternchen produzierte immer mehr Fehlermeldungen. Mein Anliegen wurde verstanden und es wurde auch angefangen eine Antwort zu generieren. Dieser Prozess brach aber etwas später ab und ich bekam eine Fehlermeldung.
 
-![Gemini mag nicht mehr](/assets/img/vibe-coding2/vibe-coding-gemini-mag-nicht-mehr.jpg){: w="450"}
+![Gemini mag nicht mehr]({{ site.baseurl }}/assets/img/vibe-coding2/vibe-coding-gemini-mag-nicht-mehr.jpg){: w="450"}
 _Gemini produzierte immer mehr Fehlermeldungen._
 
 Was solls. Ich mache das fix selbst. Eine Suchfunktion lässt sich recht einfach in *Material UI* umsetzen. Ich habe mir aber von **Windsurf** unter die Arme greifen lassen, da die Dokumentation von *Material UI* recht gewöhnungsbedürftig (Edit Redaktion: Sie ist teils Mist, schreib es doch einfach) ist. 
@@ -79,7 +79,7 @@ Und im Backend? Mein „Ich mache das fix selbst“ Vibe war so stark, dass ich 
 
 Aber auch **Windsurf** begann nun, Fehlermeldungen zu generieren. Eine alte Redensart sagt es so: *Hat man SchAIße am Schuh, hat man SchAIße am Schuh.*
 
-![Auch Windsurf mag nicht mehr](/assets/img/vibe-coding2/vibecoding-windsurf-mag-auch-nicht.jpg){: w="450"}
+![Auch Windsurf mag nicht mehr]({{ site.baseurl }}/assets/img/vibe-coding2/vibecoding-windsurf-mag-auch-nicht.jpg){: w="450"}
 _Windwurf ist zuverlässig, aber ab und zu auch nicht._
 
 Hier ließ ich mir dann von **Le Chat** unter die Arme greifen. In der Zeit, in der ich die AI um Hilfe bat, hätte ich die passende Query selbst schreiben können.Aber so etwas weiß man natürlich nicht vorher.

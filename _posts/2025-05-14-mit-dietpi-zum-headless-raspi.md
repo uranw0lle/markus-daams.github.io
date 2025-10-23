@@ -57,7 +57,7 @@ Das initiale Passwort lautet **dietpi**. Das Passwort kann und sollte natürlich
 
 Nach der Anmeldung wird man von der "Startseite" erwartet. Hier sieht man nicht nur den Systemzustand, sondern auch nützliche Links und die wichtigsten Befehle.
 
-![DietPi Welcome Screen](/assets/img/dietpi/dietpi-welcomescreen.jpg)
+![DietPi Welcome Screen]({{ site.baseurl }}/assets/img/dietpi/dietpi-welcomescreen.jpg)
 _Alles Wichtige auf einem Blick_
 
 Wichtig zu wissen: Da es keine grafische Oberfläche gibt, wird ausschließlich mit der Tastatur gearbeitet. Um das aber so angenehm wie möglich zu gestalten, hat das Entwickler-Team von **DietPi** einige sehr nützliche Tools entwickelt. Eine Übersicht bekommt man, wenn man den folgenden Befehl eintippt:
@@ -68,7 +68,7 @@ dietpi-launcher
 
 Es öffnet sich der Launcher. Von hier aus kann dann mit den *Cursor-Tasten* navigiert werden. Das Menü, also zum Beispiel *Select* oder *Exit* erreicht man mit der *Tabulator Taste*. 
 
-![DietPi - Launcher](/assets/img/dietpi/dietpi-launcher.jpg)
+![DietPi - Launcher]({{ site.baseurl }}/assets/img/dietpi/dietpi-launcher.jpg)
 _Alle wichtigen Tools auf einen Blick_
 
 Mit *Enter* kommt man in die entsprechenden Untermenüs.
@@ -77,7 +77,7 @@ Mit *Enter* kommt man in die entsprechenden Untermenüs.
 
 Da es sich bei **DietPi** um ein modifiziertes Debian handelt, kann Software per ``apt`` installiert werden. Der wesentlich elegantere Weg ist es aber, ``dietpi-software`` zu nutzen. Es handelt sich um einen kuratierten Softwarstore extra für **DietPi**, mit optimierten Paketen. Eine Übersicht aller Pakete, die zur Verfügung stehen, findet sich unter [diesem Link (dietpi.com / Software)](https://dietpi.com/docs/software/). Alle Pakte wurden sinnvoll vorkonfiguriert. Details zur Nutzung lassen sich ebenfalls auf der Seite finden. 
 
-![DietPi - Softwarestore](/assets/img/dietpi/dietpi-softwarstore.jpg)
+![DietPi - Softwarestore]({{ site.baseurl }}/assets/img/dietpi/dietpi-softwarstore.jpg)
 _Es kommen laufend neue Pakete dazu und sind wirklich gut vorkonfiguriert_
 
 Im Softwarestore wählt man dann einfach das gewünschte Paket mit der *Leertaste* aus, bestätigt dies und die Installation beginnt. Paketabhängigkeiten werden automatisch aufgelöst und Dienste (wie zum Beispiel Pi-hole) automatisch gestartet. Einfacher geht es nicht.

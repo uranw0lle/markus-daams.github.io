@@ -33,14 +33,14 @@ Ich habe die Installation direkt über [Runtipi](https://runtipi.io/) angestoße
 
 Einfach **Moodist** im Store suchen und auf *Install* klicken. Die Installation und das Deployment laufen dann vollständig automatisch ab.
 
-![Moodist in Runtipi](/assets/img/moodist/moodist-runtipi.jpg)
+![Moodist in Runtipi]({{ site.baseurl }}/assets/img/moodist/moodist-runtipi.jpg)
 _Die Installation geht schnell und Moodist wird automatisch gestartet_
 
 ## Und dann ... Geräusche
 
 Öffnet man nun die IP-Adresse, erscheint eine sehr schlichte, aber funktionale Website. 
 
-![Die lokale Website von Moodist](/assets/img/moodist/moodist-website.jpg)
+![Die lokale Website von Moodist]({{ site.baseurl }}/assets/img/moodist/moodist-website.jpg)
 _Die Website der lokal gehosteten Moodist Instanz_
 
 Nun wird es Zeit, den inneren DJ zu channeln. Es stehen verschiedene Geräusche zur Verfügung. In der Variante zum selbst hosten sind dies aktuell **78** an der Zahl. Da finden sich zum Beispiel:
@@ -59,14 +59,14 @@ Die Mischung stimmt also.
 
 Jedes einzelne Geräusch kann man nun anklicken und direkt abspielen. Die Lautstärke lässt sich für jedes Geräusch separat einstellen. Das ist besonders dann nützlich, wenn man mehrere Geräusche parallel abspielen will. Ich kann mir dann per Mausklick ein paar Möwen zu meinem Ozean hinzufügen. Und ist mir die Kulisse noch zu ruhig, spiele ich mir dazu noch einen Sturm und ein Flugzeug ab. Es lässt sich alles mit allem mischen. So kann jede noch so ausgefallene Klangkulisse erzeugt werden. Wie hört sich wohl ein Wäschetrockner im Dschungel an, während der Wolf dazu heult? Mit **Moodist** lässt sich diese Frage nun endlich klären.
 
-![Moodist - Klaenge ganz einfach mischen](/assets/img/moodist/moodist-klaenge-mischen.jpg)
+![Moodist - Klaenge ganz einfach mischen]({{ site.baseurl }}/assets/img/moodist/moodist-klaenge-mischen.jpg)
 _Klänge lassen sich einfach mischen. Aktive Klänge werden visuell hervorgehoben_
 
 Dazu kommen noch Komfortfunktionen, die ich gerne nutze. So ist es möglich, seine Lieblingsgeräusche zu liken. Diese erscheinen dann ganz oben, in einer eigenen Kategorie.
 
 Es kommen aber noch weitere Funktionen dazu. Darunter natürlich ein *Sleeptimer* und die Möglichkeit, die eigene Kombo als *Preset* zu speichern. Das Preset kann dann auf allen Geräten genutzt werden, denn wir hosten ja selbst :)
 
-![Moodist - Optionsmenü](/assets/img/moodist/moodist-optionen.jpg)
+![Moodist - Optionsmenü]({{ site.baseurl }}/assets/img/moodist/moodist-optionen.jpg)
 _Moodist bietet einige Komfortfunktionen - Und wer es braucht, sogar ein Notizfeld_
 
 ## Mein Fazit
