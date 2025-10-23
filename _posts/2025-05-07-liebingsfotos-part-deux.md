@@ -35,7 +35,7 @@ An diesem Tag hatte ich Glück. Ich stand gut um das Feuerlöschboot in seiner g
 
 ## Und dann kommt das Feuerlöschsuperboot
 
-![Das Feuerlöschboot Branddirektor Westphal]({{ site.baseurl }}/assets/img/lieblingsbilder-part2/branddirektor-westphal.jpg)
+![Das Feuerlöschboot Branddirektor Westphal](/assets/img/lieblingsbilder-part2/branddirektor-westphal.jpg)
 _Das Feuerlöschboot Branddirektor Westphal führt die Einlaufparade an (2022 / Markus Daams / CC0)_
 
 Immer mal wieder kommt es - leider - zu Bränden auf Containerschiffen im Hamburger Hafen. Die [CCNI Arauco brannte 4 Tage lang](https://www.schiffsjournal.de/grosseinsatz-am-hamburger-hafen-containerschiff-ccni-arauco-brennt-unter-deck/) und die Feuerwehr hatte große Mühe, den Brand unter Kontrolle zu bekommen. Es zeigte sich, dass es die alten Feuerlöschboote nicht mehr mit den Containerriesen unserer Zeit aufnehmen konnten. Natürlich gab es anschließend sowohl in der Hafenwirtschaft, als auch im Senat eine Diskussion über die sichtbar gewordenen Unzulänglichkeiten der Ausrüstung der Feuerwehr auf dem Wasser. 
@@ -46,7 +46,7 @@ Hamburg handelte und schaffte ein neues Feuerlöschboot an, die "Branddirektor W
 
 ## Schön Hamburgisch
 
-![Kreuzfahrtschiff und HADAG Fähre]({{ site.baseurl }}/assets/img/lieblingsbilder-part2/kreuzfahrtschiff-am-hafengeburtstag.jpg)
+![Kreuzfahrtschiff und HADAG Fähre](/assets/img/lieblingsbilder-part2/kreuzfahrtschiff-am-hafengeburtstag.jpg)
 _Die Europa 2 während der Einlaufparade am Hafengeburtstag (2015 / Markus Daams / CC0)_
 
 Die HADAG ist eine Betreiberin von Fähren in Hamburg. Sie ist ein Tochterunternehmen der Hamburger Hochbahn und betreibt den Liniendienst auf dem Wasser. Die Fähren fahren also ganz normal im HVV Tarifverbund und lassen sich mit derselben Fahrkarte nutzen, mit der man auch Bus und Bahn fährt. 
@@ -56,7 +56,7 @@ Wenn der Hafengeburtstag stattfindet, dann gibt die HADAG eine Information aus, 
 
 ## Es gibt viele Schiffe, aber keines ist so wie Du
 
-![Cap San Diego]({{ site.baseurl }}/assets/img/lieblingsbilder-part2/cap-san-diego.jpg)
+![Cap San Diego](/assets/img/lieblingsbilder-part2/cap-san-diego.jpg)
 _Die Cap San Diego während der Einlaufparade (2016 / Markus Daams / CC0)_
 
 Es kommen jedes Jahr viele Schiffe und Boote in Hamburg zu Besuch, wenn der Hafengeburtstag stattfindet. Aber natürlich hat eine Hafenstadt wie Hamburg auch ein paar eigene kleine Schmuckstücke, die es anlässlich eines solchen Ereignisses aus der Schatulle, oder besser gesagt, vom Liegeplatz holt.
@@ -68,7 +68,7 @@ Die Rede ist von der "Cap San Diego". Sie soll bis heute das größte, noch betr
 Es ist aber auch die Story hinter dem Foto. An diesem Tag im Jahr 2016 kam ich leider zu spät zur Einlaufparade. Ich wollte super tolle Fotos machen, und habe mich extra zum [Gorch-Fock-Park](https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/themen/hamburgs-gruen/parkanlagen/gorch-fock-park-275334) in Finkenwerder begeben. Leider bin ich schon beim Anmarsch durch Finkenwerder mit der Zeit durch'n [Tüdel](https://plattmakers.de/de/7584/T%C3%BCdel) gekommen, weil ich immer wieder stehen blieb, um etwas zu fotografieren. Als ich im Park ankam, war es bereits voll und die Einlaufparade im vollen Gange. Also habe ich die Kamera herausgeholt und sofort abgedrückt. Dabei sind keine Meisterwerke entstanden, aber Fotos, die ich einfach mochte. 
 ## Die Hamburg in Hamburg
 
-![Seenotrettungskreuzer Hamburg vor der Elbphilharmonie]({{ site.baseurl }}/assets/img/lieblingsbilder-part2/seenotrettungskreuzer-hamburg.jpg)
+![Seenotrettungskreuzer Hamburg vor der Elbphilharmonie](/assets/img/lieblingsbilder-part2/seenotrettungskreuzer-hamburg.jpg)
 _Der Seenotrettungskreuzer Hamburg vor der Elbphilharmonie (2022 / Markus Daams / CC0)_
 
 Die [Deutsche Gesellschaft zur Rettung Schiffbrüchiger (DGzRS) ](https://www.seenotretter.de/) sind allesamt Heldinnen und Helden, da gibt es wohl nichts zu diskutieren. Sie arbeiten freiwillig und finanzieren sich aus Spenden, um alle Menschen in Nord- und Ostsee zu retten, die gerettet werden müssen. Das muss ich einmal vorweg schicken. Ich freue mich immer wieder, wenn die Seenotrettungskreuezer der DGzRS in Hamburg zu Besuch kommen. Die Schiffe und Boote der Gesellschaft sind nicht nur Lebensretter. Ich finde, sie sehen auch einfach schick aus. 
@@ -79,7 +79,7 @@ Es war also auch etwas Besonderes, als der SK 40 "Hamburg" in Hamburg zu Gast wa
 
 ## Glücksschuss
 
-![Wasserfontäne und Klüverbaum von Elbe 3]({{ site.baseurl }}/assets/img/lieblingsbilder-part2/monitor-trifft-schiffsbug.jpg)
+![Wasserfontäne und Klüverbaum von Elbe 3](/assets/img/lieblingsbilder-part2/monitor-trifft-schiffsbug.jpg)
 _Die Branddirektor Westphalt trifft auf den Klüverbaum der Elbe 3 (2019 / Markus Daams / CC0)_
 
 Ich habe bereits über Feuerlöschbote, Monitore und "wie kriege ich das nur alles auf ein Bild" geschrieben. Darum soll es bei dem letzten Foto aber nicht gehen. Auf diesem sieht man die Branddirektor Westphal und das [Feuerschiff Elbe 3](https://de.wikipedia.org/wiki/Elbe_3_(Schiff,_1888)). 

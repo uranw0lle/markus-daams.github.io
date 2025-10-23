@@ -27,7 +27,7 @@ Die gute Nachricht für mich zuallererst: Das Projekt hat nun einen definierten 
 
 Meine kleine Social Media Seite erlaubt es, Text-Posts, Bilder-Posts und seit Neuestem auch Video-Posts zu veröffentlichen. Mehr wird es auch nicht mehr werden, denn inzwischen ist das Projekt so weit gewachsen, dass die Implementierung neuer Features durch pures Vibe Coding immer mehr Zeit in Anspruch nimmt. Zudem haben die kostenlosen Angebote zur Codegenerierung auch ihre Grenzen und wenn sie nicht die gesamte Struktur des Projekts kennen, erzeugen sie schlechten Code.
 
-![Das Projekt]({{ site.baseurl }}/assets/img/vibe-coding3/vibe-coding3-projekt.jpg){: w="500"}
+![Das Projekt](/assets/img/vibe-coding3/vibe-coding3-projekt.jpg){: w="500"}
 _Irgendwas mit Social Media - Jedes Code Projekt (Screenshot: Markus Daams / 2025)_
 
 Die Implementierung von kleineren Features hat überraschend gut funktioniert. Das ist besonders **Gemini** zu verdanken. Hatte mich Googles AI in den letzten Wochen immer wieder mit Fehlermeldungen von unvollständigen Antworten hängen lassen, sind diese deutlich weniger geworden. Bemerkenswerterweise ist auch die CPU-Last in die Höhe gegangen. Da das Gemini Add-on relativ häufig aktualisiert wurde, nehme ich an, man hat einen Teil der Code-Generierung auf den lokalen Rechner ausgelagert. Das ist aber nur ein Verdacht, denn ich bin zu faul das Changelog zu prüfen.
@@ -64,7 +64,7 @@ Nun kam ein Feature an die Reihe, vor dem ich mich immer ein wenig gedrückt hat
 Als ich den ersten Code für die API geschrieben hatte – noch ohne Vibe Coding – hatte ich einigen Handlern schon eine Update-Funktion spendiert und so auch an die Routen mit angehängt. Diese sollten die Einträge in der Datenbank aktualisieren. Im Frontend hatte ich dazu noch nichts weiter gemacht. Aber was man hat, das hat man. 
 Als ich mich an die Arbeit im Frontend machen wollte, ist mir aufgefallen, dass die Handler und die Ergänzungen der Routen weg waren. Irgendwann musste irgendeine AI entschieden haben, dass wenn die Routen eh nicht aufgerufen werden, der Code auf die digitale Müllhalde kann. Ich nehme an, dass das bei der Refaktorierung des Backend-Codes passiert ist. Allerdings hatte ich diese händisch gemacht, denn sowohl **Gemini** als auch **Copilot** haben das nicht hinbekommen. Nur bei der Dokumentation durften sie ran. War es dann passiert? Als ich nicht genau hingeschaut habe? Ein Moment der Unachtsamkeit? Ein mysteriöser Fall!
 
-![Posts bearbeiten]({{ site.baseurl }}/assets/img/vibe-coding3/vibe-coding3-post-bearbeiten.jpg){: w="300"}
+![Posts bearbeiten](/assets/img/vibe-coding3/vibe-coding3-post-bearbeiten.jpg){: w="300"}
 _Posts lassen sich nun bearbeiten. Yay. (Screenshot: Markus Daams / 2025)_
 
 Zwei Prompts in **Gemini** später waren sie aber wieder da. Bei der Implementierung im Frontend ist mir aufgefallen, das **Gemini** gut mit [Material-UI ](https://mui.com/material-ui/) umgehen kann. Mir wurde nicht nur zügig der benötigte Code bereitgestellt, die UI war nicht einmal hässlich. Dennoch war ein bisschen hin und her bei der Kommunikation mit dem Backend notwendig. Das war aber nicht weiter dramatisch, denn am Ende des Tages konnten alle Daten aktualisiert werden, auch die der registrierten User, dank dem nigelnagelneuen Dashboard. Und ab sofort konnte ich die Update-Funktion immer sofort mit einbinden, wenn ich etwas Neues hinzugefügt habe.
@@ -89,7 +89,7 @@ Die Components für das Frontend habe ich fix selbst angelegt und mich auch um d
 
 * … Mir wiederholt mitgeteilt, wie großartig meine Ideen doch sind. Die gespielte Höflichkeit der AIs zieht eine Schleimspur die länger ist als die A7.
 
-![VS Code Tabs]({{ site.baseurl }}/assets/img/vibe-coding3/vibe-coding3-code.jpg)
+![VS Code Tabs](/assets/img/vibe-coding3/vibe-coding3-code.jpg)
 _Ich hab mich bei deinem Backend bedient, ist doch ok, oder? (Screenshot: Markus Daams / 2025)_
 
 Ich komme schnell mal durcheinander, deswegen arbeite ich lieber mit verschiedenen Fenstern und Editoren. Aber nun hatte ich den Salat. Der Code funktionierte nicht, und riss sowohl Frontend als auch Backend in den Abgrund der ellenlangen Fehlermeldungen. 

@@ -41,7 +41,7 @@ Für meine Beispiel-Installation wähle ich **CasaOS**. Ich bekomme auf der jewe
 
 **LXC** zeigt mir an, dass es sich um einen Container handelt. Die vorkonfigurierten Hardware Ressourcen für den Container werden hier ebenfalls angezeigt. 
 
-![CasaOS auf der Seite der Proxmox Helper Scripts]({{ site.baseurl }}/assets/img/proxmox-helber-scripts/1-proxmox-helper-scripts.jpg)
+![CasaOS auf der Seite der Proxmox Helper Scripts](/assets/img/proxmox-helber-scripts/1-proxmox-helper-scripts.jpg)
 _CasaOS auf der Seite der Proxmox VE Helper-Scripts._
 
 Den Befehl auf der Seite kopiere ich und führe ihn in der Kommandozeile meiner Proxmox Installation aus. Das Script kann auf Github eingesehen und dort auch herunter geladen werden.
@@ -51,28 +51,28 @@ Den Befehl auf der Seite kopiere ich und führe ihn in der Kommandozeile meiner 
 
 ## Schritt 2: Befehl ausführen
 
-![Der Befehl wird in der Konsole von Proxmox ausgeführt]({{ site.baseurl }}/assets/img/proxmox-helber-scripts/2-proxmox-konsole.jpg)
+![Der Befehl wird in der Konsole von Proxmox ausgeführt](/assets/img/proxmox-helber-scripts/2-proxmox-konsole.jpg)
 _Der Befehl wird in der Konsole von Proxmox ausgeführt._
 
 ## Schritt 3: Wizard starten
 
 Das Script selbst wird per *wget* von **GitHub** herunter geladen und ausgeführt. Der Wizard startet dann automatisch.
 
-![Der Wizard startet automatisch, mit einer Sicherheitsabfrage]({{ site.baseurl }}/assets/img/proxmox-helber-scripts/3-proxmox-helper-script-wizard.jpg)
+![Der Wizard startet automatisch, mit einer Sicherheitsabfrage](/assets/img/proxmox-helber-scripts/3-proxmox-helper-script-wizard.jpg)
 _Der Wizard startet automatisch und mit einer Sicherheitsabfrage._
 
 ## Schritt 4: Diagnose Daten
 
 Auf Wunsch lassen sich anonymisierte Diagnose Daten versenden. Das ist aber freiwillig.
 
-![Es lassen sich anonyme Diagnosedaten senden]({{ site.baseurl }}/assets/img/proxmox-helber-scripts/4-proxmox-helper-script-diagnose-daten.jpg)
+![Es lassen sich anonyme Diagnosedaten senden](/assets/img/proxmox-helber-scripts/4-proxmox-helper-script-diagnose-daten.jpg)
 _Es lassen sich anonyme Diagnosedaten senden. Das ist freiwillig._
 
 ## Schritt 5: Settings wählen
 
 Im 5. Schritt lassen sich nun die gewünschen Settings wählen. Meiner Erfahrung nach werden die angebotenen Skripte sinnvoll vorkonfiguriert. Hier kann man also **Default Settings** wählen, wenn es schnell und einfach gehen soll. Der Container wird in diesem Fall **unprivilegiert** installiert. Das ist für mich ok, da man dies nachträglich in Proxmox ändern kann. Für diese Demonstration belasse ich es dabei.
 
-![Wählen der Settings]({{ site.baseurl }}/assets/img/proxmox-helber-scripts/5-proxmox-helper-script-settings.jpg)
+![Wählen der Settings](/assets/img/proxmox-helber-scripts/5-proxmox-helper-script-settings.jpg)
 _Im nächsten Schritt lassen sich die gewünschen Settings wählen._
 
 > Verklickt? Die Installation lässt sich jederzeit abbrechen und neu starten.
@@ -82,14 +82,14 @@ _Im nächsten Schritt lassen sich die gewünschen Settings wählen._
 
 In diesem Schritt wird der Speicherort gewählt.
 
-![Speicherort für den Container wählen]({{ site.baseurl }}/assets/img/proxmox-helber-scripts/6-proxmox-helper-script-storage.jpg)
+![Speicherort für den Container wählen](/assets/img/proxmox-helber-scripts/6-proxmox-helper-script-storage.jpg)
 _Ich habe zwei interne SSDs, auf denen ich meine Container und virtuellen Maschinen speichern kann._
 
 ## Schritt 7: Finalisierung der Installation
 
 Nun heißt es zugucken. Der neue Container wird erzeugt und bereit gestellt. Das kann je nach Dienst, Internetanbindung und Server-Hardware etwas dauern. 
 
-![Finalisierung der Installation]({{ site.baseurl }}/assets/img/proxmox-helber-scripts/7-proxmox-helper-script-installation.jpg)
+![Finalisierung der Installation](/assets/img/proxmox-helber-scripts/7-proxmox-helper-script-installation.jpg)
 _Nun wird aus einem vorkonfugierten Template ein neuer Container erzeugt und CasaOS installiert._ 
 
 > Dinge wie IP Adressen und Subnet Mask lassen sich in den Advance Settings konfigurieren. In der Standardkonfiguration wird DHCP verwendet.
@@ -99,7 +99,7 @@ _Nun wird aus einem vorkonfugierten Template ein neuer Container erzeugt und Cas
 
 Nachdem die Installation abgeschlossen wurde, wird der Dienst automatisch gestartet. Ich kann **CasaOS** über die per DHCP bezogene IP-Adresse aufrufen und verwenden.
 
-![CasaOS wurde installiert und läuft]({{ site.baseurl }}/assets/img/proxmox-helber-scripts/8-proxmox-helper-script-fertig.jpg)
+![CasaOS wurde installiert und läuft](/assets/img/proxmox-helber-scripts/8-proxmox-helper-script-fertig.jpg)
 _CasaOS läuft und kann sofort verwendet werden._
 
 Das Prozedere hat nicht einmal 5 Minuten gedauert. Das ist, verglichen zu einer üblichen Installation, eine deutliche Zeitersparnis.

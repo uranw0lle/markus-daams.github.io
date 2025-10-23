@@ -39,7 +39,7 @@ Los geht es.
 
 ## Ein Schlepper auf der Elbe
 
-![Schlepper auf der Elbe]({{ site.baseurl }}/assets/img/lieblingsbilder-part1/schlepper-auf-der-elbe.jpg)
+![Schlepper auf der Elbe](/assets/img/lieblingsbilder-part1/schlepper-auf-der-elbe.jpg)
 _Ein Schlepper fährt die Elbe runter um ein ankommendes Containerschiff beim Einlauf zu unterstützen (2013 / Markus Daams / CC0))_
 
 Dieses Foto entstand im Spätsommer 2013. Meine Wandertour führte mich an diesem Tag an der Elbe entlang, in Richtung Wedel. Diese Strecke war damals noch nicht so besucht wie sie es heute ist, daher war ich dort öfters unterwegs. Dabei kommt man irgendwann am Fähranleger „Teufelsbrück“ vorbei – ein Schwimmponton auf der Elbe. Hier fahren die Fähren nach Finkenwerder und dem Airbus Werksgelände. 
@@ -56,7 +56,7 @@ Der Zoom dieses Fotos vermittelt den Eindruck, das Foto wäre auf hoher See ents
 
 ## Die Hafenrundfahrt vor dem Containerschiff
 
-![Eine Barkasse fährt Touristen durch den Hamburger Hafen. Ein Highlight sind die Containerschiffe]({{ site.baseurl }}/assets/img/lieblingsbilder-part1/hafenrundfahrt-vor-conteinerschiff.jpg)
+![Eine Barkasse fährt Touristen durch den Hamburger Hafen. Ein Highlight sind die Containerschiffe](/assets/img/lieblingsbilder-part1/hafenrundfahrt-vor-conteinerschiff.jpg)
 _Die Hafenrundfahrt einer Barkasse luschert mal im Containerterminal Tollerort vorbei (2013 / Markus Daams / CC0)_
 
 Der 50x Zoom meiner Kamera hatte es mir angetan. Ich war ab sofort auf der Suche nach Motiven, die ich mit eben dieser Fähigkeit besonders zur Geltung bringen konnte. Dabei ist mir ein besonderer Spot eingefallen, der sich für tolle Fotos besonders eignet.
@@ -67,7 +67,7 @@ Daher ist es auch eines meiner Lieblingsfotos geworden. Es steht sinnbildlich f�
 
 ## Der Michel
 
-![Der Michel vom Parkplatz des Musicals König der Löwen aus gesehen]({{ site.baseurl }}/assets/img/lieblingsbilder-part1/michel-von-musical-aus-gesehen.jpg)
+![Der Michel vom Parkplatz des Musicals König der Löwen aus gesehen](/assets/img/lieblingsbilder-part1/michel-von-musical-aus-gesehen.jpg)
 _Die Sichtachse ist am Sonntagmorgen frei, daher konnte ich von hier tolle Fotos machen (2013 / Markus Daams / CC0)_
 
 Nun durfte natürlich auch der Michel nicht fehlen. Er ist und bleibt unser Wahrzeichen, egal wieviele Millionengräber in die Stadt gestellt werden. 
@@ -78,7 +78,7 @@ Der Parkplatz war (ist?) an den Wochenenden leer. Man hat also eine freie Sichta
 
 ## Der Michel und der Fernsehturm
 
-![Der Michel und der Fernsehturm]({{ site.baseurl }}/assets/img/lieblingsbilder-part1/michel-und-fernsehturm.jpg)
+![Der Michel und der Fernsehturm](/assets/img/lieblingsbilder-part1/michel-und-fernsehturm.jpg)
 _Zwei Hamburger Originale, der Michel und der Fernsehturm auf einem Bild (2013 / Markus Daams / CC0)_
 
 Mit so viel Zoom, warum nicht mal zwei echte Hamburger Originale ablichten? Ich war auf Wandertour in Wilhelmsburg. Im Zuge der Internationalen Gartenbauaustellung 2013 wurde dort viel umgebaut. Es wurden aber auch markierte Wanderwege (Loop) angelegt. Diese musste ich natürlich auch mal abgehen und immer dabei, meine Kamera. 
@@ -87,7 +87,7 @@ Und dann findet man auch einmal solche Motive wie auf diesem Foto. Ich stand auf
 
 ## Die Möve und die Köhlbrandbrücke
 
-![Eine Möve auf einem Dalben, dahinter die Köhlbrandbrücke]({{ site.baseurl }}/assets/img/lieblingsbilder-part1/moeve-vor-köhlbrandbruecke.jpg)
+![Eine Möve auf einem Dalben, dahinter die Köhlbrandbrücke](/assets/img/lieblingsbilder-part1/moeve-vor-köhlbrandbruecke.jpg)
 _Eine Möve auf einem Dalben, dahinter die Köhlbrandbrücke (2015 / Markus Daams / CC0)_
 
 *So mein Schieter, jetzt aber nicht bewegen* - Das war mein Gedanke, als ich an dieser Szene vorbei kam. Ich wanderte gerade über die [„Müggenfelder Hafenbahnbrücke“ (Link zu OpenStreetMaps)](https://www.openstreetmap.org/?#map=19/53.522067/10.009620), als sich mir ein einmaliges Motiv bot. Die Biester fliegen halt sehr gerne weg, wenn ihnen was nicht passt. Also kramte ich die Kamera aus dem Rucksack so ruhig ich auch nur irgendwie konnte. Möwen gehören zu Hamburg wie Michel, Franzbrötchen und Staus auf der A7. Möwe vor Köhlbrandbrücke, na also das ist doch mal ein Motiv wie es Hamburger kaum geht. 
@@ -96,7 +96,7 @@ Das ist auch der Grund, warum sich dieses Foto zu einem meiner Lieblinge gemause
 
 ## Mundsburger Kanal
 
-![Mundsburger Kanal]({{ site.baseurl }}/assets/img/lieblingsbilder-part1/mundsburger-kanal.jpg)
+![Mundsburger Kanal](/assets/img/lieblingsbilder-part1/mundsburger-kanal.jpg)
 _Der Mundsburger Kanal mit Blickrichtung Alster. Dazu unverkennbar, der Fernsehturm (2013 / Markus Daams / CC0)_
 
 Joggen, wo andere Urlaub machen. So beschreibe ich die Szene auf diesem Foto für mich selbst. Der Eilbek Kanal, welcher irgendwann zum [„Mundsburger Kanal“ (Link zu OpenStreetMaps)](https://www.openstreetmap.org/?#map=18/53.565573/10.023109) wird, war schon immer meine Jogging Strecke. Besonders im Frühling und Sommer ist es besonders bei Sonnenaufgang einfach wunderschön hier. 

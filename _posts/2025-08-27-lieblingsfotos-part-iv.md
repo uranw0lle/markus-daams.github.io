@@ -21,7 +21,7 @@ Aber ich schweife ab. Ich präsentiere nun im Folgenden wieder 5 meiner Liebling
 
 # Die Insel Neuwerk
 
-![Hamburg Neuwerk]({{ site.baseurl }}/assets/img/lieblingsbilder-part4/neuwerk.jpg)
+![Hamburg Neuwerk](/assets/img/lieblingsbilder-part4/neuwerk.jpg)
 _Am Horizont ist die Insel Neuwerk zu erkennen (2022 / Markus Daams / CC0)_
 
 
@@ -36,7 +36,7 @@ Wer seinen Spaziergang mit dem Tiedekalender abgleicht, kann durch das Wattenmee
 
 ## Hamburg, Stadt an der Bille
 
-![Die Bille von der Braunen Brücke aus gesehen]({{ site.baseurl }}/assets/img/lieblingsbilder-part4/braune-bruecke.jpg)
+![Die Bille von der Braunen Brücke aus gesehen](/assets/img/lieblingsbilder-part4/braune-bruecke.jpg)
 _Die Bille von der Braunen Brücke aus gesehen (2021 / Markus Daams / CC0)_
 
 Die allermeisten Menschen verbinden die Stadt Hamburg mit dem Fluss Elbe. Das ist verständlich, denn die wirtschaftliche Bedeutung der Stadt ist sehr eng mit eben diesem mitteleuropäischen Strom verbunden. Tatsächlich fließen noch ein paar mehr Flüsse durch Hamburg und vielen fällt dann vielleicht noch die Alster ein. Außer, man ist Tourist, steht am Jungfernstieg und nennt die Alster einen See – das lassen wir lieber bleiben. Zu diesen beiden Flüssen gesellt sich nun noch ein Dritter, die Bille. Sie ist eher unbekannt und wird von den meisten Rechtschreibprogrammen als Fehler wahrgenommen. Das aber verdient sie nicht.
@@ -49,7 +49,7 @@ So heißt es nicht zu Unrecht in einem Hamburger Lied: *An der Alster, an der El
 
 ## Billbrook
 
-![Billbrook]({{ site.baseurl }}/assets/img/lieblingsbilder-part4/billbrook.jpg)
+![Billbrook](/assets/img/lieblingsbilder-part4/billbrook.jpg)
 _Ein Wintermorgen in Billbrook (2021 / Markus Daams / CC0)_
 
 Wo wir schon einmal in der Gegend rund um die Bille sind, bleiben wir doch gleich einmal hier. Es gibt da ein „Niemandsland“, das sich von Rothenburgsort bis Billbrook erstreckt. Ich nenne es deswegen so, weil es dort außer Wirtschaft und Industrie eigentlich nichts zu entdecken oder zu sehen gibt. Allerdings teilt sich die Bille in diesem Bereich auf wie ein Fächer. Zahlreiche Kanäle durchfließen die Stadtteile und werden von noch mehr Brücken überspannt. Auf nicht wenigen Brücken hat man einen schönen Ausblick auf diese wenig bekannten Gegenden Hamburgs. 
@@ -62,7 +62,7 @@ Das Ergebnis sind Stadtteile, die touristisch völlig uninteressant sind, aber d
 
 ## Zurück an den Hafen
 
-![Die Elbphilharmonie und viel Hamburg]({{ site.baseurl }}/assets/img/lieblingsbilder-part4/elbphilharmonie.jpg)
+![Die Elbphilharmonie und viel Hamburg](/assets/img/lieblingsbilder-part4/elbphilharmonie.jpg)
 _Die Elbphilharmonie und viel Hamburg (2021 / Markus Daams / CC0)_
 
 Die Bille mündet an ihrem Ende im großen Strom mit Namen Elbe. An dieser liegt bekanntlich der größte Teil des Hamburger Hafens. Dazu muss aber erwähnt werden, dass sich die Elbe vor Hamburg in die Norderelbe und die Süderelbe aufteilt. Während die Süderelbe einen Schlenker durch Wilhelmsburg, die Veddel, Harburg usw. macht, schmiegt sich die Norderelbe an den Landungsbrücken entlang in Richtung Nordsee. Beide Arme vereinen sich dann wieder auf der Höhe „Toller Ort“. 
@@ -75,7 +75,7 @@ Besonders imposant aber ist die etwas zu teuer geratene Konzerthalle im Hintergr
 
 ## Hamburg, mindestens 50 Schattierungen von Grau!
 
-![Faehre in Hamburg im Nebel]({{ site.baseurl }}/assets/img/lieblingsbilder-part4/faehre-im-nebel.jpg)
+![Faehre in Hamburg im Nebel](/assets/img/lieblingsbilder-part4/faehre-im-nebel.jpg)
 _Eine Fähre in Hamburg bei Nebel (2014 / Markus Daams / CC0)_
 
 Die meisten meiner Fotos entstehen bei bestem Wetter und noch besserem Licht. Das sieht am Ende toll aus und das Foto macht entsprechen etwas her. Allerdings ist das Wetter häufig nicht so gut, wie es diese Bilder suggerieren. Hamburg ist bekanntlich eine verregnete Stadt und nicht umsonst ist eines der inoffiziellen Mottos: *„Nirgendwo ist der Himmel so schön grau wie in Hamburg“*. Da ist auf jeden Fall etwas dran. 

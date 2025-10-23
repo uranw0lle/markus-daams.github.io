@@ -23,7 +23,7 @@ Schauen wir uns doch einmal um ...
 
 Die Boberger Niederungen wurden 1991 unter Schutz gestellt. Ein Glück, denn bis dahin wurde viel Schindluder getrieben. Im 19. Jahrhundert dienten die Dünen als Sandquelle für die Industrie in Hamburg. In den 1960ern wurde hier illegal Giftmüll entsorgt. 
 
-![Boberge Düne]({{ site.baseurl }}/assets/img/boberg/boberger-sandduene.jpg)
+![Boberge Düne](/assets/img/boberg/boberger-sandduene.jpg)
 _Viele kennen die Boberger Niederungen auch unter dem Namen "Boberger Dünen". Ja, hier gibt es Sanddünen_
 
 Die Sanddünen sind ein Überbleibsel der Eiszeit. Heute darf der Sand auch einfach Sand sein, denn es wird davon nichts mehr für die Industrie oder für Deiche entnommen. Heute gibt es hier am Rand der Niederungen lediglich ein Segelflugplatz, der – ein Glück – völlig ohne Fluglärm auskommt.
@@ -32,20 +32,20 @@ Die Sanddünen sind ein Überbleibsel der Eiszeit. Heute darf der Sand auch einf
 
 Die Boberger Niederungen sind mein Lieblingsnaturschutzgebiet in Hamburg. Das liegt auch daran, dass sich hier so viele verschiedene Landschaften auf so kleinem Raum verteilen. Heide, Dünen, Moor, hier findet sich alles.
 
-![Sonnenaufgang in Boberg]({{ site.baseurl }}/assets/img/boberg/baeume-bei-sonnenaufgang.jpg)
+![Sonnenaufgang in Boberg](/assets/img/boberg/baeume-bei-sonnenaufgang.jpg)
 _Die Sonne geht über den Niederungen auf. Genau das sind die Momente, die ich meine_
 
 Fangen wir mit dem klassischen Wald an. Fairerweise muss ich sagen, dass es nicht der Wald ist, den man in Deutschland so kennt. In dem sandigen Boden wachsen keine massiven Bäume, denn sie finden hier keinen Halt. Dennoch wagen ein paar Bäume das Abenteuer und wachsen drauflos. Das Resultat ist ein sehr interessanter Baumbestand, der typisch norddeutsch ist. 
 
 
-![Baum mit Wurzel]({{ site.baseurl }}/assets/img/boberg/baum-mit-wurzel.jpg)
+![Baum mit Wurzel](/assets/img/boberg/baum-mit-wurzel.jpg)
 _Der Sand kommt und geht. Und so werden dann auch die Wurzeln freigelegt_
 
 Die Bäume haben es aufgrund des lockeren Untergrundes nicht leicht. Daher findet man hier und da auch ganz interessante Gewächse – Bäume, wie aus einem Roman.
 
 Allerdings verändert sich die Landschaft aktuell auch sehr stark. 
 
-![Ein umgestürzter Baum]({{ site.baseurl }}/assets/img/boberg/umgestuerzter-baum.jpg)
+![Ein umgestürzter Baum](/assets/img/boberg/umgestuerzter-baum.jpg)
 _Es wird nur noch sehr selten in die Natur eingegriffen. Man sieht also umgeknickte Bäume überall_
 
 Die Stürme in Hamburg haben durch den Klimawandel zugenommen. Dadurch wird auch der Baumbestand in den Niederungen angegriffen. Wie ich ja bereits geschrieben habe, haben es die Bäume in dem Boden hier nicht gerade leicht, Halt zu finden. Das Ergebnis kann man dann – leider – nach jedem Orkan auf’s Neue begutachten.
@@ -54,7 +54,7 @@ Die Stürme in Hamburg haben durch den Klimawandel zugenommen. Dadurch wird auch
 
 ... und das heißt ... Erica ampullacea. Das typische Heidekraut.
 
-![Heide Landschaft]({{ site.baseurl }}/assets/img/boberg/heide-landschaft.jpg)
+![Heide Landschaft](/assets/img/boberg/heide-landschaft.jpg)
 _Und dann, so mitten drin, noch etwas Heidelandschaft_
 
 Wie bereits beschrieben, bin ich davon fasziniert, wie viele Landschaften sich in den Niederungen vereinen. Hat man den Boberger See hinter sich gelassen, steht man plötzlich mitten in der Heide. Im Mittelalter haben Menschen versucht, sich hier niederzulassen und den Boden landwirtschaftlich zu nutzen. Das war nicht von Erfolg gekrönt, aber hinterließ uns eine interessante und biodiverse Heidelandschaft.
@@ -67,24 +67,24 @@ Ja, aber man muss sich vielleicht etwas vorbereiten.
 
 Es gibt einen befestigen Weg, der quer durch die Niederungen führt. Dieser ist geteert und eignet sich für entspanntes Fahrradfahren, joggen – oder wie ich es am liebsten mag – wandern. Es gibt daneben noch viele weitere, markierte Wege und Pfade. Möchte man auch diese begehen, empfehle ich gute Schuhe. Gerade nach einem Regenschauer sind einige der Wege kaum oder nur noch schwer begehbar. 
 
-![Der befestigte Weg in der Heide]({{ site.baseurl }}/assets/img/boberg/weg-und-heide.jpg)
+![Der befestigte Weg in der Heide](/assets/img/boberg/weg-und-heide.jpg)
 _Nur ein kleiner Teil der Wege ist geteert_
 
 ## Und dann findet man sie, diese Momente
 
 Ich bin besonders häufig sehr früh Morgens in den Boberger Niederungen unterwegs. Ich kenne die Wege dort inzwischen sehr gut, sodass ich mich dort auch dann bewegen kann, wenn es noch stockdunkel ist. Denn genau zwischen Nacht und Sonnenaufgang, entfaltet sich eine eigenartige Magie, die man nur dann und nur dort finden kann.
 
-![Niederungen im Nebel]({{ site.baseurl }}/assets/img/boberg/niederungen-im-nebel.jpg)
+![Niederungen im Nebel](/assets/img/boberg/niederungen-im-nebel.jpg)
 _Wenn der Sonnenaufgang auf Nebel trifft, wird’s richtig magisch._
 
 Menschen, die gerne Fotografieren, bekommen hier abseits von Hafen und Binnenalster tolle Motive vor die Linsen. 
 
-![Tau legt sich am Zaun ab]({{ site.baseurl }}/assets/img/boberg/tau-an-zaundraht.jpg)
+![Tau legt sich am Zaun ab](/assets/img/boberg/tau-an-zaundraht.jpg)
 _Der Zaun beim Segelflugplatz_
 
 Es lohnt sich also, ab und zu innezuhalten und sich umzuschauen. 
 
-![Eine Kirche durch Zweige gesehen]({{ site.baseurl }}/assets/img/boberg/kirche-durch-zweige.jpg)
+![Eine Kirche durch Zweige gesehen](/assets/img/boberg/kirche-durch-zweige.jpg)
 _St. Nikolai in Billwerder._
 
 ## Anreise

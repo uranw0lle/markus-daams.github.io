@@ -73,12 +73,12 @@ Danach findet man sich auf dem leeren Dashboard wieder. Nun kann man die Fotos h
 
 Ich habe mich für die denkbar einfachste Methode entschieden und die 23 GB an Fotos und Videos einfach per *Drag & Drop* in das Browserfenster gezogen. Und der Upload startete sofort und ohne Umwege. Dank Heimnetzwerk ging dieser auch recht zügig von statten. Nach ein paar Tassen Tee und etwas Musik erwartete mich mein Foto Stream. 
 
-![Der Fotostream von immich]({{ site.baseurl }}/assets/img/immich/immich-fotostream.jpg)
+![Der Fotostream von immich](/assets/img/immich/immich-fotostream.jpg)
 _Der Fotostream von immich. Sogar die Zeitleiste ist da, wo ich sie erwartete._
 
 Was mir dann direkt auffiel war, wie schnell sich die Oberfläche aufbaute. Die Vorschaubilder wurden sehr zügig generiert und es gibt beim Scrollen keine Wartezeit mehr. Die Fotos lassen sich anklicken und werden in einer Lightbox geöffnet. 
 
-![immich - Detailansicht eines Fotos]({{ site.baseurl }}/assets/img/immich/immich-foto-details-ansicht.jpg)
+![immich - Detailansicht eines Fotos](/assets/img/immich/immich-foto-details-ansicht.jpg)
 _Die Detailsansicht zeigt mir optional weitere Informationen zum Foto an. Zudem wird eine Karte eingeblendet, wenn das Foto die entsprechenden Daten liefert._
 
 ## immich – Noch besser mit App
@@ -95,17 +95,17 @@ Die Gesichtserkennung und das Machine Learning machten sich ans Werk.
 
 Am nächsten Morgen konnte ich nicht nur den gefundenen Personen einen Namen zuordnen, sondern die neue Suchfunktion ausprobieren. Denn **immich** durchsucht, genau wie Google Fotos und Co. Die Fotos nach verschiedenen Entitäten wie Personen und Dinge und Szenen. Diese lassen sich dann per einfachem Schlagwort durchsuchen:
 
-![immich - searchbar]({{ site.baseurl }}/assets/img/immich/immich-searchbar.jpg)
+![immich - searchbar](/assets/img/immich/immich-searchbar.jpg)
 _In der Searchbar lässt es sich nach Personen, Dingen, Tageszeiten uvm. suchen._
 
 Alternativ steht eine erweiterte Suche zur Verfügung. Hier lässt sich das eigene Fotoarchiv noch viel granularer durchsuchen, z.B. nach den in allen Fotos gefunden Orten (Bundesländer, Staaten, Provinzen usw. werden erkannt):
 
-![immich - erweiterte Suche]({{ site.baseurl }}/assets/img/immich/immich-erweiterte-suche.jpg)
+![immich - erweiterte Suche](/assets/img/immich/immich-erweiterte-suche.jpg)
 _Mit der erweiterten Suche kann ich viele verschiedene Parameter angeben. Sehr praktisch._
 
 Allerdings liegt die Suche öfters daneben. Dann finden sich Fotos im Suchergebnis wieder, die nichts mit dem eigentlichen Begriff zu tun haben.
 
-![Die immich suche ist noch ungenau]({{ site.baseurl }}/assets/img/immich/immich-suche-ungenau.jpg)
+![Die immich suche ist noch ungenau](/assets/img/immich/immich-suche-ungenau.jpg)
 _Die Hamburger Außenalster befindet sich tatsächlich nicht in Kanada._
 
 Das stört mich persönlich nicht. Denn wie bereits erwähnt, befindet sich **immich** nach wie vor in der Entwicklung und ich habe bisher die Fotos immer gefunden, die ich gesucht habe.
@@ -118,22 +118,22 @@ Ein klares Ja. Ich habe bisher keine Schwierigkeiten mit immich gehabt. Ich sich
 
 Die Karte mit der Übersicht aller Fotos ist ein tolles und sinnvolles Feature, dass ich gerne nutze. 
 
-![immich - karte aller fotos mit geodaten]({{ site.baseurl }}/assets/img/immich/immich-karte.jpg)
+![immich - karte aller fotos mit geodaten](/assets/img/immich/immich-karte.jpg)
 _Je näher man rein scrollt, desto detailierter die Auflösung. Fotos, die am selben Ort aufgenommen wurden, werden bei hoher Zoomstufe gruppiert._
 
 Fotos lassen sich in Alben zusammen fassen.
 
-![immich - Album]({{ site.baseurl }}/assets/img/immich/immich-album.jpg)
+![immich - Album](/assets/img/immich/immich-album.jpg)
 _Die angelegten Alben lassen zuden sich in immich mit einem Beschreibungstext versehen._
 
 Mit der Like-Funktion finde ich meine Lieblingsbilder schnell wieder:
 
-![immich  - liked Fotos]({{ site.baseurl }}/assets/img/immich/immich-liked-fotos.jpg)
+![immich  - liked Fotos](/assets/img/immich/immich-liked-fotos.jpg)
 _Fotos lassen sich, wie bei bekannten Apps, per Herz liken und landen so in einer gesonderten Übersicht._
 
 Übrigens steht auch eine sehr durchdachte Teilen-Funktion zur Verfügung.
 
-![immich - Teilen-Funktion im Details]({{ site.baseurl }}/assets/img/immich/immich-teilen.jpg)
+![immich - Teilen-Funktion im Details](/assets/img/immich/immich-teilen.jpg)
 _Für die Teilen-Funktion muss der externe Zugriff konfiguriert sein._
 
 ## Was ich nicht erwähnt habe

@@ -40,7 +40,7 @@ Die Installation läuft durch das Script automatisch ab und ist in ein paar Minu
 > Es gibt eine kostenlose Community Edition von MinIO. Diese ist in den Funktionen beschränkt. Für kleine Coding Projekte reicht sie aber aus.
 {: .prompt-info}
 
-![MinIO Login Screen]({{ site.baseurl }}/assets/img/minIO/minio-welcome-screen.jpg)
+![MinIO Login Screen](/assets/img/minIO/minio-welcome-screen.jpg)
 _Es gibt auch eine Weboberfläche. Die meiste Arbeit macht man aber im Terminal._
 
 Einen Haken gibt es noch: In der kostenlosen Community Edition wurde das Admin-Panel in der Weboberfläche entfernt. Das ist sehr schade, aber die Konfiguration kann auch bequem per Terminal vorgenommen werden und wer Lust hat, kann sich vom AI Chat seiner Wahl ganze Scripte bauen lassen, um bestimmte Schritte zu automatisieren.
@@ -152,7 +152,7 @@ Das ist nur ganz grundlegender Code. Zeigt aber, dass die Syntax nicht weiter au
 
 So sieht der Code etwa in Rust aus:
 
-![MinIO in Rust]({{ site.baseurl }}/assets/img/minIO/minio-rust.jpg)
+![MinIO in Rust](/assets/img/minIO/minio-rust.jpg)
 _MinIO lässt sich auch unter Rust nutzen. Hier nutzt man dann das 'aws_sdk_s3'_
 
 
@@ -160,7 +160,7 @@ _MinIO lässt sich auch unter Rust nutzen. Hier nutzt man dann das 'aws_sdk_s3'_
 
 Ich habe die Weboberfläche kurz erwähnt, da ich diese praktisch nicht nutze. Leider wurde das Admin-Panel in der kostenlosen Version von MinIO gestrichen. Dennoch will ich es nicht vorenthalten. 
 
-![MinIO Bucket Ansicht]({{ site.baseurl }}/assets/img/minIO/minio-weboberfläche.jpg)
+![MinIO Bucket Ansicht](/assets/img/minIO/minio-weboberfläche.jpg)
 _In der Weboberfläche können wir mal in die Buckets luschern._
 
 Grundlegende Operationen sind hier möglich. Man kann Buckets anlegen und löschen. Die Daten in den Buckets können angesehen und gelöscht werden. Auch lassen sich neue Dateien hochladen. Ich persönlich finde es aber sinnfrei, dass über die Weboberfläche zu machen. Idealerweise überlässt man seinem Code das Kommando. In meinem Screenshot oben habe ich allen Dateien eine eindeutige UUID verpasst, welche ich dann in einer regulären MySQL-Datenbank speichere. So nutze ich die Vorteile beider Welten, die der strukturierten und unstrukturierten Daten.

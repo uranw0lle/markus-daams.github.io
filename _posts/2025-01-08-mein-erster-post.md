@@ -32,7 +32,7 @@ Als erstes kopieren wir uns die Starter Files in unseren Account. Chirpy setzt d
 
 Im Repo selbst klicken wir noch einmal auf **Settings** -> im linken Menü auf **Pages** und unter **Build and deployment** muss nun **Github Actions** ausgewählt werden. Das ist wichtig, da mit diesem Schritt der Build- und Deployment Prozess automatisiert wird. So wie eine Änderung gepusht wird, wird diese Build and Deploy Action automatisch getriggert.
 
-![Github Actions]({{ site.baseurl }}/assets/img/screenshots/github-actions.png)
+![Github Actions](/assets/img/screenshots/github-actions.png)
 
 ### 2. Lokale Maschine vorbereiten
 
@@ -82,7 +82,7 @@ bundle exec jekyll s
 
 Die Website wird nun lokal gehostet.
 
-![Jekkyl lokal gestartet]({{ site.baseurl }}/assets/img/screenshots/jekyll-erster-start.png)
+![Jekkyl lokal gestartet](/assets/img/screenshots/jekyll-erster-start.png)
 
 ### 4. Den ersten Post anlegen
 
@@ -124,7 +124,7 @@ description: "Eine statische Website mit Jekyll erstellen"
 ---
 ```
 
-![Jekyll Post mit Markdown]({{ site.baseurl }}/assets/img/screenshots/jekyll-post-mit-markdown.png)
+![Jekyll Post mit Markdown](/assets/img/screenshots/jekyll-post-mit-markdown.png)
 
 > VS Code bietet bereits native Markdown unterstützung.
 {: .prompt-tip }

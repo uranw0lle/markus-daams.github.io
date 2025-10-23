@@ -37,7 +37,7 @@ Ich präsentiere den ersten Star Gast: **Wine**
 
 Die Entwicklung begann bereits 1993. Wine steht für **Wine is not an emulator**. Der Name ist wichtig, denn Wine emuliert tatsächlich nichts. Im Gaming würde eine Emulation zu viel Performance kosten. Wine biegt Windows API Aufrufe auf Linux POSIX Aufrufe um. Der Vorteil dieser Methode ist, dass die Hardware direkt angesprochen werden kann. Es muss also kein „virtuelles Windows“ dazwischen geschaltet werden. Dennoch finden sich Systemordner (wie zum Beispiel ein C:\ Drive) und eine Registry in der Laufzeitumgebung. 
 
-![Registry unter Wine]({{ site.baseurl }}/assets/img/gaming-unter-linux/wine-regedit.jpg){: w="450" }
+![Registry unter Wine](/assets/img/gaming-unter-linux/wine-regedit.jpg){: w="450" }
 _Die Registry unter Wine kann auch bearbeitet werden (Screenshot: Markus Daams / 2025)_
 
 Neben Games lassen sich auch andere Windows Programme mit Wine unter Linux nutzen. Das funktioniert mal recht gut, mal schlecht und öfters auch gar nicht. Die Windows-API war schon immer recht komplex und wurde mit der Zeit noch sehr viel komplexer. 
@@ -62,7 +62,7 @@ Proton war und ist ein echter Turbo Booster für Gaming unter Linux. Wer heute e
  
 Dasselbe System läuft auch auf dem Steam Deck. Valve nutzt auf seinem Handheld ein eigens angepasstes Arch Linux (SteamOS) und die Spiele werden mit Proton ausgeführt. Die Anzahl der spielbaren Titel wächst dabei wöchentlich. 
 
-![Proton unter Steam]({{ site.baseurl }}/assets/img/gaming-unter-linux/steam-proton.jpg){: w="450" }
+![Proton unter Steam](/assets/img/gaming-unter-linux/steam-proton.jpg){: w="450" }
 _Proton ist inzwischen standardmäßig unter Linux aktiv (Screenshot: Markus Daams / 2025)_
 
 Das kommt auch allen anderen Gamern zugute, denn was auf dem Steam Deck läuft, wird sehr wahrscheinlich auch auf anderen Linux Distributionen laufen, Open Source sei Dank.
@@ -75,7 +75,7 @@ Neben **Steam**, gibt es noch weitere Game Launcher. So hat sich der **Epic Game
 
 Dank Proton hat sich inzwischen ein vitales Ökosystem entwickelt. Programme wie **Lutris** oder auch **Heroic** haben die Installation und Nutzung der verschiedenen Launcher nicht nur stark vereinfacht, die Tools sehen modern aus und vereinfachen die Verwaltung der Spiele enorm. Zudem bringen sie häufig noch angepasste Proton Versionen mit (z.B. GE-Proton). Open Source sei Dank.
 
-![Heroic Game Launcher]({{ site.baseurl }}/assets/img/gaming-unter-linux/heroic-launcher.jpg){: w="550" }
+![Heroic Game Launcher](/assets/img/gaming-unter-linux/heroic-launcher.jpg){: w="550" }
 _Tools wie der Heroic Games Launcher vereinfachen die Installation und Verwaltung von Games (Screenshot: Markus Daams / 2025)_
 
 An dieser Stelle will ich bekannte Tools einmal kurz vorstellen. Auch hier besteht kein Anspruch auf Vollständigkeit, sorry.
@@ -88,7 +88,7 @@ An dieser Stelle will ich bekannte Tools einmal kurz vorstellen. Auch hier beste
 
 * **GameHub**: Der GameHub fristet fast ein Schattendasein, aber meiner Meinung nach unverdient. Neben bekannten Launchern lassen sich Proton und Wine Versionen bequem verwalten. Zudem gibt es zahllose Erweiterungen aus der Community. So lassen sich Artworks und Themse einfach nach installieren. Selbst ein Vollbildmodus steht zur Verfügung, perfekt fürs Streaming auf einen Handheld oder Fernseher. Übrigens, DOSBox, ScummVM und RetroArch werden auch unterstützt.
 
-![Bottles UI]({{ site.baseurl }}/assets/img/gaming-unter-linux/bottles.jpg){: w="450" }
+![Bottles UI](/assets/img/gaming-unter-linux/bottles.jpg){: w="450" }
 _Die UI von Bottles ist übersichtlich, aber funktional (Screenshot: Markus Daams / 2025)_
 
 ## Ohne Treiber nützt das beste Game nichts
@@ -138,7 +138,7 @@ Viele. Ich möchte die Bekanntesten an dieser Stelle einmal sehr kurz und sehr k
 
 Gaming unter Linux ist kein Nischenthema mehr. Immer mehr Spiele- und Hardware-Tester haben Linux in ihre Benchmarks mit aufgenommen. Das Steam Deck ist ein riesiger Erfolg und weitere Anbieter wie Asus, MSI und Lenovo bringen eigene Handhelds heraus. Das Steam Deck ist nicht trotz, sondern wegen Linux ein tolles Gaming Device geworden. 
 
-![Native Games unter Linux]({{ site.baseurl }}/assets/img/gaming-unter-linux/linux-games.jpg){: w="450" }
+![Native Games unter Linux](/assets/img/gaming-unter-linux/linux-games.jpg){: w="450" }
 _Es gibt übrigens auch viele (tolle!) native Games unter Linux (Screenshot: Markus Daams / 2025)_
 
 Dennoch ist nicht alles Gold, was glänzt. Die Auswahl an Distributionen macht es Neulingen schwer, den richtigen Einstieg zu finden. Was ich persönlich als eine der größten Stärken der Linux Welt ansehe, kann sehr erschreckend wirken, wenn man immer nur ein Windows oder nur ein MacOS zu Auswahl hatte. Klar, wer wagt, gewinnt. Aber solche Bedenken sollte man ernst nehmen.

@@ -27,7 +27,7 @@ Auf die Installation von Fedora will ich nicht groß eingehen, denn im Internet 
 
 Nutzt man bereits Fedora, so kann man sich mit wenigen Klicks einen neuen USB-Stick erstellen, mit dem man dann die Installation auf einer anderen Maschine ausführen kann. Alternativ können natürlich die bekannten Tools wie **Rufus**, **balenaEtcher** und Co genutzt werden.
 
-![Fedora Media Writer]({{ site.baseurl }}/assets/img/fedora/fedora-media-writer.jpg){: w="600"}
+![Fedora Media Writer](/assets/img/fedora/fedora-media-writer.jpg){: w="600"}
 _Fedora bringt ein eigenes Tool mit, um bootfähige Installationsmedien zu erstellen._
 
 Mit dem frisch erstellten USB-Stick lässt sich Fedora im Live-Modus ausführlich testen, bevor man es installiert. Das habe ich getan, denn auch wenn ich lange keine Probleme mit Treibern unter Linux mehr hatte, kann man diese nie völlig ausschließen. WLAN, Bluetooth, Multi-Monitor-Unterstützung etc., ich arbeite meine kleine Liste ab, um sicherzugehen, dass nach der Installation alles läuft. In meinem Fall werden alle Hardwarekomponenten des LG-Gram von 2022 unterstützt.
@@ -40,7 +40,7 @@ Nach der Installation legt man sein Benutzerkonto an und dann passiert – nicht
 
 Während ich auf meinem Desktop-PC KDE nutze, habe ich mich für den Laptop für GNOME entschieden. Der Laptop dient mir hauptsächlich zum Medienkonsum. Daher will ich es einfach und schnörkellos haben. Also das genaue Gegenteil vom aktuellen Zustand von Windows.
 
-![Gnome Desktop]({{ site.baseurl }}/assets/img/fedora/gnome-desktop.jpg)
+![Gnome Desktop](/assets/img/fedora/gnome-desktop.jpg)
 _Der GNOME Desktop von Fedora. Aufgeräumt und auf das Wesentliche beschränkt_
 
 Man findet hier die Design-Philosophie von Apples Mac OS wieder. Ein meiner Meinung nach geeignetes Vorbild, wenn man den Computer anhand der Bedürfnisse von Menschen ausrichten will und weniger von Konzernen. *Ich schweife mal wieder in die Kritik am Turbo-Kapitalismus ab.*
@@ -53,7 +53,7 @@ Es gibt ein Gefühl bei mir, für welches es kein geeignetes Wort gibt. Es ist e
 
 Dieses Gefühl habe ich auf meinem neuen GNOME-Desktop nicht. Es ist alles da, wo ich es mir wünsche, wo ich es einfach erwarte.
 
-![GNOME Action Center]({{ site.baseurl }}/assets/img/fedora/gnome-actioncenter.jpg){: w="400"}
+![GNOME Action Center](/assets/img/fedora/gnome-actioncenter.jpg){: w="400"}
 _Alles, was ich brauche, ist genau einen Klick entfernt._
 
 WLAN, Bluetooth, aller Verbindungen, die ich brauche, sind ruckzuck hergestellt. 
@@ -66,7 +66,7 @@ Der Kalender in Windows war mal richtig toll. Mit einem Klick in den Tray habe i
 
 Wende ich mich aber meinem Zen Meister Fedora zu, bekomme ich, wonach es mich dürstet. Ein auf das Nötigste reduziertes Information-Center.
 
-![GNOME Information Center]({{ site.baseurl }}/assets/img/fedora/gnome-nachrichtencenter.jpg){: w="600"}
+![GNOME Information Center](/assets/img/fedora/gnome-nachrichtencenter.jpg){: w="600"}
 _Alles Wichtige auf einen Blick._
 
 Ich finde hier alle Informationen, die ich mir wünsche, direkt auf einen Blick, hinter einem Klick. Mein Kalender ist wieder so, wie ich ihn mal hatte. Ein kleiner Indikator zeigt mir einen Termin an und mit einem Klick sehe ich die Details. So einfach kann es sein und das setzt sich überall fort.
@@ -77,7 +77,7 @@ Damit war und ist es für die UI / UX Designer dieser Welt die größte Herausfo
 
 Linux hatte stets den Luxus, mit einem weißen Blatt Papier starten zu können. Wem der aktuelle Desktop nicht passte, konnte sich selbst etwas Neues programmieren. Kennt Windows genau einen Desktop, gibt es für Linux *… Moment ... KDE, GNOME, XFCE, Cinnamon, Fluxbox, Lumina, Lxde, FVWM …  puh …* eine ganze Latte. Jeder dieser Desktops kommt mit einer eigenen Design-Philosophie daher. Die meisten haben gemeinsam, dass sie das Arbeiten mit dem Computer übersichtlich und produktiv gestalten wollen.
 
-![Einstellungsmenü unter Fedora 42 mit Gnome]({{ site.baseurl }}/assets/img/fedora/gnome-einstellungen.jpg)
+![Einstellungsmenü unter Fedora 42 mit Gnome](/assets/img/fedora/gnome-einstellungen.jpg)
 _Alle wichtigen Einstellungen auf einen Blick in einem Menü._
 
 Die Systemeinstellungen unter GNOME sind ebenfalls nur einen Klick entfernt, teilen sich in sinnvolle Untermenüs auf und sind selbsterklärend. Ich merke für mich, dass man die Komplexität der Menüs bewusst reduziert hat, weil man weiß, dass man hier einfach nicht so viel Zeit verbringen will. Ich will mich nicht so viel in Menüs herumtreiben, sondern spaßige Dinge tun wie Katzenvideos schauen oder mit Fremden Menschen sachlich aktuelle politische Themen auf den Social Media Plattformen dieser Welt erörtern.
@@ -92,7 +92,7 @@ Ein Beispiel: Der Rechtsklick auf meinem Touchpad ging nicht mehr. Klingt erst m
 
 Und wo ist eigentlich die Takleiste hin?
 
-![Multitasking mit GNOME]({{ site.baseurl }}/assets/img/fedora/gnome-multitasking.jpg)
+![Multitasking mit GNOME](/assets/img/fedora/gnome-multitasking.jpg)
 _Taskleiste, Tasks und Desktop finden sich alle in diesem Menü._
 
 Auch hier hat man sich Gedanken gemacht und ist augenscheinlich zu einer anderen Lösung gekommen, als die Software-Spezialisten in Redmond. Die Taskleiste ist nicht mehr dauerhaft sichtbar. Auch hieran musste ich mich erst gewöhnen, aber mir wurde schnell klar, warum das so ist.

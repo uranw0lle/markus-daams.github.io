@@ -1,6 +1,9 @@
 ### Offizielle Projektseite / How to write a post 
 https://chirpy.cotes.page/posts/write-a-new-post/#syntax
 
+### Update
+bundle update jekyll-theme-chirpy
+
 ### Server start
 bundle exec jekyll s
 
@@ -19,7 +22,7 @@ mkdir resized && mogrify -resize 1600x -quality 85 -path ./resized/ *.jpg
 
 ### Bild und Bild-Unterschrift (VS Code unterstützt hier Drag and Drop. Shift Tast gedrück halten für Markdown Umwandlung). Shadow ist optional.
 
-![Tolles Bild](../assets/img/XXX.jpg){: .shadow }
+![Tolles Bild](assets/img/XXX.jpg){: .shadow }
 Größe und Position: {: w="300" h="300" .right }
 _Was für ein tolles Bild_
 

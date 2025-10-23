@@ -23,19 +23,19 @@ Heute schaue ich mir [**AFFiNE**](https://affine.pro/) an. Der Claim *"This is y
 
 Die [Installation](https://docs.affine.pro/docs/self-host-affine) von **AFFiNE** ist mittels Docker möglich. Ich entscheide mich aber für die Installation via **Runtipi**. In [diesem Artikel](https://markus-daams.com/posts/runtipi-selfhosting-einfach-gemacht/) stelle ich **Runtipi** vor. Mit einem Klick landet **AFFiNE** auf der SSD und wird automatisch gestartet. 
 
-![Affine Welcome Screen]({{ site.baseurl }}/assets/img/affine/affine-welcomescreen.jpg)
+![Affine Welcome Screen](/assets/img/affine/affine-welcomescreen.jpg)
 _Nach der Installation erwartet uns der Welcome Screen von AFFiNE im Webbrowser_
 
 Im Webbrowser geht es dann weiter. Nach der Anmeldung öffnet sich dann das Admin-Panel. 
 
-![Admin Panel von Affine]({{ site.baseurl }}/assets/img/affine/affine-adminpanel.jpg)
+![Admin Panel von Affine](/assets/img/affine/affine-adminpanel.jpg)
 _Im Admin-Panel werden User und Server Settings verwaltet_ 
 
 Im Admin-Panel verwalte ich die User und die Server Settings. 
 
 Um nun auf den normalen User Workspace zuzugreifen, rufe ich die IP-Adresse oder Subdomain + Port 3010 auf. Daraufhin begrüßt mich erst einmal eine Warnmeldung.
 
-![Affine Getting Started Page]({{ site.baseurl }}/assets/img/affine/affine-getting-started.jpg)
+![Affine Getting Started Page](/assets/img/affine/affine-getting-started.jpg)
 _Um die Warnmeldung muss ich mich als Erstes kümmern_
 
 In der aktuellen Konfiguration werden alle Änderungen lokal im Browser gespeichert. Diese Daten gehen also in dem Moment verloren, indem ich den Browser Cache lösche. Gemäß der [Anleitung](https://docs.affine.pro/docs/self-host-affine) muss ich dies auf *Cloud* ändern. 
@@ -49,14 +49,14 @@ Hiermit werden meine Daten dann serverseitig gespeichert. Es reicht dazu aus, au
 
 Mich begrüßt eine vorab konfigurierte Beispiel-Seite, auf dem gezeigt wird, was **AFFiNE** so alles bietet. Ich kann mir ein Kanban-Board anlegen, wissenschaftliche Notationen werden unterstützt, es stehen zahlreiche Formatierungsoptionen für Text zur Verfügung und noch vieles mehr. 
 
-![Affine Beispiel Board]({{ site.baseurl }}/assets/img/affine/affine-beispielboard.jpg)
+![Affine Beispiel Board](/assets/img/affine/affine-beispielboard.jpg)
 _Die Beispiele zeigen, was sich alles nutzen lässt_
 
 Ich habe die Sprache erst einmal auf Deutsch geändert. Der Dark Mode wurde anhand meiner System-Settings vorausgewählt. 
 
 Ich lege meine erste Seite an, um mich einmal vertraut mit der Bedienung zu machen. Diese ist wirklich intuitiv gestaltet. 
 
-![Affine - Erste Seite anlegen]({{ site.baseurl }}/assets/img/affine/affine-erste-seite.jpg)
+![Affine - Erste Seite anlegen](/assets/img/affine/affine-erste-seite.jpg)
 _Die Seiten lassen sich umfangreich ändern_
 
 Mittels '/' lässt sich auf eine Seite das Menü öffnen. Hier stehen die Blocks zur Verfügung, die ich einfügen kann. Und das sind wirklich viele Optionen, zum Beispiel:
@@ -71,7 +71,7 @@ Es gibt also sehr viele Möglichkeiten, eine Seite genau auf ein Projekt anzupas
 
 Die erste eigene Seite lässt sich schnell anlegen und mit Leben füllen. Die Bedienung ist intuitiv und lehnt sich sehr an die Konzepte von bereits existierenden Lösungen an. Wer also irgend eine Projektverwaltung kennt, wird sich vermutlich schnell zurecht finden.
 
-![Affine - erste eigene Seite]({{ site.baseurl }}/assets/img/affine/affine-eigene-seite.jpg)
+![Affine - erste eigene Seite](/assets/img/affine/affine-eigene-seite.jpg)
 _Die erste eigene Seite lässt sich schnell anlegen und gestalten_
 
 Übrigens: Alle Änderungen werden praktisch sofort und automatisch gespeichert. Dank der serverseitigen Speicherung geht auch dann nichts verloren, wenn mal schnell der Laptop zugeklappt werden muss. 

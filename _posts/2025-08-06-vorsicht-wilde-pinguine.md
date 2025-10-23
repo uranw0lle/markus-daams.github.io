@@ -25,7 +25,7 @@ Aber fangen wir von vorne an.
 
 Viele haben die Zeit nicht miterlebt, in denen Computer einzig durch Tastatureingaben bedient werden konnten. Da wurden kryptische Kommandos in ein Terminal gehackt und es wurde auf irgendeine Ausgabe gewartet. Commodore 64, die ersten DOS PCs, sie alle ließen sich nur auf diesem Wege bedienen. Auch die ersten Versionen von Windows (1.x, 2.x, 3.x …) ließen sich so bedienen, auch wenn mit der Zeit etwas Grafik in die Konsole kam. Schlussendlich setzten sich aber Betriebssysteme mit grafischen Benutzeroberflächen durch. Microsoft Windows 95 ließ sich sehr komfortabel mit der Maus bedienen. Auch Mac OS und andere Betriebssysteme gingen diesen Weg.
 
-![Linux Terminal]({{ site.baseurl }}/assets/img/linux-wechsel/linux-terminal.jpg){: w="500" }
+![Linux Terminal](/assets/img/linux-wechsel/linux-terminal.jpg){: w="500" }
 _Gefürchtet, aber sehr mächtig, das Terminal unter Linux (Screenshot / Markus Daams)_
 
 Die Entwicklungen von Firmen wie Xerox, Microsoft, Apple und viele mehr machten es möglich, dass man einen Computer haben konnte, ohne Ahnung von Computern haben zu müssen. 
@@ -101,7 +101,7 @@ Als nächstes kann man sich zum Beispiel Youtube Videos der Distribution anschau
 
 **Tipp Nummer 3:** Es ist empfehlenswert, die eigene Hardware + Name der Distribution in die Suchmaschine der Wahl zu tippen. Hier geht es dann darum, die Erfahrungen und Probleme anderer User kennenzulernen. Gibt es eine bestimmte Hardware-Komponente, die vielleicht Schwierigkeiten verursacht? So etwas kann man noch vor der Installation herausfinden. 
 
-![Linux auf DuckDuckGo]({{ site.baseurl }}/assets/img/linux-wechsel/linux-duckduckgo.jpg){: w="650"}
+![Linux auf DuckDuckGo](/assets/img/linux-wechsel/linux-duckduckgo.jpg){: w="650"}
 _Wenn man "Linux" duckduckgoed, wird die Ente zum Entguin ... oder so (Screenshot / Markus Daams)_
 
 

@@ -23,7 +23,7 @@ Wer in Hamburg unterwegs ist, wird immer wieder auf den "Baum" im Namen stoßen.
 
 Der Höltigbaum liegt mitten im Grenzgebiet zwischen Hamburg-Wandsbek und Schleswig-Holstein. Beide Bundesländer fühlen sich auch für dieses Naturschutzgebiet verantwortlich. 
 
-![Die Landschaft des Höltigbaums]({{ site.baseurl }}/assets/img/hoeltigbaum/hoeltigbaum-landschaft.jpg)
+![Die Landschaft des Höltigbaums](/assets/img/hoeltigbaum/hoeltigbaum-landschaft.jpg)
 _Die Landschaft wird auch hier größtenteils sich selbst überlassen._
 
 Wer also neugierig ist, wie sich die Natur einen einst militärisch genutztes Gebiet zurückerobert, ist hier genau richtig.
@@ -38,7 +38,7 @@ Nach dem Zweiten Weltkrieg haben kurzzeitig britische Soldaten den Höltigbaum a
 
 Ab 1958 übernahm die Bundeswehr den Höltigbaum. Es wurde die Standortschießanlage vor allem für die [Panzerbrigade 17](https://de.wikipedia.org/wiki/Panzergrenadierbrigade_17), eine Panzergrenadierbrigade der **6. Panzergrenadierdivision**. Diese waren in Hamburg-Rahlstedt (Boehn-Kaserne) stationiert und hatten es daher nicht weit in den Höltigbaum.
 
-![Eine alte Panzerstraße im Naturschutzgebiet Höltigbaum]({{ site.baseurl }}/assets/img/hoeltigbaum/hoeltigbaum-weg.jpg)
+![Eine alte Panzerstraße im Naturschutzgebiet Höltigbaum](/assets/img/hoeltigbaum/hoeltigbaum-weg.jpg)
 _Gut zu erkennen sind noch die Spuren der Schützenpanzer, die hier eins fuhren._
 
 Die Panzergrenadiere aus Hamburg waren hier auch in Schützenpanzern unterwegs. Deren Spuren sind noch heute im Höltigbaum deutlich zu sehen. Heute sind diese aber begehbar. Spuren der militärischen Nutzung sind noch heute zu erkennen. Aber nur, wenn man weiß, wonach man gucken muss.
@@ -50,7 +50,7 @@ Die **Panzerbrigade 17** wurde 1993 aufgelöst und ab dem Jahr 1995 hat die Bund
 
 Die militärischen Installationen wurden zurückgebaut und die Natur konnte sich wieder ausbreiten.
 
-![Ein Gewässer im NSG Höltigbaum]({{ site.baseurl }}/assets/img/hoeltigbaum/hoeltigbaum-see.jpg)
+![Ein Gewässer im NSG Höltigbaum](/assets/img/hoeltigbaum/hoeltigbaum-see.jpg)
 _Auch Gewässer gibt es im Höltigbaum._
 
 ## Anreise
@@ -65,17 +65,17 @@ Durch die militärische Nutzung entstand hier eine Art Heidelandschaft, wie sie 
 
 Aber so langsam wagt sich auch größeres Gehölz wieder ans Licht. Es ist herrlich beim Wandern zu sehen, wie sich die Natur hier wieder zurückentwickelt.
 
-![Die Landschaft des Höltigbaums]({{ site.baseurl }}/assets/img/hoeltigbaum/hoeltigbaum-landschaft2.jpg)
+![Die Landschaft des Höltigbaums](/assets/img/hoeltigbaum/hoeltigbaum-landschaft2.jpg)
 _Keine Panzer mehr da, der Baum traut sich nun raus._
 
 Alle Wege sind miteinander verbunden. Es gibt zudem zahlreiche Hinweis- und Infotafeln. Besonders gelungen fand ich die Erklärtafeln zu den Gesteinen, die sich hier finden lassen. Die Gletscher der letzten Eiszeit haben in ganz Norddeutschland ihre Spuren hinterlassen.
 
-![Infotafeln im NSG Höltigbaum erklären die Natur und das Gestein]({{ site.baseurl }}/assets/img/hoeltigbaum/hoeltigbaum-infotafeln.jpg)
+![Infotafeln im NSG Höltigbaum erklären die Natur und das Gestein](/assets/img/hoeltigbaum/hoeltigbaum-infotafeln.jpg)
 _Infotafeln sind im gesamten Naturschutzgebiet zu finden und sehr nützlich._
 
 Die Wege sind alle befestigt. Einige der Sandwege können bei Regen aber schlammig werden. Ich empfehle daher festes Schuhwerk.
 
-![Ein Wanderweg im Naturschutzgebiet Höltigbaum]({{ site.baseurl }}/assets/img/hoeltigbaum/hoeltigbaum-weg2.jpg)
+![Ein Wanderweg im Naturschutzgebiet Höltigbaum](/assets/img/hoeltigbaum/hoeltigbaum-weg2.jpg)
 _Ein Wanderweg im Naturschutzgebiet Höltigbaum_
 
 Auch zahlreiche Wildtiere und sogar Galloway Rinder lassen sich hier entdecken.
