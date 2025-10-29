@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Python Notebook mit Marimo"
 date: 2025-02-12 08:30:58 +0100
 category: coding

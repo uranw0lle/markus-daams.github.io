@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Buy European Teil 2"
 date: 2025-03-19 09:32:20 +0100
 category: 

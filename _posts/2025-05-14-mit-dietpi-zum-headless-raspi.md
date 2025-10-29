@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Mit Dietpi zum Headless Raspi"
 date: 2025-05-14 07:36:41 +0200
 category: selfhosting

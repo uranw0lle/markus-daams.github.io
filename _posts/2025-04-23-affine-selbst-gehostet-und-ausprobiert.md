@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Affine selbst gehostet und ausprobiert"
 date: 2025-04-23 06:53:07 +0200
 category: selfhosting

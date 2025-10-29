@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Mein Erster Post"
 date: 2025-01-08 10:07:59 +0100
 category: 
@@ -114,7 +114,7 @@ Beispiel für einen Tag-Header:
 
 ```yaml
 ---
-layout: 
+layout: post
 title: "Mein Erster Post"
 date: 2025-01-08 10:07:59 +0100
 category: 

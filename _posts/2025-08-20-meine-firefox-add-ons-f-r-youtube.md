@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Meine Firefox Add-ons für YouTube"
 date: 2025-08-20 07:19:05 +0200
 category: tipps

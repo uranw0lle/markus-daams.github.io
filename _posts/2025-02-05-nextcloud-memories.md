@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Nextcloud - Memories"
 date: 2025-02-05 08:27:31 +0100
 category: selfhosting

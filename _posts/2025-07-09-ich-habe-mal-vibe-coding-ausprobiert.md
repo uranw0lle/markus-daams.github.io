@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Ich habe mal Vibe Coding ausprobiert"
 date: 2025-07-09 06:53:02 +0200
 category: coding

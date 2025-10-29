@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Runtipi - Self-Hosting einfach gemacht"
 date: 2025-01-22 08:51:41 +0100
 category: selfhosting

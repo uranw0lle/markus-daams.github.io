@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Synology auf Abwegen"
 date: 2025-07-16 08:42:47 +0200
 category: 

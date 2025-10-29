@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Proxmox Upgrade Von 8 Auf 9"
 date: 2025-10-08 07:58:28 +0200
 category: selfhosting

@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "immich - Fotos und Videos selbst hosten"
 date: 2025-01-29 08:42:08 +0100
 category: selfhosting

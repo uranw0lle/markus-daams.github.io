@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Ich baue mir einen Bot"
 date: 2025-09-24 08:59:22 +0200
 category: coding

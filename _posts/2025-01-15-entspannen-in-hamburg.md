@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Entspannen in Hamburg"
 date: 2025-01-15 11:31:17 +0100
 category: spots

@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Devops aus der Hölle"
 date: 2025-07-30 09:15:14 +0200
 category: satire

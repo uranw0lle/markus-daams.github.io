@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Wo geht die Reise hin, Firefox?"
 date: 2025-08-13 09:14:04 +0200
 category: gedanken

@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Meine Gedanken zu Windows"
 date: 2025-05-28 09:14:30 +0200
 category: gedanken

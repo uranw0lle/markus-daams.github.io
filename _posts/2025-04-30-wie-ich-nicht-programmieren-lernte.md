@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Programmiernen lernen - wie es nicht geht"
 date: 2025-04-30 07:59:01 +0200
 category: coding

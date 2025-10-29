@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Vorsicht, wilde Pinguine"
 date: 2025-08-06 08:13:55 +0200
 category: linux

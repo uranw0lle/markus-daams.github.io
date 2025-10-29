@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Ideen organisieren mit Karakeep"
 date: 2025-06-25 08:12:07 +0200
 category: selfhosting

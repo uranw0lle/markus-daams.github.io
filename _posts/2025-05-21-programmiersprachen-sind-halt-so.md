@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Programmiersprachen sind halt so"
 date: 2025-05-21 07:00:31 +0200
 category: satire

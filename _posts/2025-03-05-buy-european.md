@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Buy European"
 date: 2025-03-05 09:36:35 +0100
 category: 

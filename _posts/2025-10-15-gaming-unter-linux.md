@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Gaming unter Linux - Ein unvollständiger Überblick"
 date: 2025-10-15 07:59:21 +0200
 category: 

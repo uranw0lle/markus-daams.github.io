@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Bekommt das Steam Deck Konkurrenz?"
 date: 2025-06-18 06:30:36 +0200
 category: gedanken

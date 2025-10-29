@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Object Store selbst hosten"
 date: 2025-07-02 07:36:59 +0200
 category: selfhosting

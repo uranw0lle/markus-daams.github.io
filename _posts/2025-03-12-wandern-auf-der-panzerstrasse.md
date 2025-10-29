@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Wandern auf der Panzerstraße"
 date: 2025-03-12 08:34:29 +0100
 category: spots

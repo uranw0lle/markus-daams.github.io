@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "D Scharf - Die deutsche Programmiersprache"
 date: 2025-09-03 10:09:47 +0200
 category: coding

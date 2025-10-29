@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Proxmox Helper Scripts vorgestellt"
 date: 2025-02-26 08:40:52 +0100
 category: selfhosting

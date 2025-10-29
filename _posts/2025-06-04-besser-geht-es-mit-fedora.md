@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Besser geht es mit Fedora"
 date: 2025-06-04 08:01:34 +0200
 category: gedanken

@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "bad vibes beim Vibe Coding"
 date: 2025-07-23 06:50:57 +0200
 category: coding

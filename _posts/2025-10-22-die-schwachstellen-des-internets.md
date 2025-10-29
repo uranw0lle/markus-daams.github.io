@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Die Schwachstellen des Internets"
 date: 2025-10-22 07:21:29 +0200
 category: 

@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Lieblingsfotos Part Tres"
 date: 2025-06-11 07:40:34 +0200
 category: fotografie

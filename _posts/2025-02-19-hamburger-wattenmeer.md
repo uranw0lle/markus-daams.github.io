@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Hamburger Wattenmeer"
 date: 2025-02-19 08:17:35 +0100
 category: spots

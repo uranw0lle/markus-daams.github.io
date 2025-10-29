@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Entspannen mit Moodist"
 date: 2025-03-26 08:51:40 +0100
 category: selfhosting

@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Aktien-Ticker selbst bauen und hosten"
 date: 2025-04-16 06:35:42 +0200
 category: selfhosting

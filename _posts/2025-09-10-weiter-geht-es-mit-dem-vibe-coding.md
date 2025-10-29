@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Weiter geht es mit dem Vibe Coding"
 date: 2025-09-10 08:30:11 +0200
 category: coding

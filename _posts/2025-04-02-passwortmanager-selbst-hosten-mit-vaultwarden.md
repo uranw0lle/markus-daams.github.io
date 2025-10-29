@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Passwortmanager selbst hosten mit Vaultwarden"
 date: 2025-04-02 06:45:04 +0200
 category: selfhosting
