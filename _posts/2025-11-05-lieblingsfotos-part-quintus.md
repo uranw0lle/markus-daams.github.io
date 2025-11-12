@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Lieblingsfotos Part Quintus"
 date: 2025-11-05 08:43:41 +0100
 category: fotografie
