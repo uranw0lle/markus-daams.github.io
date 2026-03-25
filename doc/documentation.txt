@@ -26,6 +26,17 @@ mkdir resized && mogrify -resize 1600x -quality 85 -path ./resized/ *.jpg
 Größe und Position: {: w="300" h="300" .right }
 _Was für ein tolles Bild_
 
+### Video einbetten
+
+<figure class="text-center">
+  <div class="ratio ratio-16x9">
+    <iframe src="https://www.youtube-nocookie.com/embed/VIDEOID" allowfullscreen></iframe>
+  </div>
+  <figcaption class="mt-2 text-muted italic">
+    Offizieller Trailer zur Serie (Staffel 1) &copy; Apple TV+ / Netflix / HBO Max / Disney+
+  </figcaption>
+</figure>
+
 ### Formatierung
 
 Plain Text für z.B. Scripte 
