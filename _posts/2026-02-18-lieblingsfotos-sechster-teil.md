@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: post
 title: "Lieblingsfotos-sechster-Teil"
 date: 2026-02-18 08:25:16 +0100
 category: fotografie
