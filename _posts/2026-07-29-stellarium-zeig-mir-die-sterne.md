@@ -4,7 +4,7 @@ title: "Stellarium - zeig mir die Sterne"
 date: 2026-07-29 08:44:09 +0200
 category: tools
 author: 
-tags: [tools, tipps, learning]
+tags: [tools, tipps, learning, raumfahrt, sterne]
 description: "In Großstädten verschwindet der Sternenhimmel. Mit Stellarium kann man ihn wieder sichtbar machen."
 image:
   path: /assets/img/post-header/header-stellarium.jpg
