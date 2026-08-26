@@ -4,7 +4,7 @@ title: "Rust Dioxus angeschaut"
 date: 2026-08-12 07:11:46 +0200
 category: coding
 author: 
-tags: [coding]
+tags: [coding, rust]
 description: "Das Rust Ökosystem wächst und gedeiht.Ich habe mir Dioxus einmal angeschaut."
 image:
   path: /assets/img/post-header/header-rust-dioxus.jpg
