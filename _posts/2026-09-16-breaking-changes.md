@@ -41,7 +41,7 @@ Dieser Breaking Change macht für mich eine Migration der Image- und Container-V
 
 ## Paperless -  Nur ein Breaking Change? Viele!
 
-[Paperless-ngx](paperless-ngx.com) ist diese Art Software, die man einmal installiert und dann schnell wieder vergisst. Sie arbeitet still im Hintergrund und ist dennoch unheimlich nützlich. Es handelt sich um eine digitale Dokumentenverwaltung. Wer auf ein papierloses Büro umsteigen möchte, kommt an Paperless-ngx schon fast nicht mehr vorbei. Ich nutze es für Briefe, Bescheide, Formulare, Abrechnungen u. v. m. Obwohl sich auch dieses Projekt vornehmlich an kleine bis mittlere Unternehmen richtet, ist es auch ein heimlicher Star im privaten Bereich.
+[Paperless-ngx](https://paperless-ngx.com) ist diese Art Software, die man einmal installiert und dann schnell wieder vergisst. Sie arbeitet still im Hintergrund und ist dennoch unheimlich nützlich. Es handelt sich um eine digitale Dokumentenverwaltung. Wer auf ein papierloses Büro umsteigen möchte, kommt an Paperless-ngx schon fast nicht mehr vorbei. Ich nutze es für Briefe, Bescheide, Formulare, Abrechnungen u. v. m. Obwohl sich auch dieses Projekt vornehmlich an kleine bis mittlere Unternehmen richtet, ist es auch ein heimlicher Star im privaten Bereich.
 
 Mit der [Version 3](https://docs.paperless-ngx.com/changelog/#paperless-ngx-300) wurde aber nicht nur ein Breaking Change ausgeliefert, es kamen gleich neun! Also wennschon dennschon.
 
