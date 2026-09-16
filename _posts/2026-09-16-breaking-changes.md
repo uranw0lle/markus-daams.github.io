@@ -93,4 +93,4 @@ Auch die digitale Welt dreht sich immer schneller. Neue Projekte schießen wie P
 
 Mein kleines Fazit lautet wie folgt. Die Worte Breaking und Changes werden mich auch weiterhin nervös machen. Beruhigen tue ich mich mit einer guten Backup-Strategie und sauberer Dokumentation in zum Beispiel [Obsidian](https://markus-daams.com/posts/wissen-und-notizen-verwalten-mit-obsidian/). Zudem versuche ich weiterhin in Sachen Programmierung halbwegs auf dem neuesten Stand zu bleiben.
 
-Breaking Changes sind mir lieber als Preiserhöhungen :)
+Breaking Changes sind mir lieber als Preiserhöhungen 😋
