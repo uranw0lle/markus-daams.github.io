@@ -68,7 +68,7 @@ Immerhin brachte man es noch auf 5 Staffeln, aber nur 38 % Zuschauer-Score auf R
 
 Diese Serie sollte vor allem die TNG Fans abholen. Wir bekamen Picard, Riker und Troi zurück und dazu eine schnarch lahme Serie. Ich musste Picard dabei zuschauen, wie er einfach nur alt war. Ich musste meinem Helden Riker dabei zu sehen, noch älter zu sein und Troi – ist und bleibt perfekt, also keine Kritik an dieser Stelle.
 
-PIC litt, genau wie DSC an einer schwachen Story, weh ledigen und teils nervigen Charakteren und einem Plot, der mehr vom engen Produktionsbudget als von der Fantasie begabter Autoren lebte. Die dritte Staffel rettete – ein bisschen – Teile des alten TNG Geistes riss hier aber nichts mehr heraus. TNG ist Vergangenheit und für viele sicherlich das, was TOS einst für mich war – irgendwie aus der Zeit gefallen.
+PIC litt, genau wie DSC, an einer schwachen Story, weh leidigen und teils nervigen Charakteren und einem Plot, der mehr vom engen Produktionsbudget als von der Fantasie begabter Autoren lebte. Die dritte Staffel rettete – ein bisschen – Teile des alten TNG Geistes riss hier aber nichts mehr heraus. TNG ist Vergangenheit und für viele sicherlich das, was TOS einst für mich war – irgendwie aus der Zeit gefallen.
 
 Nach 3 Staffeln war hier Ende im Gelände und für manchen TNG Fan kam dieses Ende 3 Staffeln zu spät. 
 
@@ -80,7 +80,7 @@ Es handelt sich um eine animierte Serie. Mit den Kadetten der Unterdecks wollte 
 
 Ich tat mir die Serie irgendwann und aus Langeweile doch an und zugegeben, sie zündete bei mir. Es gibt zahllose Andeutungen an die alten Serien, Raumschiffe und Charaktere. Ich empfand es auch nie als „darüber lustig machen“, sondern mehr als Referenz oder als Hommage. Zudem erlebte ich endlich mal wieder konsistente Charaktere und einen halbwegs sinnvollen Story Arch, der zumindest innerhalb der Serie funktionierte. **Kleiner Spoiler** Als am Ende der Staffel 2 die USS Titan auftauchte und zum Star Trek Theme den Tag rettete, hatte ich es wieder, das alte Star Trek Feeling. **/Kleiner Spoiler**.
 
-Die tolle deutsche Synchronisation will ich hier auch noch erwähnen. 5 Staffeln wurden bisher veröffentlicht und ich weiß aktuell nicht, ob es noch weiter geht. Ich hoffe allerdings schon. 
+Die tolle deutsche Synchronisation will ich hier auch noch erwähnen. Nach 5 Staffeln ist allerdings leider schon Schluss - Amazon hat den Stecker gezogen.
 
 ## Star Trek: Strange New Worlds
 
@@ -90,7 +90,7 @@ Die Charaktere sind interessant gestaltet und die Story findet wiederum oftmals 
 
 Ich musste die Serie allerdings zweimal schauen, um sie endlich zu mögen. Für Nerds gibt es hier nichts zu sehen. Diese Serie lebt von den Charakteren und ihren Wehwehchen. Eine gut aussehende [Constitution-Klasse](https://memory-alpha.fandom.com/de/wiki/Constitution-Klasse) muss uns genügen. Diese wird aber durch annehmbare CGI toll ins Licht gesetzt.
 
-Nach 4 Staffeln ist hier allerdings Sense. Die Serie konnte nicht genügen Views generieren. 
+Bisher sind vier Staffeln erschienen. Es soll noch eine fünfte Staffel mit sechs Folgen geben. Dann scheint auch hier das Licht auszugehen. 
 
 ##  Star Trek: Starfleet Academy
 
