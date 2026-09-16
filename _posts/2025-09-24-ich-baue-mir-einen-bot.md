@@ -189,11 +189,11 @@ def generate_post_with_gemini():
 
         Gib deine Antwort ausschließlich als valides JSON-Objekt mit den Schlüsseln "title", "body" und "category" zurück.
         Beispiel:
-        {{
-          "title": "Ein Gedanke zum Wochenende",
-          "body": "Manchmal ist der beste Weg, produktiv zu sein, eine Pause zu machen. Was ladet eure Akkus wieder auf? #Wochenende #Entspannung",
-          "category": "allgemein"
-        }}
+            {
+        "title": "Ein Gedanke zum Wochenende",
+        "body": "Manchmal ist der beste Weg, produktiv zu sein, eine Pause zu machen.",
+        "category": "allgemein"
+            }
         """
 
         print("Kontaktiere Gemini-API, um einen kreativen Post zu erstellen...")
