@@ -213,7 +213,7 @@ _API-Token in AudioMuse hinterlegen (Screenshot: Markus Daams / 2026)_
 Ist das Token in AudioMuse und Navidrome hinterlegt, ist eine bidirektionale Kommunikation möglich:
 
 * AudioMuse kann Playlists generieren und auf dem Navidrome Server ablegen
-* Navidrome und Clients (die es unterstützen) können per API-Requests Playlists anfordern -> Darum kümmert sich das Plugin.
+* Navidrome und Clients (die es unterstützen) können per API-Requests Playlists anfordern -> Darum kümmert sich das Plugin
 
 Ist alles eingerichtet und läuft, geht es mit dem *Wait Game* weiter.
 
@@ -223,14 +223,14 @@ Wenn alles bereit ist, kann auf der Weboberfläche von AudioMuse unter dem Menü
 
 Wie bereits erwähnt, kann diese erste Analyse dauern. Richtig lange dauern. Hierfür habe ich dem Container allen verfügbaren RAM zur Verfügung gestellt und alle Kerne freigeschaltet. Meine ca. 22.000 Songs haben eine knappe Woche gebraucht, um analysiert zu werden. AudioMuse schnappt sich jedes einzelne File und analysiert die Lyrics, den Beat, das Tempo usw. Dieser Vorgang braucht entsprechend viel Zeit. Wie lange die erste Analyse dauert, ist jedoch von der größer der Bibliothek und der Hardware abhängig. 
 
-Jede weitere Analyse geht anschließend schneller von statten. Hierfür kann man einen Cronjob aktivieren. Dieser startet jeden Sonntag eine Suche nach neuen Liedern und analysiert diese, was dann entsprechend schneller geht.
+Jede weitere Analyse geht anschließend schneller vonstatten. Hierfür kann man einen Cronjob aktivieren. Dieser startet bei mir jeden Sonntag eine Suche nach neuen Liedern und analysiert diese. Da nur neue Lieder analysiert werden, geht das entsprechend fix.
 
-Nachdem die Analyse durchgelaufen ist, klickt man noch einmal auf **Start Clustering**. Dies geht sehr viel schneller und hat bei mir eine knappe Stunde gedauert. Mittels Clustering werden die Songs nach Ähnlichkeit gruppiert. Anschließend kann man sich seine ersten personalisierten Playlists erstellen lassen. Diese werden direkt auf den Navidrome Server geschrieben und lassen sich dort abspielen.
+Nachdem die erste Analyse durchgelaufen ist, klickt man noch einmal auf **Start Clustering**. Dies geht sehr viel schneller und hat bei mir eine knappe Stunde gedauert. Mittels Clustering werden die Songs nach Ähnlichkeit gruppiert. Anschließend kann man sich seine ersten personalisierten Playlists erstellen lassen. Diese werden direkt auf den Navidrome Server geschrieben und lassen sich dort abspielen.
 
 Wer einen ersten Blick auf seinen Musikgeschmack werfen will, sollte im Menü einmal auf **Music Map** klicken. Hier werden die einzelnen Musikstücke in ihren Clustern angezeigt.
 
 ![AudioMuse Music Map](/assets/img/audiomuse/music-plot.jpg)
-_Die Music Map visualisiert das Analyseergebnis (Screenshot: Markus Daams / 2026)_
+_Die Music Map visualisiert das Analyseergebnis. Jeder Punkt ist ein Track. (Screenshot: Markus Daams / 2026)_
 
 ## So viele Möglichkeiten
 
@@ -260,7 +260,7 @@ Du kennst den Songtitel nicht mehr, aber weißt, wie er klingt? Hier kann man ei
 8. **Lyrics Search**
 Hier kann nach dem Text gesucht werden. Das erklärt sich hoffentlich von selbst :D
 
-9. Music Map
+9. **Music Map**
 Siehe oben.
 
 10. **Sonic Fingerprint**
