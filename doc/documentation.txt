@@ -68,3 +68,20 @@ Text oben im Code Block durch eigenen ersetzen
 > Hinter diesem Kleinerzeichen steht eine Gefahr
 {: .prompt-danger}
 
+# Zitate
+
+CSS unter /home/markus/Coding/markus-daams.github.io/_site/assets/css/jekyll-theme-chirpy.css
+
+Zitat sieht dann  so aus:
+
+div class="closing-quote">
+  <blockquote>
+    „Zitate sind toll, deswegen sollten wir sie nutzen“
+  </blockquote>
+  <p class="quote-attribution">
+    – Heroplox der dezent ältere
+  </p>
+  <p class="quote-comment">
+    Ist echt so
+  </p>
+</div>
